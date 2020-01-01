@@ -1,16 +1,17 @@
 # Welcome to Gnowledge lab!
 
-## Development Projects
 
-### GNOWSYS and Gstudio
-### DOER 
-### Learning Studios 
 ## STEM Education Projects
 
 ### CUBE: Collaboratively Understanding Biology Education 
 ### MakerSpace: Making and Tinkering with / and MakerSpaces
 ### COOOL STEMGames 
 
+## Development Projects
+
+### GNOWSYS and Gstudio
+### DOER 
+### Learning Studios 
 ## Research Projects
 
 
