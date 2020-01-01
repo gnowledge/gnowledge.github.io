@@ -25,4 +25,4 @@
 
 ### Publications
 
-## Team
+## [Team](/team.html)
