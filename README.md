@@ -5,7 +5,6 @@
 ### GNOWSYS and Gstudio
 ### DOER 
 ### Learning Studios 
-### 
 ## STEM Education Projects
 
 ### CUBE: Collaboratively Understanding Biology Education 
@@ -24,4 +23,6 @@
 
 ### Shared Memory Space
 
-## 
+### Publications
+
+## Team
