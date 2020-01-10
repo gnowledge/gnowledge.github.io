@@ -2,6 +2,6 @@
 layout: default
 title: Team
 ---
-{% include _pages/header.html %}
+{% include header.html %}
 
 # this is team page.
