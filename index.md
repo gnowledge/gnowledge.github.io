@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-{% include header.html %}
+{% include menu.html %}
 {{ page.path }}
 
 # Welcome to Gnowledge lab!
