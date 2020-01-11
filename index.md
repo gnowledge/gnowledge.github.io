@@ -16,21 +16,19 @@ the world under Creative Commons license.. All the software and the
 documents are released under suitable copyleft licenses for reuse and
 global participation.
 
-## Projects
-
+## STEM Education Projects
 - CUBE: Collaboratively Understanding Biology Education 
 - MakerSpace: Making and Tinkering with / and MakerSpaces
 - COOOL STEMGames 
-
-## Development 
-
-- GNOWSYS and Gstudio
-- DOER 
-- Learning Studios
-## Research
+## Development Projects
+- GNOWSYS and Gstudio: A graph database for semantic computing
+- DOER: Distributed Decentralized Disk of Open Educational Resources 
+- Learning Studios: A customized operating system for STEM Education
+## Research Projects
   - Structure and Dynamics of Knowledge Network 
   - Concept Mapping
   - Graphicacy 
   - Shared Memory Space
+  - Roots and Branches of beingHuman
   - Publications
 
