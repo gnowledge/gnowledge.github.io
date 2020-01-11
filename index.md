@@ -1,10 +1,8 @@
 --- 
 layout: default
-title: Home
+title: Gnowledge Lab
 ---
 {% include menu.html %}
-{{ page.path }}
-
 # Welcome to Gnowledge lab!
 An R&D laboratory of [HBCSE (Homi Bhabha Centre for Science
 Education)](http://www.hbcse.tifr.res.in/), [TIFR (Tata Institute of
@@ -19,21 +17,19 @@ global participation.
 
 ## Projects
 
-### CUBE: Collaboratively Understanding Biology Education 
-### MakerSpace: Making and Tinkering with / and MakerSpaces
-### COOOL STEMGames 
+- CUBE: Collaboratively Understanding Biology Education 
+- MakerSpace: Making and Tinkering with / and MakerSpaces
+- COOOL STEMGames 
 
 ## Development 
 
-### GNOWSYS and Gstudio
-### DOER 
-### Learning Studios
+- GNOWSYS and Gstudio
+- DOER 
+- Learning Studios
 ## Research
-### Structure and Dynamics of Knowledge Network 
-### Concept Mapping
-### Graphicacy 
-### Shared Memory Space
-### Publications
+  - Structure and Dynamics of Knowledge Network 
+  - Concept Mapping
+  - Graphicacy 
+  - Shared Memory Space
+  - Publications
 
-
-## [Team](/team.html)
