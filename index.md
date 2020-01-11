@@ -1,9 +1,10 @@
 --- 
 layout: default
-title: Gnowledge Lab
+title: Welcome to Gnowledge Lab!
+description: Design and Development of Collaborative Learning Environments!
 ---
 {% include menu.html %}
-# Welcome to Gnowledge lab!
+# Bringing Culture to the foreground
 An R&D laboratory of [HBCSE (Homi Bhabha Centre for Science
 Education)](http://www.hbcse.tifr.res.in/), [TIFR (Tata Institute of
 Fundamental Research)](https://www.tifr.res.in/), Mumbai, India. The
