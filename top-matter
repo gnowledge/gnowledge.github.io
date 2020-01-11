@@ -1,7 +1,6 @@
 --- 
 layout: default
-title: Team
+title: <Title place holder>
 ---
 {% include menu.html %}
-
-# {{ page.title }}
+## {{ page.title }}

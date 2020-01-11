@@ -3,5 +3,5 @@ layout: default
 title: Team
 ---
 {% include menu.html %}
-
-# {{ page.title }}
+{{ page.path }}
+# Structure and Dynamics of Knowledge

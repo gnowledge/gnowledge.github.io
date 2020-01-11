@@ -1,7 +1,6 @@
 --- 
 layout: default
-title: Team
+title: Development Projects
 ---
 {% include menu.html %}
-
-# {{ page.title }}
+## {{ page.title }}
