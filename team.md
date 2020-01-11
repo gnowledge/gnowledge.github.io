@@ -2,6 +2,6 @@
 layout: default
 title: Team
 ---
-{% include menu.html %}
-
+{% include header.md %}
+{{ page.path }}
 # this is team page.
