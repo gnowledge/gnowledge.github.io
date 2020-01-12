@@ -14,17 +14,16 @@ develop, design and distribute information and communication technology for stud
 education and share our research and developed material to the rest of
 the world under Creative Commons license.
 
-
-
-
 ## STEM Education Projects
 - CUBE: Collaboratively Understanding Biology Education 
 - MakerSpace: Making and Tinkering with / and MakerSpaces
 - COOOL STEMGames 
+
 ## Development Projects
 - GNOWSYS and Gstudio: A graph database for semantic computing
 - DOER: Distributed Decentralized Disk of Open Educational Resources 
 - Learning Studios: A customized operating system for STEM Education
+
 ## Research Projects
 - Structure and Dynamics of Knowledge Networks 
 - Role of Linking Phrases and Representational Re-Description in Concept Mapping
@@ -32,11 +31,12 @@ the world under Creative Commons license.
 - Role of Shared Memory Space in Education
 - Roots and Branches of beingHuman
 - Cultivating and Recognition of STEM Habits/Practices
+
 ## Publications
 
 ### Contact
 Recommended way of contacting our team members is to join
 collaborative platform [COOOL
 STEMGames](https://stemgames.metastudio.org/), where you talk to all
-members of the community. Alternatively write to us addressed to 
+members of the community. Alternatively send us an email: 
 **team AT gnowledge.org**.
