@@ -56,10 +56,23 @@ header span {
   margin-top: 16px;
 }
 
+.horizontal_lines{
+  display: none;
+} 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+@media screen and (max-width: 1020px) {
+  .horizontal_lines{
+    display: block;
+  } 
+  .menu_bar{
+    display: none;
+  }
+}
+
 </style>
   </head>
   <body>
@@ -73,7 +86,7 @@ header span {
       <a href="/projects/research.html" >Research</a> |
       <a href="/team.html">Team</a> |
       </div>
-      <span style="color:#f3f3f3;font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+      <span class="horizontal_lines" style="color:#f3f3f3;font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
