@@ -50,6 +50,10 @@
   margin-left: 50px;
 }
 
+.header .span {
+  float:left;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
@@ -57,18 +61,18 @@
 </style>
   </head>
   <body>
-  <div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="/index.html" class="button fork" >Home</a> |
-  <a href="/projects/stemedu.html" >STEM Edu</a> |
-  <a href="/projects/dev.html" >Development</a> |
-  <a href="/projects/research.html" >Research</a> |
-  <a href="/team.html">Team</a> |
-</div>
-<span style="color:#f3f3f3;font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
-
 
       <header>
+      <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="/index.html" class="button fork" >Home</a> |
+      <a href="/projects/stemedu.html" >STEM Edu</a> |
+      <a href="/projects/dev.html" >Development</a> |
+      <a href="/projects/research.html" >Research</a> |
+      <a href="/team.html">Team</a> |
+      </div>
+      <span style="color:#f3f3f3;font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
