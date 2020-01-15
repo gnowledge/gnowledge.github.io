@@ -12,15 +12,95 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<style>
 
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  background-color: #bfbbbb;;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  color: #bfbbbb;;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #f3f3f3;
+  display: block;
+  transition: 0.3s;
+  text-align: left;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+  background-color: #3177cb;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 0px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+header span {
+  float: left;
+  margin-top: 16px;
+}
+
+.horizontal_lines{
+  display: none;
+} 
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+@media screen and (max-width: 1020px) {
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 36px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+  }
+  .horizontal_lines{
+    display: block;
+    margin-left: 10px;
+  } 
+  .menu_bar{
+    display: none;
+  }
+}
+
+</style>
   </head>
   <body>
 
       <header>
+      <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="/index.html" class="button fork" >Home</a> |
+      <a href="/projects/stemedu.html" >STEM Edu</a> |
+      <a href="/projects/dev.html" >Development</a> |
+      <a href="/projects/research.html" >Research</a> |
+      <a href="/team.html">Team</a> |
+      </div>
+      <span class="horizontal_lines" style="color:#f3f3f3;font-size:40px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
-
+<!--
       <div id="banner">
 
 <p align="center" color="black">
@@ -31,7 +111,7 @@
   <a href="/team.html">Team</a>
 </p>
              
-      </div><!-- end banner -->
+      </div> end banner -->
 
     <div class="wrapper">
       <nav>
@@ -48,7 +128,15 @@
           <a href="https://www.tifr.res.in/" rel="nofollow">TIFR </a>, Mumbai, India.</p>
       </footer>
     </div>
+    <script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "200px";
+}
 
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
