@@ -1,9 +1,10 @@
 --- 
 layout: default
 title: STEM Education Projects
+description: of Gnowledge Lab of HBCSE, TIFR
 ---
 {% include menu.html %}
-# {{ page.title }}
+
 
 
 ![Pedagogical Principles of Gnowledge Lab](https://metastudio.org/media/6/4/4/05185c213afa651f4629c3d365ca29ade16ff0035823111d3fdb530bac765.png)
@@ -54,15 +55,16 @@ organization, asking questions, designing experiments, modeling,
 model-based reasoning, seeking evidence, publication and
 communication.
 
-# CUBE: Collaboratively Understanding Biology Education
+# CUBE
 
-Currently, in the 8th year of operation, this project expanded in its
-scale and continued to encourage and inspire us.  As a demonstration
-of the pedagogical principles designed as a part of the gnowledge lab,
-CUBE initiative stands out as one of our major integrated initiatives,
-that has multiple implications to STEM education in the country.
+CUBE: Collaboratively Understanding Biology Education, is currently,
+in the 8th year of operation, this project expanded in its scale and
+continued to encourage and inspire us.  As a demonstration of the
+pedagogical principles designed as a part of the gnowledge lab, CUBE
+initiative stands out as one of our major integrated initiatives, that
+has multiple implications to STEM education in the country.
 
-## Pictures from CUBE Project
+Pictures from CUBE Project to be included.
 
 ## History of CUBE
 
@@ -201,8 +203,8 @@ and the reasons for adopting a particular practice.
 It is critical that the mutually synergistic communities of biology
 teachers/educators and biology researchers work together to meet the
 common goal of student-centered learning.  We have been using these
-principles in our other projects like Connected Learning Initiative
-(ClIxx) and (CLEAR).  
+principles in other projects like Connected Learning Initiative
+(ClIxx), makerSpace and STEMGames.
 
 ## Open Issues 
 
