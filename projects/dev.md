@@ -19,6 +19,7 @@ all forms of declarative and procedural knowledge as a network, and then
 develop network processing methods to create and publish knowledge as a
 network.
 
+![GNOWSYS](https://stemgames.metastudio.org/uploads/default/original/2X/e/ec4d81cc161b4732d7b927b1ef5100116c5a911d.png)
 
 
 ### Node orientated computing
