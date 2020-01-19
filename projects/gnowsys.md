@@ -205,6 +205,8 @@ You may use GNOWSYS:
     implementation. Latest implementations are
     [http://www.metaStudio.org](http://www.metastudio.org/), [https://nroer.gov.in](https://nroer.gov.in/), and [https://clixoer.tiss.edu](https://clixoer.tiss.edu).
 
+![NROER, metaStudio, CLIx](https://stemgames.metastudio.org/uploads/default/original/2X/4/45f4809b520f59bdd639df0f69f164a755f69ce9.png)
+
 ### License
 
 GNOWSYS is free software; you can redistribute it and/or modify it under
