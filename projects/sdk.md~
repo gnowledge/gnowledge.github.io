@@ -1,7 +1,0 @@
---- 
-layout: default
-title: Team
----
-{% include menu.html %}
-{{ page.path }}
-# Structure and Dynamics of Knowledge
