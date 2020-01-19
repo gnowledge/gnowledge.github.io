@@ -131,6 +131,8 @@ The \'G\' in GNOWSYS is pronounced hard just as the \'G\' in GNU.
 
 ### Features Implemented 
 
+![NROER, metaStudio, CLIx](https://stemgames.metastudio.org/uploads/default/original/2X/4/45f4809b520f59bdd639df0f69f164a755f69ce9.png)
+
 The specification is implemented currently in
 [Python](http://www.python.org/). The current implementation used
 [Django framework](https://www.djangoproject.com/).
@@ -204,8 +206,6 @@ You may use GNOWSYS:
     them. [SELF Platform](http://www.selfplatform.eu/) was our first
     implementation. Latest implementations are
     [http://www.metaStudio.org](http://www.metastudio.org/), [https://nroer.gov.in](https://nroer.gov.in/), and [https://clixoer.tiss.edu](https://clixoer.tiss.edu).
-
-![NROER, metaStudio, CLIx](https://stemgames.metastudio.org/uploads/default/original/2X/4/45f4809b520f59bdd639df0f69f164a755f69ce9.png)
 
 ### License
 
