@@ -1,11 +1,11 @@
 ### **Welcome to COOOL STEMGames!**
 
-[justify]A Collaborative platform for Open Online and Ongoing Learning through STEM (Science, Technology, Engineering, and Mathematics) games. We publish projects periodically, which are specially designed to inculcate STEM habits among participants. This platform is developed keeping in mind [21st Century Learning Goals](https://en.wikipedia.org/wiki/21st_century_skills).[/justify]
+A Collaborative platform for Open Online and Ongoing Learning through STEM (Science, Technology, Engineering, and Mathematics) games. We publish projects periodically, which are specially designed to inculcate STEM habits among participants. This platform is developed keeping in mind [21st Century Learning Goals](https://en.wikipedia.org/wiki/21st_century_skills).
 
 [To download the PDF version of this page, click here |attachment](upload://fYpm6bZrgn5LDeeksiAq8yTF1dK.pdf) (1.9 MB)
 > #### **Build a STEM Lab if you don’t have one. Make it active and vibrant if you already have one.**
 
-[center]![Cube_Lab|562x233, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)[/center]
+![Cube_Lab|562x233, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)
 
 ### **What are STEMGames?**
 
@@ -13,28 +13,30 @@ STEM Games are gamified STEM project challenges:
 * Research challenges (Laboratory or Field) 
 * Build your own lab project challenges 
 
-[justify]Most STEM research projects need a lab (unless they are field projects). Many schools and colleges do not have a lab.By participating in the projects, you can create a lab or makerspace if you don’t have one, and those of you who already have a lab can make your lab/makerspace more active and vibrant space. These projects become a context to cultivate and recognize STEM habits.[/justify] 
+Most STEM research projects need a lab (unless they are field projects). Many schools and colleges do not have a lab.By participating in the projects, you can create a lab or makerspace if you don’t have one, and those of you who already have a lab can make your lab/makerspace more active and vibrant space. These projects become a context to cultivate and recognize STEM habits.
 
 ![Cube_Investigation|560x386, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/6/68a47a7befc8387f32f758027260d7b9d80f6be9.jpeg) 
 
-#### **What does STEM stand for?**
-[justify]The acronym “STEM” is widely expanded to Science Technology Engineering and Mathematics. Often people ask if Art and Design are part of STEM. Is sociology or economics part of STEM? So, the following may help you resolve or clarify these questions.[/justify]
+![MakerSpace|560x386, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/1/1ecd8d8dc88c82db566606f412df76933a593ab0.png) 
 
-[justify]We make a distinction between content and research practices. Any subject area can be researched. STEM is considered here more synonymous with research and research tools and not identified because of content. Interpreted this way, STEMGames refer to research/academic practices.[/justify]
+#### **What does STEM stand for?**
+The acronym “STEM” is widely expanded to Science Technology Engineering and Mathematics. Often people ask if Art and Design are part of STEM. Is sociology or economics part of STEM? So, the following may help you resolve or clarify these questions.
+
+We make a distinction between content and research practices. Any subject area can be researched. STEM is considered here more synonymous with research and research tools and not identified because of content. Interpreted this way, STEMGames refer to research/academic practices.
  
 #### **Why not STEAM Games?**
-[justify]The added 'A' refers to art. We interpret the four components of STEM as sub-cultures of art itself. Thus, art is the broader umbrella of human culture. Creative use of media and tools is Art. So, STEM is subsumed under the arts. [/justify]
+The added 'A' refers to art. We interpret the four components of STEM as sub-cultures of art itself. Thus, art is the broader umbrella of human culture. Creative use of media and tools is Art. So, STEM is subsumed under the arts. 
 
-[justify]Designing and creating tools and media is engineering. Thus, the design is an integral part of engineering. We grant a collection of badges for design thinking. Research projects as a context for learning and teaching define the scope of STEMgames.[/justify] 
+Designing and creating tools and media is engineering. Thus, the design is an integral part of engineering. We grant a collection of badges for design thinking. Research projects as a context for learning and teaching define the scope of STEMgames.
 
 **STEM Habits** 
-[justify]This platform is specially designed and crafted to recognize and cultivate the habits/practices that promote STEM (Science, Technology, Engineering, Mathematics) culture in society. Each project we publish here will be mapped to specific STEM habits, and those who complete the project will be credited by awarding the specific badges. If you are interested in designing projects, you are invited too! Some of you could become referees of these projects and could grant badges to participants or design projects by becoming Staff (organizers) of this platform.[/justify] 
+This platform is specially designed and crafted to recognize and cultivate the habits/practices that promote STEM (Science, Technology, Engineering, Mathematics) culture in society. Each project we publish here will be mapped to specific STEM habits, and those who complete the project will be credited by awarding the specific badges. If you are interested in designing projects, you are invited too! Some of you could become referees of these projects and could grant badges to participants or design projects by becoming Staff (organizers) of this platform.
 
 **Why Games?** 
-[justify]Games are rule-following practices, and the rules are known to the players as well as to the spectators. Academic practices also follow rules. Often the rules are not made explicit in the conventional STEM education. When we make the rules explicit, not only the practitioners but also the spectators can develop an understanding of research and development activities that happen in STEM labs. For wider appreciation and participation of STEM projects, we label the practices in the form of habits that can be cultivated as well as recognized.[/justify] 
+Games are rule-following practices, and the rules are known to the players as well as to the spectators. Academic practices also follow rules. Often the rules are not made explicit in the conventional STEM education. When we make the rules explicit, not only the practitioners but also the spectators can develop an understanding of research and development activities that happen in STEM labs. For wider appreciation and participation of STEM projects, we label the practices in the form of habits that can be cultivated as well as recognized.
 
 **[Badges](https://stemgames.metastudio.org/badges)** 
-[justify]We grant two kinds of badges: for COOOL Habits and for STEM Habits. COOOL habits are about how civil, engaging and collaborative we are, while STEM habits are required for becoming proficient STEM practitioners. COOOL badges are granted automatically by the platform, while the STEM Habits are granted by the qualified referees whenever participants display proficiency in any of the mentioned STEM habits. Most of these badges can be granted multiple times to participants. Certificates will be awarded based on cumulative score. Eventually, we will opt for recognition from certifying agencies like education boards, UGC, academies and employment agencies like industries, entrepreneurs, Govt bodies.[/justify] 
+We grant two kinds of badges: for COOOL Habits and for STEM Habits. COOOL habits are about how civil, engaging and collaborative we are, while STEM habits are required for becoming proficient STEM practitioners. COOOL badges are granted automatically by the platform, while the STEM Habits are granted by the qualified referees whenever participants display proficiency in any of the mentioned STEM habits. Most of these badges can be granted multiple times to participants. Certificates will be awarded based on cumulative score. Eventually, we will opt for recognition from certifying agencies like education boards, UGC, academies and employment agencies like industries, entrepreneurs, Govt bodies.
 STEM Badges are classified into
 *  Mathematical 
 * Empirical 
@@ -60,24 +62,24 @@ The project is inspired by constructionist, and connectionist models of educatio
 
 **A Safe, Civilized, Collaborative Platform** 
 The platform is carefully designed and crafted for civilized discussion of research and development projects supporting: 
-➔ Conversing with each other and in groups 
-➔ Recognition of habits through conversational interaction by granting badges supported by state-of-the-art badging engine 
-➔ Curating projects and resources 
-➔ Collaborative editing of documents (Wiki) 
-➔ Control mechanisms for stopping fake and indecent communications 
-➔ Customizable notifications, email alerts and summaries 
-➔ Multilingual content 
-➔ Accessible through mobile as well as desktop computers 
-➔ Inclusive membership 
-➔ Dedicated space for partners and working groups
-➔ And many more ... 
+* Conversing with each other and in groups 
+*  Recognition of habits through conversational interaction by granting badges supported by state-of-the-art badging engine 
+*  Curating projects and resources 
+*  Collaborative editing of documents (Wiki) 
+*  Control mechanisms for stopping fake and indecent communications 
+*  Customizable notifications, email alerts and summaries 
+*  Multilingual content 
+*  Accessible through mobile as well as desktop computers 
+*  Inclusive membership 
+*  Dedicated space for partners and working groups
+*  And many more ... 
 
 **Who can participate in the STEM games?** 
 Students, teachers, teacher educators, researchers, citizen scientists, homeschooling parents/students or in fact, any curious mind. This means it is open to all. 
 
 **If you are a teacher:** The best mode of participation for teachers is to gather a group of students and send @referees of this platform a message to create a group for you. In case you want to invite other teachers or other students from the platform, please invite them to your group. Since STEM games are collaborative, group formation is recommended. Keep encouraging the students to gain badges and cultivate STEM habits, and in the process use this opportunity to see how we recognize STEM habits. 
 
-**If you are a student:** Please try to form into a group and invite a teacher/mentor who is known to you to guide/mentor while you do the projects. If you cannot find a teacher due to some reason (after you gave a serious try) please elect one of the students as a mentor. We are always there to mentor through online dialogue. Group membership need not be rigid, you may invite others whom you get to know at this platform as well. 
+**If you are a student:** Please try to form into a group and invite a teacher/mentor who is known to you to guide/mentor while you do the projects. If you cannot find a teacher due to some reason (after you gave a serious try) please select one of the students as a mentor. We are always there to mentor through online dialogue. Group membership need not be rigid, you may invite others whom you get to know at this platform as well. 
 
 **If you run a STEM Lab and you are a researcher:** Please write a note in “STEM Chat” about the work your lab does, the problem you are investigating, and opportunities of participation by others (particularly students and teachers) in your project. When you and your group of investigators join STEMGames, we can create a group for you where you can discuss your research on a regular basis, even if it is among your group. This way you give everyone an opportunity to be a spectator of your STEM labs work. The regular lab practices help us to develop STEM Habits, but most students and teachers of STEM have little access to these practices because they do not happen in an accessible space. Consider using STEM Games arena (this platform) as a place to have conversations about your research project, Every lab that joins us will be recognized as a lab partner of this platform. 
 
@@ -122,6 +124,3 @@ The Platform and Mobile App Source code is available from https://github.com/gno
 
 **Credit:**
 Figure 1 by Charles Fadel and Krishna Chaitanya Velaga - File:Framework for 21st Century Learning.jpg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77435748
-
-
-[Download the PDF version of this page |attachment](upload://fYpm6bZrgn5LDeeksiAq8yTF1dK.pdf) (1.9 MB)
