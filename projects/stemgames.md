@@ -10,7 +10,7 @@ A Collaborative platform for Open Online and Ongoing Learning through STEM (Scie
 
 >  **Build a STEM Lab if you don’t have one. Make it active and vibrant if you already have one.**
 
-![Cube_Lab|562x233, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)
+![Cube_Lab](https://stemgames.metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)
 
 ## **What are STEMGames?**
 
@@ -20,16 +20,16 @@ STEM Games are gamified STEM project challenges:
 
 Most STEM research projects need a lab (unless they are field projects). Many schools and colleges do not have a lab.By participating in the projects, you can create a lab or makerspace if you don’t have one, and those of you who already have a lab can make your lab/makerspace more active and vibrant space. These projects become a context to cultivate and recognize STEM habits.
 
-![Cube_Investigation|560x386, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/6/68a47a7befc8387f32f758027260d7b9d80f6be9.jpeg) 
+![Cube_Investigation](https://stemgames.metastudio.org/uploads/default/original/2X/6/68a47a7befc8387f32f758027260d7b9d80f6be9.jpeg) 
 
-![MakerSpace|560x386, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/1/1ecd8d8dc88c82db566606f412df76933a593ab0.png) 
+![MakerSpace](https://stemgames.metastudio.org/uploads/default/original/2X/1/1ecd8d8dc88c82db566606f412df76933a593ab0.png) 
 
 ## **What does STEM stand for?**
 The acronym “STEM” is widely expanded to Science Technology Engineering and Mathematics. Often people ask if Art and Design are part of STEM. Is sociology or economics part of STEM? So, the following may help you resolve or clarify these questions.
 
 We make a distinction between content and research practices. Any subject area can be researched. STEM is considered here more synonymous with research and research tools and not identified because of content. Interpreted this way, STEMGames refer to research/academic practices.
  
-![MakerSpace|690x318, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/e/efda8e63889c7699d842df359c34d433922506bd.png)
+![MakerSpace](https://stemgames.metastudio.org/uploads/default/original/2X/e/efda8e63889c7699d842df359c34d433922506bd.png)
  
 ## Why not STEAM Games?
 The added 'A' refers to art. We interpret the four components of STEM as sub-cultures of art itself. Thus, art is the broader umbrella of human culture. Creative use of media and tools is Art. So, STEM is subsumed under the arts. 
@@ -55,9 +55,9 @@ STEM Badges are classified into
 * Communication
 * Thinking and Reasoning
 
-![Badges|538x500](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
+![Badges](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
 
-![Badges_2|690x433](https://stemgames.metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
+![Badges_2](https://stemgames.metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
 
 ## Pedagogical Framework
 The project is inspired by constructionist, and connectionist models of education. 
@@ -128,8 +128,5 @@ Please write to us if your organization likes to join as a partner.
 The projects and resources published at the platform are released under Creative Commons License (CC By SA 4.0 unless mentioned otherwise by the contributors). 
 
 ## Free and Open Source Software
-The Platform and Mobile App Source code is available from https://github.com/gnowledge/ 
-
-**Credit:**
-Figure 1 by Charles Fadel and Krishna Chaitanya Velaga - File:Framework for 21st Century Learning.jpg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77435748
+The Platform and Mobile App Source code is available from https://github.com/gnowledge/
 
