@@ -24,6 +24,8 @@ The acronym “STEM” is widely expanded to Science Technology Engineering and 
 
 We make a distinction between content and research practices. Any subject area can be researched. STEM is considered here more synonymous with research and research tools and not identified because of content. Interpreted this way, STEMGames refer to research/academic practices.
  
+![MakerSpace|690x318, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/e/efda8e63889c7699d842df359c34d433922506bd.png)
+ 
 #### **Why not STEAM Games?**
 The added 'A' refers to art. We interpret the four components of STEM as sub-cultures of art itself. Thus, art is the broader umbrella of human culture. Creative use of media and tools is Art. So, STEM is subsumed under the arts. 
 
@@ -31,6 +33,7 @@ Designing and creating tools and media is engineering. Thus, the design is an in
 
 **STEM Habits** 
 This platform is specially designed and crafted to recognize and cultivate the habits/practices that promote STEM (Science, Technology, Engineering, Mathematics) culture in society. Each project we publish here will be mapped to specific STEM habits, and those who complete the project will be credited by awarding the specific badges. If you are interested in designing projects, you are invited too! Some of you could become referees of these projects and could grant badges to participants or design projects by becoming Staff (organizers) of this platform.
+![CUBE_1|608x500](https://stemgames.metastudio.org/uploads/default/original/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3.png) 
 
 **Why Games?** 
 Games are rule-following practices, and the rules are known to the players as well as to the spectators. Academic practices also follow rules. Often the rules are not made explicit in the conventional STEM education. When we make the rules explicit, not only the practitioners but also the spectators can develop an understanding of research and development activities that happen in STEM labs. For wider appreciation and participation of STEM projects, we label the practices in the form of habits that can be cultivated as well as recognized.
@@ -45,7 +48,8 @@ STEM Badges are classified into
 * Social 
 * Communication 
 * Thinking and Reasoning 
-
+![Badges|538x500, 100%](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
+![Badges_2|690x433](https://stemgames.metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
 
 ### **Pedagogical Framework**
 The project is inspired by constructionist, and connectionist models of education. 
