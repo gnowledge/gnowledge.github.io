@@ -40,14 +40,16 @@ Games are rule-following practices, and the rules are known to the players as we
 **[Badges](https://stemgames.metastudio.org/badges)** 
 We grant two kinds of badges: for COOOL Habits and for STEM Habits. COOOL habits are about how civil, engaging and collaborative we are, while STEM habits are required for becoming proficient STEM practitioners. COOOL badges are granted automatically by the platform, while the STEM Habits are granted by the qualified referees whenever participants display proficiency in any of the mentioned STEM habits. Most of these badges can be granted multiple times to participants. Certificates will be awarded based on cumulative score. Eventually, we will opt for recognition from certifying agencies like education boards, UGC, academies and employment agencies like industries, entrepreneurs, Govt bodies.
 STEM Badges are classified into
-*  Mathematical 
+* Mathematical 
 * Empirical 
 * Experimental 
 * Design 
 * Social 
-* Communication 
-* Thinking and Reasoning 
+* Communication
+* Thinking and Reasoning
+
 ![Badges|538x500](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
+
 ![Badges_2|690x433](https://stemgames.metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
 
 ### **Pedagogical Framework**
@@ -101,9 +103,9 @@ Students, teachers, teacher educators, researchers, citizen scientists, homescho
 **If you are a curious member of civil society:** You can become any one of the above, depending on what role you wish to play in the STEM games. You could navigate around the platform and participate in any activity in any which way you wish. Since this platform is open, online and ongoing we have a place for any curious mind interested in STEM. 
 
 >**Access Through Mobile App**  https://play.google.com/store/apps/details?id=com.stemgames
-**Access Through Internet Browser**  https://stemGames.metaStudio.org/ 
-**Follow us Through** Twitter https://twitter.com/COOOLSTEMGames 
-Write to us: Email: stemGames@gnowledge.org 
+>**Access Through Internet Browser**  https://stemGames.metaStudio.org/ 
+>**Follow us Through** Twitter https://twitter.com/COOOLSTEMGames
+>Write to us: Email: stemGames@gnowledge.org 
 
 We invite academic and implementation partnerships with private or public organizations, schools, colleges, universities and Govt departments. 
 
