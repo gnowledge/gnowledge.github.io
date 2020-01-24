@@ -2,7 +2,6 @@
 
 A Collaborative platform for Open Online and Ongoing Learning through STEM (Science, Technology, Engineering, and Mathematics) games. We publish projects periodically, which are specially designed to inculcate STEM habits among participants. This platform is developed keeping in mind [21st Century Learning Goals](https://en.wikipedia.org/wiki/21st_century_skills).
 
-[To download the PDF version of this page, click here |attachment](upload://fYpm6bZrgn5LDeeksiAq8yTF1dK.pdf) (1.9 MB)
 > #### **Build a STEM Lab if you don’t have one. Make it active and vibrant if you already have one.**
 
 ![Cube_Lab|562x233, 75%](https://stemgames.metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)
@@ -48,7 +47,7 @@ STEM Badges are classified into
 * Social 
 * Communication 
 * Thinking and Reasoning 
-![Badges|538x500, 100%](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
+![Badges|538x500](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
 ![Badges_2|690x433](https://stemgames.metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
 
 ### **Pedagogical Framework**
