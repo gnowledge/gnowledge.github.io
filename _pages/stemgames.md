@@ -102,10 +102,10 @@ Students, teachers, teacher educators, researchers, citizen scientists, homescho
 
 **If you are a curious member of civil society:** You can become any one of the above, depending on what role you wish to play in the STEM games. You could navigate around the platform and participate in any activity in any which way you wish. Since this platform is open, online and ongoing we have a place for any curious mind interested in STEM. 
 
->**Access Through Mobile App**  https://play.google.com/store/apps/details?id=com.stemgames
->**Access Through Internet Browser**  https://stemGames.metaStudio.org/ 
->**Follow us Through** Twitter https://twitter.com/COOOLSTEMGames
->Write to us: Email: stemGames@gnowledge.org 
+>**Access Through Mobile App**  https://play.google.com/store/apps/details?id=com.stemgames  
+>**Access Through Internet Browser**  https://stemGames.metaStudio.org/  
+>**Follow us Through** Twitter https://twitter.com/COOOLSTEMGames  
+>Write to us: Email: stemGames@gnowledge.org  
 
 We invite academic and implementation partnerships with private or public organizations, schools, colleges, universities and Govt departments. 
 
