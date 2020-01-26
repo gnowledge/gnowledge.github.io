@@ -22,7 +22,7 @@ among participants. This platform is developed keeping in mind [21st
 Century Learning
 Goals](https://en.wikipedia.org/wiki/21st_century_skills).
 
-[Read full details of STEMGames](https://www.gnowledge.org/projects/stemedu.html)
+[Read full details of STEMGames](https://www.gnowledge.org/projects/stemgames.html)
 
 [Visit and Learn more about the live platform](https://stemgames.metastudio.org/)
 
