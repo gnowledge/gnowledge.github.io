@@ -70,7 +70,7 @@ The project is inspired by constructionist, and connectionist models of educatio
 * A learning environment to be kept as close-to-life and as close-to- professional practices as possible. 
 * Learning to be made visible to and experienced by the learner. 
 
-![Cube_Caserie|569x269](https://stemgames.metastudio.org/uploads/default/original/2X/1/1db703f3a1c1855d9492c7f342e9cf194b5b7b54.png) 
+![Cube_Caserie](https://stemgames.metastudio.org/uploads/default/original/2X/1/1db703f3a1c1855d9492c7f342e9cf194b5b7b54.png) 
 
 ## A Safe, Civilized, Collaborative Platform 
 The platform is carefully designed and crafted for civilized discussion of research and development projects supporting: 
