@@ -10,7 +10,7 @@ A Collaborative platform for Open Online and Ongoing Learning through STEM (Scie
 
 >  **Build a STEM Lab if you don’t have one. Make it active and vibrant if you already have one.**
 
-![Cube_Lab](https://stemgames.metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)
+![Cube_Lab](https://metastudio.org/uploads/default/original/2X/5/5e0826adc66f8bae49e68bbdde45bd7eda6c78b6.png)
 
 ## **What are STEMGames?**
 
@@ -20,16 +20,16 @@ STEM Games are gamified STEM project challenges:
 
 Most STEM research projects need a lab (unless they are field projects). Many schools and colleges do not have a lab.By participating in the projects, you can create a lab or makerspace if you don’t have one, and those of you who already have a lab can make your lab/makerspace more active and vibrant space. These projects become a context to cultivate and recognize STEM habits.
 
-![Cube_Investigation](https://stemgames.metastudio.org/uploads/default/original/2X/6/68a47a7befc8387f32f758027260d7b9d80f6be9.jpeg) 
+![Cube_Investigation](https://metastudio.org/uploads/default/original/2X/6/68a47a7befc8387f32f758027260d7b9d80f6be9.jpeg) 
 
-![MakerSpace](https://stemgames.metastudio.org/uploads/default/original/2X/1/1ecd8d8dc88c82db566606f412df76933a593ab0.png) 
+![MakerSpace](https://metastudio.org/uploads/default/original/2X/1/1ecd8d8dc88c82db566606f412df76933a593ab0.png) 
 
 ## **What does STEM stand for?**
 The acronym “STEM” is widely expanded to Science Technology Engineering and Mathematics. Often people ask if Art and Design are part of STEM. Is sociology or economics part of STEM? So, the following may help you resolve or clarify these questions.
 
 We make a distinction between content and research practices. Any subject area can be researched. STEM is considered here more synonymous with research and research tools and not identified because of content. Interpreted this way, STEMGames refer to research/academic practices.
  
-![MakerSpace](https://stemgames.metastudio.org/uploads/default/original/2X/e/efda8e63889c7699d842df359c34d433922506bd.png)
+![MakerSpace](https://metastudio.org/uploads/default/original/2X/e/efda8e63889c7699d842df359c34d433922506bd.png)
  
 ## Why not STEAM Games?
 The added 'A' refers to art. We interpret the four components of STEM as sub-cultures of art itself. Thus, art is the broader umbrella of human culture. Creative use of media and tools is Art. So, STEM is subsumed under the arts. 
@@ -38,13 +38,13 @@ Designing and creating tools and media is engineering. Thus, the design is an in
 
 # STEM Habits
 This platform is specially designed and crafted to recognize and cultivate the habits/practices that promote STEM (Science, Technology, Engineering, Mathematics) culture in society. Each project we publish here will be mapped to specific STEM habits, and those who complete the project will be credited by awarding the specific badges. If you are interested in designing projects, you are invited too! Some of you could become referees of these projects and could grant badges to participants or design projects by becoming Staff (organizers) of this platform.
-![CUBE_1|608x500](https://stemgames.metastudio.org/uploads/default/original/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3.png) 
+![CUBE_1|608x500](https://metastudio.org/uploads/default/original/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3.png) 
 
 # Why Games? 
 Games are rule-following practices, and the rules are known to the players as well as to the spectators. Academic practices also follow rules. Often the rules are not made explicit in the conventional STEM education. When we make the rules explicit, not only the practitioners but also the spectators can develop an understanding of research and development activities that happen in STEM labs. For wider appreciation and participation of STEM projects, we label the practices in the form of habits that can be cultivated as well as recognized.
 
 # Badges 
-We grant two kinds of [badges](https://stemgames.metastudio.org/badges): for COOOL Habits and for STEM Habits. COOOL habits are about how civil, engaging and collaborative we are, while STEM habits are required for becoming proficient STEM practitioners. COOOL badges are granted automatically by the platform, while the STEM Habits are granted by the qualified referees whenever participants display proficiency in any of the mentioned STEM habits. Most of these badges can be granted multiple times to participants. Certificates will be awarded based on cumulative score. Eventually, we will opt for recognition from certifying agencies like education boards, UGC, academies and employment agencies like industries, entrepreneurs, Govt bodies.
+We grant two kinds of [badges](https://metastudio.org/badges): for COOOL Habits and for STEM Habits. COOOL habits are about how civil, engaging and collaborative we are, while STEM habits are required for becoming proficient STEM practitioners. COOOL badges are granted automatically by the platform, while the STEM Habits are granted by the qualified referees whenever participants display proficiency in any of the mentioned STEM habits. Most of these badges can be granted multiple times to participants. Certificates will be awarded based on cumulative score. Eventually, we will opt for recognition from certifying agencies like education boards, UGC, academies and employment agencies like industries, entrepreneurs, Govt bodies.
 
 STEM Badges are classified into
 * Mathematical 
@@ -55,9 +55,9 @@ STEM Badges are classified into
 * Communication
 * Thinking and Reasoning
 
-![Badges](https://stemgames.metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
+![Badges](https://metastudio.org/uploads/default/original/2X/c/c36d757ab3b0de4dcd1f1ad369d2d3a2767b2a69.png) 
 
-![Badges_2](https://stemgames.metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
+![Badges_2](https://metastudio.org/uploads/default/original/2X/3/3fc1b24760716768bd3b89f4299821f6839cdee4.png) 
 
 ## Pedagogical Framework
 The project is inspired by constructionist, and connectionist models of education. 
@@ -70,7 +70,7 @@ The project is inspired by constructionist, and connectionist models of educatio
 * A learning environment to be kept as close-to-life and as close-to- professional practices as possible. 
 * Learning to be made visible to and experienced by the learner. 
 
-![Cube_Caserie](https://stemgames.metastudio.org/uploads/default/original/2X/1/1db703f3a1c1855d9492c7f342e9cf194b5b7b54.png) 
+![Cube_Caserie](https://metastudio.org/uploads/default/original/2X/1/1db703f3a1c1855d9492c7f342e9cf194b5b7b54.png) 
 
 ## A Safe, Civilized, Collaborative Platform 
 The platform is carefully designed and crafted for civilized discussion of research and development projects supporting: 
@@ -110,7 +110,7 @@ Students, teachers, teacher educators, researchers, citizen scientists, homescho
 **If you are a curious member of civil society:** You can become any one of the above, depending on what role you wish to play in the STEM games. You could navigate around the platform and participate in any activity in any which way you wish. Since this platform is open, online and ongoing we have a place for any curious mind interested in STEM. 
 
 >**Access Through Mobile App**  https://play.google.com/store/apps/details?id=com.stemgames  
->**Access Through Internet Browser**  https://stemGames.metaStudio.org/  
+>**Access Through Internet Browser**  https://metaStudio.org/  
 >**Follow us Through** Twitter https://twitter.com/COOOLSTEMGames  
 >**Write to us: Email** stemGames@gnowledge.org  
 

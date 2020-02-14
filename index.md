@@ -1,4 +1,4 @@
---- 
+-- 
 layout: default
 title: Welcome to Gnowledge Lab!
 description: Design and Development of Collaborative STEM Engagements!
@@ -37,6 +37,6 @@ the world under Creative Commons license.
 ### Contact
 Recommended way of contacting our team members is to join
 collaborative platform [COOOL
-STEMGames](https://stemgames.metastudio.org/), where you could talk to all
+STEMGames](https://metastudio.org/), where you could talk to all
 members of the community. Alternatively send us an email: 
 **team AT gnowledge.org**.
