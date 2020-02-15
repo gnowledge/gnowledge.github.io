@@ -1,4 +1,4 @@
--- 
+--- 
 layout: default
 title: Welcome to Gnowledge Lab!
 description: Design and Development of Collaborative STEM Engagements!
