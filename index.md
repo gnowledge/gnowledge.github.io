@@ -2,12 +2,8 @@
 layout: default
 title: Welcome to Gnowledge Lab!
 description: Design and Development of Collaborative STEM Engagements!
-
-menu: {% include menu.html %}
 ---
-
----
-
+{% include menu.html %}
 # Bringing Culture to the Foreground of Education
 An R&D laboratory of [HBCSE (Homi Bhabha Centre for Science
 Education)](http://www.hbcse.tifr.res.in/), [TIFR (Tata Institute of
