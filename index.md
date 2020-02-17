@@ -2,6 +2,7 @@
 layout: default
 title: Welcome to Gnowledge Lab!
 description: Design and Development of Collaborative STEM Engagements!
+menu: {% include menu.html %}
 ---
 {% include menu.html %}
 # Bringing Culture to the Foreground of Education
