@@ -64,6 +64,9 @@ header span {
 .menu_bar a{
   color:#fff;
 }
+.menu_bar a:hover{
+  color:#33FFFF;
+}
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
@@ -105,7 +108,7 @@ header span {
 
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-        <p>{% include menu.html %}</p>
+        <h3>{% include menu.html %}</h3>
       </header>
 <!--
       <div id="banner">
