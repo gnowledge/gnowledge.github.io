@@ -2,7 +2,7 @@
 layout: default
 title: Research Projects
 ---
-{% include menu.html %}
+<!---{% include menu.html %}--->
 ## {{ page.title }}
 # Concept Mapping
 
