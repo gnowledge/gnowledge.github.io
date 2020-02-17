@@ -3,7 +3,7 @@ layout: default
 title: Development Projects
 description: of Gnowledge Lab of HBCSE, TIFR
 ---
-{% include menu.html %}
+<!---{% include menu.html %}--->
 
 # GNOWSYS and Gstudio
 

@@ -3,7 +3,7 @@ layout: default
 title: STEM Education Projects
 description: of Gnowledge Lab of HBCSE, TIFR
 ---
-{% include menu.html %}
+<!---{% include menu.html %}--->
 
 
 

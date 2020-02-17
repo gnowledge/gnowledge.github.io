@@ -2,7 +2,7 @@
 layout: default
 title: Team
 ---
-{% include menu.html %}
+<!---{% include menu.html %}--->
 
 # {{ page.title }}
 ## Under Construction! 

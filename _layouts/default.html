@@ -60,6 +60,24 @@ header span {
 .horizontal_lines{
   display: none;
 } 
+
+.menu_bar{
+  margin-top: 10px;
+  padding-bottom: -20px;
+}
+
+.menu_bar a{
+  color:#fff;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.menu_bar a:hover{
+  color:#33FFFF;
+}
+.menu-header{
+  padding-bottom: 20px;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
@@ -87,7 +105,7 @@ header span {
   </head>
   <body>
 
-      <header>
+      <header class="menu-header">
       <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <a href="/index.html" class="button fork" >Home</a> |
@@ -100,6 +118,7 @@ header span {
 
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <h3>{% include menu.html %}</h3>
       </header>
 <!--
       <div id="banner">
