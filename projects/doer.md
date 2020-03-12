@@ -3,7 +3,7 @@ layout: default
 title: Decentralized Distributed Disk of Offline OER
 description: A Project of Gnowledge Lab of HBCSE, TIFR
 ---
-{% include menu.html %}
+
 
 # DOER: Distributable Offline OER
 
