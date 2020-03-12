@@ -1,9 +1,9 @@
 --- 
 layout: default
 title: Research Projects
+description: of gnowledge lab of HBCSE, TIFR
 ---
-<!---{% include menu.html %}--->
-## {{ page.title }}
+
 # Concept Mapping
 
 (Meena Kharatmal and Nagarjuna)
@@ -62,7 +62,6 @@ geocentric and heliocentric models from the history of astronomy.
 # Social Cognition
 
 **Construction of Scientific Knowledge in a Collaborative Sharing and Seeking environment, (Shraddha Gumre and Nagarjuna)**
-
 
 
 The research begun as a part of the CUBE project, it is an ongoing
