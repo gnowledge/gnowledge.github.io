@@ -7,8 +7,8 @@ description: of Gnowledge Lab of HBCSE, TIFR
 
 
 
-![Pedagogical Principles of Gnowledge Lab](https://metastudio.org/media/6/4/4/05185c213afa651f4629c3d365ca29ade16ff0035823111d3fdb530bac765.png)
-
+html ![Pedagogical Principles of Gnowledge Lab](https://metastudio.org/media/6/4/4/05185c213afa651f4629c3d365ca29ade16ff0035823111d3fdb530bac765.png)
+![STEMGames Logo](https://metastudio.org/uploads/default/original/1X/39d3aab369cc8f9235f8ca03bc57a2e2418867d4.png)
 # COOOL STEMGames
 
 STEMGames is an online platform teacher, students, educators,
@@ -39,7 +39,7 @@ authentic exposure to scientific practices is almost impossible given
 the current emphasis on the nature of laboratory practicals in the
 curriculum.
 
-An Image of MakerSpace
+![An Image of MakerSpace](https://metastudio.org/uploads/default/optimized/2X/e/efda8e63889c7699d842df359c34d433922506bd_2_517x238.png)
 
 This project proposes to remedy the situation by developing
 activity-based professional development of teachers (particularly
