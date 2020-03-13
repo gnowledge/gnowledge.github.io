@@ -59,7 +59,7 @@ communication.
 
 # CUBE
 
-![CUBE Logo](https://metastudio.org/uploads/default/original/2X/2/2612883b207547b399ce35d634727c38c4793f0d.png0
+![CUBE Logo](https://metastudio.org/uploads/default/original/2X/2/2612883b207547b399ce35d634727c38c4793f0d.png)
 
 CUBE: Collaboratively Understanding Biology Education, is currently,
 in the 8th year of operation, this project expanded in its scale and
