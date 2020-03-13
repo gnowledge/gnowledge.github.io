@@ -93,5 +93,42 @@ which runs on the One Laptop Per Child (OLPC).
 ![DVD Cover of Learning Studios](https://metastudio.org/uploads/default/original/2X/a/adb8c5ba5ac40d82fb71ba9b709fe4718dc126d9.png)
 
 ## MOOC on Digital Literacy
-## MOOC on An Invitation to Connected Learning Initiative (CLIx)
+
+**Nagarjuna G., Amit Dhakulkar, Chandita Mukherjee, \\
+Arun Ganesh, Haimanti Pakrashi**
+
+The Digital Literacy course intends to empower the learners to use
+digital resources effectively and collaboratively. Digital Literacy is
+a core course of the NUSSD (National Unviersity Students Skill
+Devleopment) project coordinated by TISS (Tata Institute of
+Fundamental Research). The skills acquired during this course will be
+lifelong in nature. In Digital Literacy course the approach is
+collaborative and project based. In this framework, a series of
+challenges will be placed before students which they will have to work
+through by doing and discovering. The assessment of the students will
+be based on the quality of results they produce and the self-learning
+that they demonstrate. Both peer-to-peer and mentor assessment will be
+employed in the evaluation of the students. Implemented in this way
+the Digital Literacy course borrows the central ideas of open online,
+collaborative, peer-2-peer model of learning using connectionist and
+constructionist methods.
+
+The Digital Literacy course is planned with certain design principles
+in mind. These design principles have construction, collaboration and
+the community as central strands around which the course structure is
+woven. Since the course itself will be implemented with National
+Service Scheme (NSS) volunteers, we found it imperative that the
+guiding principles of NSS should also find reflection in the course
+structure. The objectives of the NSS programme are strongly connected
+to the community around the participating students. In case of Digital
+Literacy also the community plays a central role in the projects done
+by the participating learners.
+
+This course is delivered to more than 20,000 students across India by
+the NUSSD program, and the course is still being offered. [An online archived version of thhe MOOC course is available from here.](http://courses.metastudio.org/courses/gnowledgeLab/DL101/2014/about)
+
+[Download the PDF document describing the Course](http://gnowledge.org/~nagarjun/dl-booklet-3.0.-gn.pdf)
+
+## An Invitation to Connected Learning Initiative (CLIx)
+
 

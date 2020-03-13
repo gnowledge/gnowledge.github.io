@@ -59,6 +59,8 @@ communication.
 
 # CUBE
 
+![CUBE Logo](https://metastudio.org/uploads/default/original/2X/2/2612883b207547b399ce35d634727c38c4793f0d.png0
+
 CUBE: Collaboratively Understanding Biology Education, is currently,
 in the 8th year of operation, this project expanded in its scale and
 continued to encourage and inspire us.  As a demonstration of the
@@ -66,7 +68,8 @@ pedagogical principles designed as a part of the gnowledge lab, CUBE
 initiative stands out as one of our major integrated initiatives, that
 has multiple implications to STEM education in the country.
 
-Pictures from CUBE Project to be included.
+![CUBE participants](https://stemgames.metastudio.org/uploads/default/optimized/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3_2_608x500.png)
+
 
 ## History of CUBE
 

@@ -14,6 +14,9 @@ develop, design and distribute information and communication technology for stud
 education and share our research and developed material to the rest of
 the world under Creative Commons license.
 
+The unusually spelled term "gnowledge" is an inspiration from the [GNU
+project](https://www.gnu.org/). The lab is also unusual for its explicit declaration to a social committment as mentioned in the [gnowledge manifesto][https://gnowledge.org/manifesto.html].
+
 ## STEM Education Projects
 - CUBE: Collaboratively Understanding Biology Education 
 - MakerSpace: Making and Tinkering with / and MakerSpaces
