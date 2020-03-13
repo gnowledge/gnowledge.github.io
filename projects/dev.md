@@ -36,9 +36,34 @@ a frame.
 
 # DOER: Disk of OER
 
-DOER (**Distributed Decentralized DISK of Open Online Ongoing Engagement Repository**): Our innovations in technology often involve integrating existing technologies for addressing the needs of remote locations. We provide fast Internet as well as a bleeding-edge data center in places where ISPs do not reach. This data center that is delivered as an inter-operable  DISK which provides access to sophisticated communication and social networking platform for remote areas. Other similar projects done elsewhere in the world, e.g. Internet-in-a-Box focus on delivering content. While, we focus on the remote communities as producers and not merely consumers of content created elsewhere. Therefore, we package multiple servers that provide Communication and Production Studio that works off the grid in any operating system on a single regular desktop machine using cutting-edge container technology using commodity-ware wireless (radios). 
+DOER (**Distributed Decentralized DISK of Open Online Ongoing
+Engagement Repository**): Our innovations in technology often involve
+integrating existing technologies for addressing the needs of remote
+locations. We provide fast Internet as well as a bleeding-edge data
+center in places where ISPs do not reach. This data center that is
+delivered as an inter-operable DISK which provides access to
+sophisticated communication and social networking platform for remote
+areas. Other similar projects done elsewhere in the world,
+e.g. Internet-in-a-Box focus on delivering content. While, we focus on
+the remote communities as producers and not merely consumers of
+content created elsewhere. Therefore, we package multiple servers that
+provide Communication and Production Studio that works off the grid in
+any operating system on a single regular desktop machine using
+cutting-edge container technology using commodity-ware wireless
+(radios).
 
-This disk provides fast internet experience along with collaborative workspaces with a ledger, analytics, transmitting and syncing mechanisms to visualize their activities, peer to peer feedback to generate qualitative and quantitative index of their performance.  These inter-operable disks are currently being piloted and sent to remote schools in four states in India through the CLIx project in collaboration with Tata Trusts, TISS and NCERT and we are receiving encouraging stories and feedback from them. What we are shipping currently are showcased here: [http://nroer.gov.in/](http://nroer.gov.in/), [https://clixplatform.tiss.edu](https://clixplatform.tiss.edu) and [http://doer.metastudio.org/](http://doer.metastudio.org/) 
+This disk provides fast internet experience along with collaborative
+workspaces with a ledger, analytics, transmitting and syncing
+mechanisms to visualize their activities, peer to peer feedback to
+generate qualitative and quantitative index of their performance.
+These inter-operable disks are currently being piloted and sent to
+remote schools in four states in India through the CLIx project in
+collaboration with Tata Trusts, TISS and NCERT and we are receiving
+encouraging stories and feedback from them. What we are shipping
+currently are showcased here:
+[http://nroer.gov.in/](http://nroer.gov.in/),
+[https://clixplatform.tiss.edu](https://clixplatform.tiss.edu) and
+[http://doer.metastudio.org/](http://doer.metastudio.org/)
 
 [Read more details about what DOER DISK contains.](https://www.gnowledge.org/projects/doer.html)
 

@@ -267,7 +267,38 @@ online at [https://clixplatform.tiss.edu/](https://clixplatform.tiss.edu/), and 
 [https://github.com/gnowledge/gstudio](https://github.com/gnowledge/gstudio) as DLKIT branch.
 The main contribution of the gnowledge lab has been to develop the software of the platform based on the flagship project of the lab (GStudio).
 
-The multi-partner CLIx project was awarded the UNESCO King Hamad Bin
-Isa Al-Khalifa ICT in Education for the year 2017.  Award received
-2018.
+![CLIx Platform Installed in over 540 schools across 4 states in India](https://metastudio.org/uploads/default/original/2X/0/0ce360844572fdafb71237260944c8f77e16f69e.jpeg)
+
+The multi-partner CLIx project was awarded the **UNESCO King Hamad Bin
+Isa Al-Khalifa ICT in Education for the year 2017**.  Award received
+2018. 
+
+CLIx also won **Open Collaboration Award for Excellence 2019** from
+the Open Education Consortium (OEC). The award says: "A bold and
+innovative intervention with global relevance to improve the quality
+of teaching and learning in the public education systems in India. The
+overarching goal is to demonstrate quality at scale through meaningful
+use of new media and digital technologies in resource constrained
+contexts."
+
+Gnowledge lab at HBCSE contributes to the CLIx by advising and
+assisting CLIx technology team for the design, development,
+integration and deployment of CLIx platform – a next generation
+digital learning platform which is both a course maker (CMS) and a
+course player (LMS). The CLIx platform is powered by gstudio, which is
+a node based framework for learning technologies developed at the
+Gnowledge lab. The platform hosts all the CLIx students modules and
+works both online as well as offline. The lab also developed
+installation technology for distribution of the platform in the remote
+schools which fosters connected learning in disconnected spaces
+through the concept of internet in a box. The team at HBCSE
+collaborates with MIT technology team to integrate the Open Assessment
+Tool and Open Assessment Client with the platform. The Gnowledge lab
+is also involved in the CLIx OER release.
+
+The HBCSE has contributed to CLIx in the design and development of i2C
+– a digital literacy course for high school students. The HBCSE staff
+actively contribute towards the technology transfer to CLIx
+implementation teams by conducting workshops, training teachers and
+providing technical support on an ongoing basis.
 
