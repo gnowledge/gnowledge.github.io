@@ -3,7 +3,7 @@ layout: default
 title: STEMGames
 description: a Project of Gnowledge Lab of HBCSE, TIFR
 ---
-{% include menu.html %}
+
 # {{ page.title }}
 
 A Collaborative platform for Open Online and Ongoing Learning through STEM (Science, Technology, Engineering, and Mathematics) games. We publish projects periodically, which are specially designed to inculcate STEM habits among participants. This platform is developed keeping in mind [21st Century Learning Goals](https://en.wikipedia.org/wiki/21st_century_skills).
