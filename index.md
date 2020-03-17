@@ -35,6 +35,11 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 - Roots and Branches of beingHuman
 - Cultivating and Recognition of STEM Habits/Practices
 
+## Resources
+- [CUBE Projects](https://www.gnowledge.org/resources-cube.html)
+- [MakerSpace Projects](https://www.gnowledge.org/resources-makerspace.html)
+- [Digital Studio Projects](https://www.gnowledge.org/resources-digitalstudio.html)
+
 ## Publications
 
 ## Team
