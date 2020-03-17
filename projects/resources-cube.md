@@ -3,7 +3,7 @@ layout: default
 title: STEM Projects
 description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 ---
-## STEM Investigation Projects - CUBE
+## STEM Investigation Projects - [CUBE](https://www.gnowledge.org/projects/cube.html)
 
 Model Organism                  |
 -----------------|
@@ -146,3 +146,7 @@ Let us have a field visit to map some of the trees found in our immediate locali
 
 For more details visit STEMGames: [Link](https://stemgames.metastudio.org/t/tree-mapping-activity/1043)  
 Go to top: [Link](#stem-investigation-projects---cube)
+
+
+-------
+If you are interested to know more about the group, you are visit [CUBE](https://www.gnowledge.org/projects/cube.html)
