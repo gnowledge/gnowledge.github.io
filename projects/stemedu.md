@@ -3,30 +3,49 @@ layout: default
 title: STEM Education Projects
 description: of Gnowledge Lab of HBCSE, TIFR
 ---
-<!---{% include menu.html %}--->
+# Pedagogical Framework - PBL and Discourse
+Project based learning and discourse has been very central to the Gnowledge lab's approach. This is inspired by constructionist, and connectionist models of education. The **pedagogical framework** guiding the design of learning environment is elicited below:
+* The best context for learning is written, verbal and expressive conversation in a constructive playful environment. 
+* The context for conversation is a research and development project. 
+* Bring cultural practices, such as STEM habits, into the foreground, while keeping the content in the background. 
+* Learning happens through assimilation and accommodation of knowledge in the form of a network of actions performed by socially networked agents. 
+* Knowledge is generated and propagated through recurring action patterns (action schemas), called habits. 
+* A collaborative, friendly, safe and negotiable learning environment is required for inclusive education. 
+* A learning environment to be kept as close-to-life and as close-to- professional practices as possible. 
+* Learning to be made visible to and experienced by the learner.
 
+## Nature of projects
+* The projects are interdisciplinary in nature and its development can happen across the 3 workspaces - CUBE, MakerSpace, DigitalStudio.
+* The projects focuses on generic and transferable competencies such as fabrication, tinkering, data collection, measurement, calibration, analysis, data visualization, knowledge organization, asking questions, designing experiments, design-thinking, modeling, model-based reasoning, seeking evidence, publication and communication. 
+* Citizen science and field projects are deployed outside the studios
+* The projects are designed as challenges with minimal instructions to encourage innovation and creativity.
+* The activities involved in the projects are going to be framed expansively, where investigation of one facet of the problem could lead to another, thereby positioning the participant to be involved in an ongoing intellectual exercise. This has the potential to nurture a sense of authorship and agency among the participants. 
 
+# WorkSpaces
 
-![STEMGames Logo](https://metastudio.org/uploads/default/original/1X/39d3aab369cc8f9235f8ca03bc57a2e2418867d4.png)
-# COOOL STEMGames
+## CUBE (for investigative projects)
+![CUBE Logo](https://metastudio.org/uploads/default/original/2X/2/2612883b207547b399ce35d634727c38c4793f0d.png)
 
-STEMGames is an online platform teacher, students, educators,
-researchers, parents, or any citizen can collectively participate in
-the process of knowledge construction via participating in discussion
-and project challenges. It's a collaborative Platform for Open Online
-and Ongoing Learning to nurture research practices.  We publish
-STEM(Science, Technology, Engineering, and Mathematics) projects
-periodically, which are specially designed to inculcate STEM habits
-among participants. This platform is developed keeping in mind [21st
-Century Learning
-Goals](https://en.wikipedia.org/wiki/21st_century_skills).
+CUBE: Collaboratively Understanding Biology Education, is currently, in the 8th year of operation, this project expanded in its scale and continued to encourage and inspire us.  As a demonstration of the pedagogical principles designed as a part of the gnowledge lab, CUBE initiative stands out as one of our major integrated initiatives, that as multiple implications to STEM education in the country.
 
-[Read full details of STEMGames](https://www.gnowledge.org/projects/stemgames.html)
+![CUBE participants](https://stemgames.metastudio.org/uploads/default/optimized/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3_2_608x500.png) 
 
-[Visit and Learn more about the live platform](https://stemgames.metastudio.org/)
+The CUBE project started as a 5-week hands-on research experience based on ‘Simple Model Systems’ like daphnia, Drosophila, snails, in the summer of 2012. The first phase saw the participation of only 18 students from 4 different colleges in Mumbai. Working on these simple model systems, the participants engaged in some frontline questions regarding the molecular basis of learning and memory, epigenetics, regeneration, decision-making, biological rhythms, etc. What happened next is more unconventional as this model of undergraduate research proved to be beyond ‘apprenticeship model’ wherein students are trained in a one-time workshop. It showed cascade effect as more and more colleges continued to be roped in as participating colleges and required them to establish ‘simple model systems’ based research labs in their colleges and initiate neighborhood colleges into already expanding CUB research program. These student-centered frugal research labs showed open-ended, interactive, inquiry-driven, collaborative and context-bound biology research undertaken by these students. The model systems and the techniques introduced in these labs are incredibly inexpensive and yet raise sophisticated questions and initiated students into the broader scientific practice wherein they engaged in frontline questions through these simple model systems.
 
+[Read full details about CUBE](cube.html)
 
-# MakerSpace 
+[CUBE Project Details](resources-cube.html)
+_____
+## MakerSpaces (for development projects)
+HBCSE has launched a new initiative to support and improve the quality of engagements in the makerspaces and tinkering labs that are being setup in many schools across the country. This makerspace follows the CUBE (Collaborative Understanding of Biology Education) model of project based STEM (Science, Technology, Engineering, Mathematics) education, which focuses on conversations around making and investigative projects. The engagements emphasize documenting the process of making and investigations as a primary goal, with a lesser emphasis on finishing the project. This design creates sufficient opportunities for all the members to engage in conversations based on written and digital media, which are essential for authentic learning. We developed a sophisticated platform that awards badges based on the activity of each registered user. We regularly conduct workshops for teachers (along with students).
+
+A space for design, making, fabrication, engineering projects. 
+Here are the key activities of makerspace:
+Design, development of new project challenges in the form of projects and interactive exhibits
+Documentation, discussion and sharing on the online platform (metastudio.org)
+Research in the area of exploring the potentiality of  makerspace as a learning environment.
+Empowering the schools/colleges/institutions to start community makerspace and support them in the endeavor to be self-reliant to do all the above.
+
 Expanding the participatory base of science depends on the
 availability of accessible, functional labs and field programs in
 schools and colleges. Most Indian schools do not have science,
@@ -56,23 +75,27 @@ organization, asking questions, designing experiments, modeling,
 model-based reasoning, seeking evidence, publication and
 communication.
 
-[Read full details about MakerSpace](https://www.gnowledge.org/projects/makerspace.html)
+[Read full details about MakerSpace](makerspace.html)
 
+[MakerSpace Project Details](resources-makerspace.html)
 
-# CUBE
+____
 
-![CUBE Logo](https://metastudio.org/uploads/default/original/2X/2/2612883b207547b399ce35d634727c38c4793f0d.png)
+## Digital Studio 
+A computer lab for doing I and II using digital applications such as simulations, computer graphics, mathematical and geometric calculators, data visualizations, statistics, report writing and last but not least conversations in an online forum.  
 
-CUBE: Collaboratively Understanding Biology Education, is currently,
-in the 8th year of operation, this project expanded in its scale and
-continued to encourage and inspire us.  As a demonstration of the
-pedagogical principles designed as a part of the gnowledge lab, CUBE
-initiative stands out as one of our major integrated initiatives, that
-has multiple implications to STEM education in the country.
+### COOOL STEM Games Platform 
+![STEMGames Logo](https://metastudio.org/uploads/default/original/1X/39d3aab369cc8f9235f8ca03bc57a2e2418867d4.png)
 
-![CUBE participants](https://stemgames.metastudio.org/uploads/default/optimized/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3_2_608x500.png)
+All the activities of the above physical spaces will be supported by an online platform called - COOOL STEM Games. (COOOL is Collaborative Open Online and Ongoing Learning to nurture research/STEM practices.) The platform was launched on 15th July 2019 and has now a user base of 1000+ participants. The effort is to make a vibrant community of practice for teachers, students, educators, researchers, parents, or any citizen who can collectively participate in the process of knowledge construction via discussions and attempting to solve project challenges. The team also publishes STEM (Science, Technology, Engineering, and Mathematics) projects challenges periodically, which are specially designed to inculcate STEM habits among participants, keeping in mind [21st
+Century Learning
+Goals](https://en.wikipedia.org/wiki/21st_century_skills). The platform link is https://metastudio.org/ 
 
-[Read full details about CUBE](https://www.gnowledge.org/projects/cube.html)
+[Read full details of STEMGames](https://www.gnowledge.org/projects/stemgames.html)
+
+[Visit and Learn more about the live platform](https://stemgames.metastudio.org/)
+
+____
 
 # CLIx: Connected Learning Initiative 
 
