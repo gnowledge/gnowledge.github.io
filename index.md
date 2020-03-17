@@ -17,17 +17,17 @@ the world under Creative Commons license.
 The unusually spelled term "gnowledge" is an inspiration from the [GNU
 project](https://www.gnu.org/). The lab is also unusual for its explicit declaration to a social committment as mentioned in the [gnowledge manifesto](https://www.gnowledge.org/projects/manifesto.html).
 
-## [STEM Education Projects](https://www.gnowledge.org/projects/stemedu.html)
+## STEM Education Projects
 - [CUBE: Collaboratively Understanding Biology Education](https://www.gnowledge.org/projects/cube.html) 
 - [MakerSpace: Making and Tinkering with / and MakerSpaces]()
 - [COOOL STEMGames](https://www.gnowledge.org/projects/stemgames.html)
 
-## [Development Projects](https://www.gnowledge.org/projects/dev.html)
+## Development Projects
 - [GNOWSYS and Gstudio: A graph database for semantic computing]()
 - [DOER: Distributed Decentralized Disk of Open Educational Resources]() 
 - [Learning Studios: A customized operating system for STEM Education]()
 
-## [Research Projects](https://www.gnowledge.org/projects/research.html)
+## Research Projects
 - Structure and Dynamics of Knowledge Networks 
 - Role of Linking Phrases and Representational Re-Description in Concept Mapping
 - Critical Graphicacy
@@ -35,7 +35,7 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 - Roots and Branches of beingHuman
 - Cultivating and Recognition of STEM Habits/Practices
 
-## [Publications]()
+## Publications
 
 ### Contact
 Recommended way of contacting our team members is to join
