@@ -6,7 +6,7 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 # {{ page.title }}
 
 ## DIY Gaming Station
-![DIY Gaming Station](https://stemgames.metastudio.org/uploads/default/original/2X/e/ebdbcfc85ee04c183b3aea2a692a339386db388e.jpeg)
+![DIY Gaming Station](https://metastudio.org/uploads/default/original/2X/e/e4cf13b25de6a9cad1ad4851321a14ccaa49a141.png)
 
 DIY gaming station is an array of neopixel LEDs which provides a
 canvas to design your own game. Its made using arduino and neopixel
@@ -17,7 +17,7 @@ pick up electronics, programming, and fundamentals of physics in an
 engaging and meaningful manner.
 
 ## MicroWeather Station
-![DIY MicroWeather Station](https://stemgames.metastudio.org/uploads/default/original/2X/a/a9a3208e581eb4808764effd42adde3ba007cc67.jpeg)
+![DIY MicroWeather Station](https://metastudio.org/uploads/default/original/2X/0/0f92cb3c8aea27cead8865c2ccba6043a81a8aee.png)
 
 Micro Weather Station is a cost-effective DIY FOSS weather station
 developed using the Arduino Mega to provide the weather parameters
@@ -27,7 +27,7 @@ visualized in real time.  The data collected might be useful for the
 further analysis, detecting patterns, plotting graphs, prediction etc.
 
 ## AeroPonics
-![AeroPonics](https://stemgames.metastudio.org/uploads/default/original/2X/3/3ce9b427629e09cbf34f6af266645ae8fbc8913f.jpeg)
+![AeroPonics](https://metastudio.org/uploads/default/original/2X/2/27d5842b11680202311ac948ad1ae3d880ba4a61.png)
 Aeroponics is the process of growing plants in an air or mist environment without the use of soil or an aggregate medium. Here, we have used a PVC pipe to make slots where the plants can be kept. The water is raised up using the motor and then drips through the plants' roots. There is an inbuilt timer which makes the motor switch on and off in a cyclic period of a minute.
 
 ## DIY Microscope
