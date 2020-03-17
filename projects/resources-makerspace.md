@@ -3,7 +3,7 @@ layout: default
 title: STEM Projects
 description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 ---
-## STEM Development Projects - MakerSpace
+## STEM Development Projects - [MakerSpace](makerspace.html)
 
 Project Name                  |
 -----------------|
