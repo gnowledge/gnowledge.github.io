@@ -86,4 +86,4 @@ For more details visit STEMGames: [Link]()
 Go to top: [Link](#stem-development-projects---makerspace)
 
 ---------
-If you are interested to know more about the group, you are visit [MakerSpace](https://www.gnowledge.org/projects/makerspace.html)
+If you are interested to know more about the group, you can visit [MakerSpace ](https://www.gnowledge.org/projects/makerspace.html)
