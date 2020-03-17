@@ -3,7 +3,6 @@ layout: default
 title: GNOWSYS 
 description: A Project of Gnowledge Lab of HBCSE, TIFR
 ---
-{% include menu.html %}
 
 # GNOWSYS and Gstudio
 
