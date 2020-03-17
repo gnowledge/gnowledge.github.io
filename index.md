@@ -37,6 +37,9 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 
 ## Publications
 
+## Team
+Visit the [team](https://www.gnowledge.org/team.html) page to know more about the members.
+
 ### Contact
 Recommended way of contacting our team members is to join
 collaborative platform [COOOL
