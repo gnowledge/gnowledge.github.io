@@ -19,19 +19,19 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 
 ## STEM Education Projects
 - [CUBE: Collaboratively Understanding Biology Education](https://www.gnowledge.org/projects/cube.html) 
-- [MakerSpace: Making and Tinkering with / and MakerSpaces]()
+- [MakerSpace: Making and Tinkering with / and MakerSpaces](https://www.gnowledge.org/projects/makerspace.html)
 - [COOOL STEMGames](https://www.gnowledge.org/projects/stemgames.html)
 
 ## Development Projects
-- [GNOWSYS and Gstudio: A graph database for semantic computing]()
-- [DOER: Distributed Decentralized Disk of Open Educational Resources]() 
-- [Learning Studios: A customized operating system for STEM Education]()
+- [GNOWSYS and Gstudio: A graph database for semantic computing](https://www.gnowledge.org/projects/dev.html#gnowsys-and-gstudio)
+- [DOER: Distributed Decentralized Disk of Open Educational Resources](https://www.gnowledge.org/projects/dev.html#doer-disk-of-oer) 
+- [Learning Studios: A customized operating system for STEM Education](https://www.gnowledge.org/projects/dev.html#learning-studios-a-customized-operating-system-for-stem-education)
 
 ## Research Projects
 - Structure and Dynamics of Knowledge Networks 
-- Role of Linking Phrases and Representational Re-Description in Concept Mapping
-- Critical Graphicacy
-- Role of Shared Memory Space in Education
+- [Role of Linking Phrases and Representational Re-Description in Concept Mapping](https://www.gnowledge.org/projects/research.html#concept-mapping)
+- [Critical Graphicacy](https://www.gnowledge.org/projects/research.html#critical-graphicacy)
+- [Role of Shared Memory Space in Education](https://www.gnowledge.org/projects/research.html#shared-memory-space)
 - Roots and Branches of beingHuman
 - Cultivating and Recognition of STEM Habits/Practices
 
