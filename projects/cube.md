@@ -178,4 +178,4 @@ examining:
 
 ## Projects
 
-Here are the projects - [STEM Investigation Projects - CUBE](https://www.gnowledge.org/projects/stem-projects.html#stem-investigation-projects-cube)
+Here are the projects - [STEM Investigation Projects - CUBE](https://www.gnowledge.org/projects/resources-cube.html)
