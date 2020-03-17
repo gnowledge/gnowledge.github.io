@@ -3,6 +3,7 @@ layout: default
 title: Team
 description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 ---
+
 <!---{% include menu.html %}--->
 
 # {{ page.title }}
@@ -11,11 +12,15 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 
 **1st row**
 Ashish Kumar Pardeshi, Satej Shende, Prof Nagarjuna G.
+
 **2nd row**
 Punit Dsouza, Jude Terrence Dsouza, Puneet Kishor, Chaitanya Prabhu, Yogesh Bhavsar, Shivani Dixit, Neha Yadav, Meena Kharatmal 
+
 **3rd row**
 Sadaqat Mulla, Durga Prasad, Prof. M. C. Arunan, Rupesh Nichat, Surendra Patil, Partha Edupally, Soham Dighe, Vignesh Nair, Siddhu Dhangar, Anil Kumar Sankhwar, Rafikh Rashid Shaikh
+
 **Last row**
 VK, Ravi Sinha 
-**Other members currently not in picture**
+
+![Gnowledge Lab Team](https://metastudio.org/uploads/default/original/2X/0/0c61f713cde686b776fc135344ccb7bf25c8f969.png)
 Amit Dhakulkar, Jay Kishan, Mahesh Tirthakar, Sheetal Kashid, Durga Garapathi, Sweta, Vicram Crishna, Ullas Shah, Kedar, Prachi Bhatia, Rachna Katmam, Saurabh, Amit Moralwar, Mrunal Nachankar, Keerti Karnam, Shwetha Srini, Alpesh, Anant
