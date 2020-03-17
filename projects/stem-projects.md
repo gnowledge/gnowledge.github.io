@@ -52,7 +52,7 @@ Hen egg is the best example of the single-cell organism. We can construct a simp
 Chotu_bot is capable of tracking black line, responds to Light and avoid obstacle, one mode at a time and all it do without microcontroller. The participants will get exposure to the fundamentals of electronics using passive components.
 
 ## Instruino
-![Instruino](https://stemgames.metastudio.org/uploads/default/original/2X/4/4d5e19dca6f89fd8cc31bfffe093e07e70cc14ab.jpeg)
+![Instruino](https://metastudio.org/uploads/default/original/2X/f/fcbfddc494369922c812765ab8b6006ad059ec11.png)
 Instruino is a cost effective DIY FOSS Portable Lab Device developed using the Arduino Mega to measure the parameters such as humidity, ambient temperature and of liquid, pH value, turbidity and light intensity. It is developed for the biology lab where it has important role in conducting experiments and research. The device features the data visualization (on graphs and other widgets) over the internet, connected via its wifi. It also allows the data to get logged into the SD card along with timestamp and also sends the data to be viewed on smartphones via bluetooth. It also features the audio-visual alarm against the threshold set by the user. It can be easily replicated, modified and used by the researchers and students.
 
 ## Spectrophotometer
