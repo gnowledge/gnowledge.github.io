@@ -23,4 +23,12 @@ Sadaqat Mulla, Durga Prasad, Prof. M. C. Arunan, Rupesh Nichat, Surendra Patil, 
 VK, Ravi Sinha 
 
 ![Gnowledge Lab Team](https://metastudio.org/uploads/default/original/2X/0/0c61f713cde686b776fc135344ccb7bf25c8f969.png)
-Amit Dhakulkar, Jay Kishan, Mahesh Tirthakar, Sheetal Kashid, Durga Garapathi, Sweta, Vicram Crishna, Ullas Shah, Kedar, Prachi Bhatia, Rachna Katmam, Saurabh, Amit Moralwar, Mrunal Nachankar, Keerti Karnam, Shwetha Srini, Alpesh, Anant
+
+**Top Row:**  
+Sunny, Rachana, Sashwat, Vikram Crishna, Shraddha, Rafikh, Anuja, Barua, Haimanti, Keerti, Ullhas
+
+**Middle row:** 
+Ramrao, Amit, Arunan, GN, [Meena, Alpesh, Vihan [Bipin, Anurag] ], Kedar, Mrunal, 
+
+**Bottom:** 
+Rupesh, Dheeru, Vihan, Bipin, Walter, Anil, Johnson,[top row:Rajiv, Ganesh, Rupesh, Shashank, Anurag, VK, bottom row: Arnab, Divya, Smita, Mukesh, Satej
