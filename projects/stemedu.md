@@ -35,7 +35,8 @@ The CUBE project started as a 5-week hands-on research experience based on ‘Si
 [Read full details about CUBE](cube.html)
 
 [CUBE Project Details](resources-cube.html)
-_____
+________
+
 ## MakerSpaces (for development projects)
 HBCSE has launched a new initiative to support and improve the quality of engagements in the makerspaces and tinkering labs that are being setup in many schools across the country. This makerspace follows the CUBE (Collaborative Understanding of Biology Education) model of project based STEM (Science, Technology, Engineering, Mathematics) education, which focuses on conversations around making and investigative projects. The engagements emphasize documenting the process of making and investigations as a primary goal, with a lesser emphasis on finishing the project. This design creates sufficient opportunities for all the members to engage in conversations based on written and digital media, which are essential for authentic learning. We developed a sophisticated platform that awards badges based on the activity of each registered user. We regularly conduct workshops for teachers (along with students).
 
