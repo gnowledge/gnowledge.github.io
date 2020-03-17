@@ -149,4 +149,4 @@ Go to top: [Link](#stem-investigation-projects---cube)
 
 
 -------
-If you are interested to know more about the group, you are visit [CUBE](https://www.gnowledge.org/projects/cube.html)
+If you are interested to know more about the group, you can visit [CUBE](https://www.gnowledge.org/projects/cube.html)
