@@ -84,3 +84,6 @@ Hard Disk based Centrifuge is a relatively low cost FOSS centrifuge made from sc
 
 For more details visit STEMGames: [Link]()  
 Go to top: [Link](#stem-development-projects---makerspace)
+
+---------
+If you are interested to know more about the group, you are visit [MakerSpace](https://www.gnowledge.org/projects/makerspace.html)
