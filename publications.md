@@ -7,14 +7,17 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 
 
 ## Eliciting Students' Knowledge
+In this paper, we propose an objective assessment technique for evaluating students' knowledge
+structure. The assessment task is to create propositions based on providing with constraints i.e.
+concepts and linking words (relation types). The propositions are validated based on a comparison
+with an expert's knowledge base. An illustration of the technique is presented from the domain of
+senior secondary school level biology.
 
 Meena Kharatmal, G. Nagarjuna, “An Alternative Proposal for Eliciting
 and Assessing Students’Knowledge Structure,” Episteme 2: Second
 International Conference on Review of Science, Technology and
-Mathematiics education, 2007.
-
-[Download PDF file](assets/An-Alternative-Proposal-for-Eliciting-and-Assessing-Students-Knowledge-Structure-2007.pdf)
-
+Mathematiics education, 2007.[Download PDF file](assets/An-Alternative-Proposal-for-Eliciting-and-Assessing-Students-Knowledge-Structure-2007.pdf)
+---
 ## Gnowth of Knowledge
 
 M. Kharatmal and G. Nagarjuna, “An
