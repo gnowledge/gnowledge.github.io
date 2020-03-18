@@ -4,7 +4,7 @@ title: Welcome to Gnowledge Lab!
 description: Design and Development of Collaborative STEM Engagements!
 ---
 <!---{% include menu.html %}--->
-# STEM habits in curriculum
+# Nurturing and Recognizing STEM habits 
 **Bringing Culture to the Foreground of Education**
 
 An R&D laboratory of [HBCSE (Homi Bhabha Centre for Science
