@@ -65,7 +65,7 @@ Go to top: [Link](#stem-development-projects---makerspace)
 
 Instruino is a cost effective DIY FOSS Portable Lab Device developed using the Arduino Mega to measure the parameters such as humidity, ambient temperature and of liquid, pH value, turbidity and light intensity. It is developed for the biology lab where it has important role in conducting experiments and research. The device features the data visualization (on graphs and other widgets) over the internet, connected via its wifi. It also allows the data to get logged into the SD card along with timestamp and also sends the data to be viewed on smartphones via bluetooth. It also features the audio-visual alarm against the threshold set by the user. It can be easily replicated, modified and used by the researchers and students.
 
-For more details visit STEMGames: [Link]()  
+For more details visit STEMGames: [Link](https://metastudio.org/t/making-your-own-lab-instruments-instruino/3438)  
 Go to top: [Link](#stem-development-projects---makerspace)
 
 ### Spectrophotometer
