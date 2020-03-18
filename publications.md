@@ -150,19 +150,29 @@ Meena Kharatmal, "Concept Mapping for Eliciting Students' Understanding of Scien
 </p>
 ---
 ## CSCL 2017
+Rafikh Shaikh, Harshit Agrawal, Nagarjuna G., and Mrunal Nachankar, "Instant Sharing Makes Task More Engaging in Computer Aided Classroom", Proceedings of CSCL, pp. 609-612 2017. [Download PDF file](assets/CSCL2017-Rafikh.pdf)
 
-[Download PDF file](assets/CSCL2017-Rafikh.pdf)
-
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> With the advent of
+networked computers sharing of information and artifacts have become
+very convenient. From online multi-player games to social networking
+sites, instant sharing has become the norm of the day. Educational
+tools are trying to harness sharing as a potential tool to engage
+students in learning processes. But, does sharing lead to an
+improvement in academic performance? The present study investigates
+the role of instant sharing in the context of learning in a classroom
+setting. Two groups of students, from a suburban school in Mumbai,
+India, played an arithmetic game over a period of 7-8 months.  The
+experimental group played on a platform that supported instant
+sharing, while the platform for the control group was standalone. All
+other aspects of both platforms were same.  Analysis of process data
+of the two groups reveals that instant sharing increased engagement
+with the game. Students from control group lost interest in the game
+after some days, while experimental group students remained active on
+it till the end of the four-month period.</p>
 
 ---
 
-[Download PDF file](assets/Eel2018-Shaikh-Chopde-Padalkar-final.pdf)
-
-<p style="margin-left:10%; margin-right:10%;"></p>
-
----
-
+Rafikh Shaikh, Amit Dhakulkar, G. Nagarjuna, "Zone of Proximal Development in the Era of Connected Computers", In S. Ladage and S. Narvekar (Eds.), Proceedings of epiSTEME7: Seventh International Conference to Review Research on Science, TEchnology and Mathematics Education, HBCSE (pp. 214-221). India: CinnamonTeal. 2018
 [Download PDF file](assets/epi7-paper-rafikh.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"></p>
