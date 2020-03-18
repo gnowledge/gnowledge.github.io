@@ -36,6 +36,8 @@ discovering knowledge*, 2011, pp. 402–405.
 [Download PDF file](assets/A-Proposal-for-Developing-a-Primer-for-Constructing-and-Analyzing-Conceptual-Structures-2011.pdf)
 
 ## Mapping to Concept Lattices
+Meena Kharatmal, "A Proposal to Extend Concept Mapping to Concept Lattices for Representing Biology"
+in Summer School on “Methodology of task design – How to construct exercises for learning”  Technische Universität Dresden, Dresden, Germany , 22 – 27 September 2014.
 
 [Download PDF file](assets/A-Proposal-to-Extend-Concept-Mapping-to-Concept-Lattices-for-Representing-Biology-2014.pdf)
 
