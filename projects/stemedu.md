@@ -3,6 +3,8 @@ layout: default
 title: STEM Education Projects
 description: of Gnowledge Lab of HBCSE, TIFR
 ---
+* TOC
+{:toc}
 # Pedagogical Framework - PBL and Discourse
 Project based learning and discourse has been very central to the Gnowledge lab's approach. This is inspired by constructionist, and connectionist models of education. The **pedagogical framework** guiding the design of learning environment is elicited below:
 * The best context for learning is written, verbal and expressive conversation in a constructive playful environment. 
@@ -14,7 +16,7 @@ Project based learning and discourse has been very central to the Gnowledge lab'
 * A learning environment to be kept as close-to-life and as close-to- professional practices as possible. 
 * Learning to be made visible to and experienced by the learner.
 
-## Nature of projects
+# Nature of projects
 * The projects are interdisciplinary in nature and its development can happen across the 3 workspaces - CUBE, MakerSpace, DigitalStudio.
 * The projects focuses on generic and transferable competencies such as fabrication, tinkering, data collection, measurement, calibration, analysis, data visualization, knowledge organization, asking questions, designing experiments, design-thinking, modeling, model-based reasoning, seeking evidence, publication and communication. 
 * Citizen science and field projects are deployed outside the studios

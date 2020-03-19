@@ -3,8 +3,10 @@ layout: default
 title: Publications
 description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 ---
-# Recent Publications
 
+* Recent Publications
+{:toc}	 
+# Recent Publications
 ### A Slate for Every Child
 Amit Dhakulkar, Rafikh Shaikh, "A slate for every child: rethinking
 education in the age of computers" *Teacher Plus Magazine*, 15. 30-33,
@@ -26,7 +28,7 @@ short answer to that was: “You give a million computers to a
 million children!”</p>
 ___
 
-### Justice in a Digital Society
+## Justice in a Digital Society
 
 Nagarjuna G., "Distributing Justice in a Digital Society", *Breakthrough: A Journal for Science and Society*, Volume 20, Issue 3, Breakthrough Science Society, 2018. [Download PDF file](assets/mediaPolitics-11-10-2018 .pdf) 
 
@@ -45,6 +47,36 @@ to several aspects of our lives, wherever digitisation of culture
 impacts and effects. [Also published as a blog here, where you can
 discuss and comment.](https://x.metastudio.org/t/distributing-justice-in-a-digital-society/160)
 </p>
+
+---
+
+## Measuring the Mustard Seed
+
+Amit Dhakulkar, Nagarjuna G, and Samir Dhurde, "Measuring the
+ mustard seed: an exercise in indirect measurement and mathematical
+ modelling", *School Science Review*, Number **356**, p. 063-068, 2015. [Download PDF file](assets/37-measuring-the-mustard-seed-after-referee-changes.pdf)
+
+
+<p style="margin-left:10%; margin-right:10%;">
+
+We designed a simple teaching/learning activity from real life using
+commonly available mustard seeds as an introduction to mathematical
+modelling, using a cluster of trans- disciplinary skills and concepts.
+As a first exercise for middle or high school students in indirect
+measurement using physical and mathematical modelling, we present here
+a simple task where students are asked to find the average diameter of
+mustard seeds. The resulting observations lead to a simple linear
+mathematical model which has accessible physical basis from the real
+world. This simple task also provides a rich opportunity and a context
+to learn several topics in measurement, modelling, graphicacy and
+statistics. We present this as a template to be used for developing a
+series of activities for learning indirect measurements, physical and
+mathematical models.
+</p>
+**KeyWords**: mathematical modelling, real world
+data, graphicacy, indirect measurement, graphs,
+
+
 
 ---
 ## The STEM Games
@@ -86,7 +118,7 @@ level biology.</p>
 ___
 
 # Past Publications
-
+{:toc}
 ### Eliciting Students' Knowledge
 
 Meena Kharatmal, G. Nagarjuna, “An Alternative Proposal for Eliciting
@@ -582,7 +614,7 @@ Library, Knowledge Organization, Semantic Web.
 
 ---
 
-[Download PDF file](assets/37-measuring-the-mustard-seed-after-referee-changes.pdf)
+
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
