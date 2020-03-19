@@ -258,7 +258,7 @@ ___
 ## Eliciting Students' Understanding
 Meena Kharatmal, "Concept Mapping for Eliciting Students' Understanding of Science, *Indian Educational Review* Vol. 45, No.2, July 2009. [Download PDF file](assets/Concept-Mapping-for-Eliciting-Students-Understanding-of-Science-2009.pdf)
 
-<p style="margin-left:10%; margin-right:10%;">
+<p style="margin-left:10%; margin-right:10%;"> Students' understanding of science has been of considerable importance in the area of science education research. It tries to focus on issues such as conceptual understanding, teaching of science, students' knowledge structure, tools that can aid in their understanding of science, etc. Concept map is one such tool that is being used to elicit students' knowledge and teaching and learning in a given domain. Concept maps are two-dimensional, hierarchical, node-link diagrams that depict knowledge. This article presents a review of concept maps in science education research with an illustration of a case study on the effectiveness of concept maps for eliciting students' knowledge structure from the domain of cell biology. The study used two different methods---description and concept maps---for depicting students' knowledge. The study depicts a significant increase in the depiction of concepts and propositions using the concept mapping method as compared to the description method.
 
 </p>
 ---
@@ -368,165 +368,186 @@ Library, Knowledge Organization, Semantic Web.
 
 ## Rigor in Concept Maps
 
-[Download PDF file](assets/Introducing-Rigor-in-Concept-Maps-2010.pdf)
+Meena Kharatmal and G. Nagarjuna, "Introducing Rigor in Concept Maps", 2010. [Download PDF file](assets/Introducing-Rigor-in-Concept-Maps-2010.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> Although concept maps have been found to be effective inscience education research, these are critiqued for being informal dueto informal usage of relation and attribute names thereby resulting inambiguity. Refined concept mapping, a development over the regular con-cept mapping is an approach towards introducing rigor and parsimony inrepresenting knowledge. The method proposed suggests to substitute theambiguous relation names with well-defined relation names to conceptsconsistently while mapping a domain. We suggest the use of this methodfor introducing rigor in concept mapping and position it among the othermodels of knowledge representation in an inverse semantic spectrum.</p>
+
+**Keywords**: concept maps, conceptual structures, disambiguation, ed-ucation, knowledge representation, rigor.
 
 ---
 
 
 ## Feasibility of Refined Concept Maps
 
-[Download PDF file](assets/Refined-Concept-Maps-for-Science-Education-A-Feasibility-2009.pdf)
+Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: A FeasibilityStudy", 2009. [Download PDF file](assets/Refined-Concept-Maps-for-Science-Education-A-Feasibility-2009.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> Refined  concept  map  (RCM)  is  comprised  of  node  names and a well-defined, invariant, minimal set of relation names. Using  RCM  as  a  methodology,  it  can  be  applied  to  study the changes in the knowledge structure, as a tool for analysis of forms of representations. In this paper, we discuss the study conducted to test the ease and feasibility of RCM by comparing it with other modes of representation. A homo-geneous sample of school students were assigned the same task from a specific domain. The analysis shows that it was easy and feasible to use RCM by the school students. The fixed set of relation names, does not affect the expression of  knowledge  and  at  the  same  time  helps  in  representing accurate knowledge. The constraints in the RCM served as an anchoring and a facilitator  for  representing  scientific knowledge.</p>
 
 ---
 
 ## Representing Change
 
-[Download PDF file](assets/Representing-Change-Using-Concept-Maps-2013.pdf)
+Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps", 2013. [Download PDF file](assets/Representing-Change-Using-Concept-Maps-2013.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">While concept maps have been quite extensively used to represent static descriptions, it has not been used for its full potential for representing changes or processes. We propose a template and a limited set of linking phrases for representing change, with partial amendments in the concept mapping technique and the CmapTools. Usually, a process is represented in a object-centric manner specifying the object’s role in it. In this proposal, we suggest a process-centric strategy with certain heuristics for representing processes. Considering the view that a process is a name to a change of state of an object involving time, sequence, causes, we make necessary proposals to the vocabulary and the form of representing a process. We end with a discussion on implications of this proposal to science education and concept mapping in general.</p>
 
 ---
 
 ## SELF Platform
 
-[Download PDF file](assets/SELF-Platform-2009.pdf)
+Meena Kharatmal, "SELF Platform­­­ A Teacher­CentricCollaborative Authoring System", 2009. [Download PDF file](assets/SELF-Platform-2009.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> SELF Platform is a collaborative authoring system   for   creating   online   courses.   A   totally   frees oftware based application, the platform is deployed to build   courses   on   learning   free   software   materials.   In this article, we present the   architecture, features, and functionality of the Platform. The main components of the platform are authoring and managing the learning materials.   Various   functions   are   integrated   as   as collection   manager,   course   manager,   organizer,   file manager, version  manager, etc. The  SELF Platform is live and presently has a collection of around 50 learning materials on free software which are developed by the community. </p>
+
+**Keywords**: e­Learning,       Knowledge       Management, Collaboration   Technologies,   Content   Management, collaborative     authoring     system,     free     knowledge creation.
 
 ---
 
 ## Teacher Centric Collaborative Authoring
 
-[Download PDF file](assets/SELF-Platform-A-Teacher-Centric-Collaborative-Authoring-System-2009.pdf)
+Meena KHARATMAL, Nagarjuna G., "SELF Platform: A Teacher - Centric Collaborative Authoring System", *Journal of Applied Collaborative Systems*, Vol. 1, No. 2, 2009. [Download PDF file](assets/SELF-Platform-A-Teacher-Centric-Collaborative-Authoring-System-2009.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> SELF  Platform  is  a  collaborative  authoring  system for  creating  online courses.  A  free  software    to  build  courses  on  any  subject.  In  this  article,  we  present  the  architecture, features, and functionality of the Platform. The main components of the Platform are  integrated as a collection manager, course manager, organizer, file manager, bookshelf, version manager, etc.   The Platform uses LOM, and SCORM metadata for interoperability providing import and export options in SCORM.</p>
+
+**Keywords**: e-learning,    collaboration  content  management,  collaborative  authoring system, free knowledge creation, SCORM, LOM, open standards.
 
 ---
 
 ## epiSTEME 8
 
-[Download PDF file](assets/Shaikhetal-epiSTEME8.pdf)
+Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Through an Embodied and Interactive Approach", 2020. [Download PDF file](assets/Shaikhetal-epiSTEME8.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">Students and adults struggle to understand the explanations of simple astronomical phenomena. Research has shown that much of the difficulty lies with students’ difficulty to use visuospatial reasoning. Drawing on research on embodied cognition, multimodality and multimedia learning, a short pedagogic sequence called ‘Basic Astronomy module’ was designed around multiple external representations such as concrete models, gestures, roleplays, animations, interactive digital games and diagrams. In the present study, we closely monitored the implementation of the module by seven teachers in government schools in Jaipur district of Rajasthan, India to study the teaching-learning process through the module and its effectiveness. In this paper,we will document the learning outcomes of the module in terms of conceptual understanding, attitudes and beliefs. Results show that students ’understanding of basic astronomy concepts improved significantly after completion of the module; Additionally, students’ beliefs and attitudes towards science and specifically towards astronomy changed.</p>
 
 ---
 
 ## Socializing Mathematics
 
-[Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
+Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "SOCIALISING MATHEMATICS: COLLABORATIVE,CONSTRUCTIVE AND DISTRIBUTED LEARNING OFARITHMETIC USING A CHAT APPLICATION" [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> We report an exploratory study that examined the educational possibilities through a verbal messaging application (chat), and show that this activity has the potential for effectively teaching mathematical concepts. Communicating in a virtual chat room allows children to become literate, as well as situate themselves in a social environment. Because of the latter possibility, children look forward to this activity with lot of motivation and interest. We modified some rules of the virtual chat room in the Sugar Learning Platform to facilitate development of arithmetic skills like addition, subtraction and multiplication. We present the highlights of this chat room experiment, and outline the insights gained from the analysis of the logs collected over five months from a group of 15 tribal village students (3rd and 4th grade). </p>
 
 ---
 
 ## TSG24
 
-[Download PDF file](assets/TSG24_Pa_Shaikh.pdf)
+Shaikh Rafikh, Harita Raval, Harshit Agrawal, and G. Nagarjuna, "IMPACT OF COMPUTER-MEDIATED SHARING ON CLASSROOMACTIVITIES", *The 14th International Congress on Mathematical Education Shanghai*, 2020. [Download PDF file](assets/TSG24_Pa_Shaikh.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">Many teaching-learning applications have a computer-mediated sharing feature and it is important that we study its role in the teaching-learning process in detail. The present study, which is a part of the   larger   study,   probes   the   impact   of   the   computer-mediated   sharing   feature   on   classroom activities. 45 students who belonged to a 4th-grade classroom were divided into two groups. One group has worked on a version of a digital game where each student played with the computer individually, whereas another group has worked on the version where a group of students played with each other mediated by networked computers. One classroom session from each setting was video recorded and analyzed. In this paper, we present the findings of the video analysis.</p>
 
 ---
 
 ## Knowledge Organizers for Science Education
 
-[Download PDF file](assets/Understanding-Science-Through-Knowledge-Organizers-An-Introduction-2004.pdf)
+Meena Kharatmal and Nagarjuna G., "Understanding Science Through Knowledge Organizers: An Introduction", 2004. [Download PDF file](assets/Understanding-Science-Through-Knowledge-Organizers-An-Introduction-2004.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">We propose, in this paper,  a teaching program based on a grammar of scientific language borrowed mostly from the area of knowledge representation in computer science and logic. The paper introduces an operationizable framework for understanding knowledge using knowledge representation(KR) methodology. We start with organizing concepts based on their cognitive function, followed by assigning valid and authentic semantic relations to the concepts. We propose that in science education, students can understand better if they organize their knowledge using the KR principles. The process, we claim, can help them to align their conceptual framework with that of experts 'conceptual framework which we assume is the goal of science education.</p>
 
 ---
 
 ## Understanding Students' Questioning
 
-[Download PDF file](assets/UnderstandingStudentQuestioning.pdf)
+Gurinder Singh, Rafikh Shaikh and Karen Haydock , "Understanding student questioning" [Download PDF file](assets/UnderstandingStudentQuestioning.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> Our investigation focusses on a group of eleven lower-middle-class students from classrooms in which the teachers did most of the talking and students rarely asked any questions. We have examined whether spontaneous discussions among the students in a less structured setting would include questioning, and what kinds of questions they might ask. Our study is based within a historical dialectical materialist framework. We particularly wanted to find out whether, given a material context - an unusual variegated tree - the students would spontaneously ask questions about the tree, or whether they would need some sort of teacher’s guidance in order to do so. We were motivated to raise these research questions partly by worries that a culture of an unquestioning student passivity may exist and that such a culture may be an expedient way of maintaining social norms. Rather than testing out a teaching strategy, our broader aim was to understand the students and find out whether or in what sense they might practice science. We explored the role of the teachers and the context in the students’ questioning process by analysing student talk and interactions with each other and with the tree. We found that, in the course of their spontaneous discussions, even with very little teacher guidance, the students engaged in questioning and asked each other a surprising number of investigatable science questions. Their questioning was mainly authentic, and was both explicit and implicit. We claim that their questioning was a dialectical process in which conflicts arose due to interactions between students, as well as between students and the tree. Even though the students had never done practical science activities in their classrooms, they spontaneously performed some experiments to find answers to their own questions. We present evidence that they did this despite thinking that they were not supposed to do so. We discuss how and why the students engaged in questioning and investigating. We also discuss possibilities for how student questioning could flourish, even if not officially encouraged, at least as a subversive activity. </p>
+
+**Keywords**: student questioning, historical dialectical materialism, open-beginninged, explicit and implicit questioning, investigatable questions.
 
 ---
 
 ## Reference Set of Linking Words
 
-[Download PDF file](assets/Using-Semantic-Reference-Set-of-Linking-Words-for-Concept-Mapping-in-Biology-2016.pdf)
+Meena Kharatmal and G. Nagarjuna, "Using Semantic Reference Set of Linking Words for Concept Mapping in Biology", 2016. [Download PDF file](assets/Using-Semantic-Reference-Set-of-Linking-Words-for-Concept-Mapping-in-Biology-2016.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> Inspired by the semantic network studies we propose additional conventions for choosing linking words and arrive at a Reference Set of semantically well-defined linking words drawn from the Knowledge Representation area of research in the domain of biology. Each linking word in the set is assigned a dimension: part-whole, class-inclusion, spatial-inclusion, function and attribution. We study expert representations by content analysis of biology texts at three levels of increasing subject complexity. We compare the linking words used in these representations with the Reference Set and find an increasing degree of proximity to the latter. This indicates that experts tend touse more well-defined linking words. Regarding this proximity as a characteristic of expertise, we can encourage novices to re-represent their concept maps using the linking words from the Reference Set. We discuss the implications of the approach for science education.</p>
 
 ---
 
 ## CMC 2006
 
-[Download PDF file](assets/10-cmc2006-p151.pdf)
+Meena Kharatmal & Nagarjuna G., "A PROPOSAL TO REFINE CONCEPT MAPPING FOR EFFECTIVE SCIENCE LEARNING", *Concept Maps: Theory, Methodology, Technology Proc. of the Second Int. Conference on Concept Mapping*, 2006. [Download PDF file](assets/10-cmc2006-p151.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">Concept  maps  are  found  to  be  useful  in  eliciting  knowledge,  meaningful  learning,  evaluation  of  understanding  and  in  studying the nature of changes taking place during cognitive development, particularly in the classroom. Several experts have claimed the  effectiveness  of  this  tool  for  learning  science.  We  agree  with  the  claim,  but  the  effectiveness  will  improve  only  if  we  gradually introduce a certain amount of discipline in constructing the maps. The discipline is warranted, we argue, because science thrives to be an  unambiguous  and  rigorously  structured  body  of  knowledge.  Since  learning  science  may  be  seen  as  a  process  where  a  novice  is  expected to be transformed into an expert, we use the context of learning science for making the proposal. Further, we identify certain anomalies  in  the  evaluation  of  concept  maps,  and  suggest  that  the  evaluation  should  be  based  on  semantics  of  the  linking  words  (relation types) and not on graphical criteria alone. </p>
 
 ---
 
 ## episteme 2
 
-[Download PDF file](assets/11-episteme-2.pdf)
+Meena Kharatmal & Nagarjuna G., *AN ALTERNATIVE PROPOSAL FOR ELICITING ANDASSESSING STUDENTS' KNOWLEDGE STRUCTURE* [Download PDF file](assets/11-episteme-2.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> In  this   paper,  we  propose an  objective  assessment  technique  for  evaluating  students'  knowledge structure.  The assessment task  is to  create propositions  based on  providing  with  constraints  i.e. concepts and linking words (relation types).  The propositions are validated based on a comparison with an expert's knowledge base. An illustration of the technique is presented from the domain of senior secondary school level biology.</p>
 
 ---
 
 ## cmc2008 
-[Download PDF file](assets/12-cmc2008-p260.pdf)
+Meena Kharatmal & Nagarjuna G., "EXPLORING ROOTS OF RIGOR: A PROPOSAL OF A METHODOLOGY FOR ANALYZING THE CONCEPTUAL CHANGE FROM A NOVICE TO AN EXPERT", *Concept Mapping: Connecting Educators Proc. of the Third Int. Conference on Concept Mapping*, 2008 [Download PDF file](assets/12-cmc2008-p260.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> During the course of science education one of the recognizable and desirable changes from a novice to an expert is in their  language  (knowledge  representation).  One  noticeable  change  is  that  of  weeding  out  ambiguous  expressions  bringing  in  clarity and rigor. However, this happens not by weeding out the concept names but by choosing more and more accurate linking words (relation names). By focusing on the relation names we report the results of a preliminary study that confirms that subject experts  increasingly  chose  relation  names  (linking  words)  that  come  closer  to  formal  descriptions.  The  significance  of  this  observation  to  concept  mapping  community  as  well  as  to  cognitive  development  is  immense,  for  it  provides  a  simple  and  effective  method  to  study  conceptual  change,  validates  the  use  of  refined  concept  maps  in  place  of  the  traditional  technique  inscience education, and also further strengthens the approach that relationship between nodes determine the semantics, and not the nodes per se.</p>
 
 ---
 
 ## GNOWSYS concept paper
-[Download PDF file](assets/13-paper.pdf)
+Divya Sinha, Alpesh Gajbe, Rajiv Nair, Ganesh Gajre, Nagarjuna G., "GNOWSYS-mode: An Emacs based Text Editorfor Semantic and Structured Document Editing". [Download PDF file](assets/13-paper.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">Keeping the requirements of the semantic web in mind we have developed a pure text based collaborative editing environment to create, update and manage knowledge networks and structured documents. It works as a client to the GNOWSYS server. GNOWSYS (Gnowledge Networking and Organizing System) is a frame based triple-store supporting version control, publishing and managing multiple ontologies along with instances.</p>
 
 ---
 
-[Download PDF file](assets/14-paper191.pdf)
+## GNOWSYS-mode in Emacs
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emacs for collaborative constructionof knowledge networks in plain text." [Download PDF file](assets/14-paper191.pdf)
+
+<p style="margin-left:10%; margin-right:10%;"> GNOWSYS-mode is an Emacs extension package for knowledge networking and ontology management using GNOWSYS(Gnowledge Networking and Organizing SYStem) as a server. The demonstration shows how to collaboratively build ontologies and semantic network in an intuitive plain text without any of the RDF notations, though importing and exporting in RDF is possible.</p>
 
 ---
 
 ## Common Roots
-[Download PDF file](assets/15-unity-of-pct.pdf)
+Nagarjuna G., "Common Roots of Perception, Conception andConscious Action", 2009. [Download PDF file](assets/15-unity-of-pct.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
 
-##
+## Concept Maps for Science Education
 
-[Download PDF file](assets/16-meena-gn.pdf)
+Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: A Feasibility Study". [Download PDF file](assets/16-meena-gn.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
-
----
-
-
-[Download PDF file](assets/18-CS-LTA_FullProceedings.pdf)
-
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">Refined  concept  map  (RCM)  is  comprised  of  node  names and a well-defined, invariant, minimal set of relation names. Using  RCM  as  a  methodology,  it  can  be  applied  to  study the changes in the knowledge structure, as a tool for analysis of forms of representations. In this paper, we discuss the study conducted to test the ease and feasibility of RCM by comparing it with other modes of representation. A homo-geneous sample of school students were assigned the same task from a specific domain. The analysis shows that it was easy and feasible to use RCM by the school students. The fixed set of relation names, does not affect the expression of  knowledge  and  at  the  same  time  helps  in  representing accurate knowledge. The constraints in the RCM served as an  anchoring  and  a  facilitator  for  representing  scientific knowledge</p>
 
 ---
 
-[Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
+## CS-LTA2010
+
+Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network forTeaching-Learning of Conceptual Structures", *In conjunction with ICCS-2010 18th International Conference on Conceptual Structures*,p.13, 2010 [Download PDF file](assets/18-CS-LTA_FullProceedings.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">We  propose  in  this  paper  a  simple  method  to  construct  a machine  processable  semantic  network,  called  a  dependency  network, that gathers all the concepts and skills as nodes and the relation type “depends on”, (and its inverse “required for”), as their edges. As a conceptual  structure  can  be  used  to  compute  a  roadmap  of  any  learning-teaching objective. As a prelude we build and contribute a seed graph for demonstration and introduce a collaborative portal for contributing, publishing  and  dynamically  building  dependency  networks.  A  possible generalization  of  this  methodology  for  knowledge  organization  is  discussed.</p>
 
 ---
 
-[Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
+## ANALYSISOF GRAPHSIN SCHOOL TEXTBOOKS
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+Amit Dhakulkar and Nagarjuna G, "AN ANALYSISOF GRAPHSIN SCHOOL TEXTBOOKS" [Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
+<p style="margin-left:10%; margin-right:10%;">We present here an analysis of school textbooks with graphs and  related  activities  as  the  point  of  focus.  The  sample textbooks that we have considered for the analysis are NCERT textbooks  (from  Grade  5  to  Grade  10,  in  the  subjects  of Science,  Mathematics  and  Social  Sciences).  A  quantitative analysis  is  done  on  frequency  of  occurrence,  types  and features of the graphs present in the different textbooks. We observe that the graphs are under-represented in the school textbooks. Considering the importance of the ability to read, construct  and  interpret  graphs  in  science  and  mathematics education we recommend strongly that in the future edition of textbooks graphs should be properly represented.</p>
+**Keywords**: Critical graphicacy, Textbook analysis, Graphs.
 
 ---
 
-[Download PDF file](assets/21-analysis-growth-knowledge-concepts-predicates-epi4-paper.pdf)
+## EPICYCLICAL ASTRONOMY: GEOGEBRA
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+Amit Dhakulkar and Nagarjuna G., "EPICYCLICAL ASTRONOMY: A CASEFOR GEOGEBRA" [Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">Epicycles  were  historically  used  by  the  ancient  Greeks  to explain  the  retrograde  motion  of  planets.  This  episode  in history of science is used as a case to show how we can use computer  simulations  to  visualize  complex,  abstract  ideas and  difficult  to  imagine  constructions.  We  present  here  a method developed using the dynamic mathematics software GeoGebra, to teach the concept of epicycles.</p>
+**Keywords**: GeoGebra,  Astronomy  education,  Epicycles,Visualization,  Constructionism.
+
+---
+
+## ANALYSIS OF GROWTH OF KNOWLEDGE
+
+Meena Kharatmal and Nagarjuna G., "AN ANALYSIS OF GROWTH OF KNOWLEDGE BASED ON CONCEPTS AND PREDICATES-A PRELIMINARY STUDY" [Download PDF file](assets/21-analysis-growth-knowledge-concepts-predicates-epi4-paper.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">Using the methodology of Refined Concept Mapping, we rerepresent the domain of cell biology of secondary and higher secondary levels of textbooks. In this study, we demonstrate that  although  the  number  of  concept  terms  increase progressively,  the  predicate  terms  achieve  constancy depicting  a  finite  set.  This  indicates  that  for  acquiring expertise  in  a  domain,  a  finite  set  of  predicate  terms  is sufficient.  In  this  paper,  we  illustrate  the  methodology  and discuss the pedagogical implications of the study</p>
+
+**Keywords**: Refined  concept  map,  Predicates,  Attributes,Knowledge  representation,  Cell  biology.
 
 ---
 
@@ -537,9 +558,10 @@ Library, Knowledge Organization, Semantic Web.
 
 ---
 
-[Download PDF file](assets/23-1742-6596_365_1_012058.pdf)
+## Complex networks in a free-software operating system
+Rajiv Nair, G Nagarjuna, Arnab K Ray, "Features of complex networks in a free-software operating system" *International Conference on Recent Trends in Physic*, 2012. [Download PDF file](assets/23-1742-6596_365_1_012058.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">We  propose  a  mathematical  model  to  fit  the  degree  distribution  of  directed  dependency networks  in  free  and  open-source  software.   In  this  complex  system,  the  intermediate  scales  of  both the in-directed and out-directed dependency networks follow a power-law trend (specifically Zipf’s law). Deviations from this feature are found both for the highly linked nodes, and the poorly linked nodes.  This is due to finite-size effects in the networks, and the parameters needed to model finite-size behaviour make a quantitative distinction between the in-directed and out-directed networks.  We also provide a model to describe the dynamic evolution of the network, and account for its saturation in the long-time limit.</p>
 
 ---
 
