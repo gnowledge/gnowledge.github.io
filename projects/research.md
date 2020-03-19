@@ -3,8 +3,9 @@ layout: default
 title: Research Projects
 description: of gnowledge lab of HBCSE, TIFR
 ---
-* Generate Table of Contents
-{:toc} 
+
+* auto-gen TOC:
+{:toc}
 
 # Concept Mapping
 
