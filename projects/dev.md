@@ -4,6 +4,8 @@ title: Development Projects
 description: of Gnowledge Lab of HBCSE, TIFR
 ---
 <!---{% include menu.html %}--->
+* Development Projects
+{:toc}	 
 
 # GNOWSYS and Gstudio
 
