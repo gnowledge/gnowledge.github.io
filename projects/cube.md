@@ -2,7 +2,8 @@
 layout: default
 title: Collaboratively Understanding Biology Education
 ---
-
+* TOC
+{:toc}
 ## {{ page.title }}
 
 ![CUBE Logo](https://metastudio.org/uploads/default/original/2X/2/2612883b207547b399ce35d634727c38c4793f0d.png)
