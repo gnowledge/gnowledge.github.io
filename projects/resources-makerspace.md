@@ -82,7 +82,7 @@ Go to top: [Link](#stem-development-projects---makerspace)
 
 Hard Disk based Centrifuge is a relatively low cost FOSS centrifuge made from scrap hard disk (an e-waste) for DIY biolabs where budget is the main concern. A centrifuge is device which uses the centrifugal forces for separating the different materials suspended in the liquid. As this scrap hard disk are cheaply and easily avialble and also its motor meet the high RPM requirements for the centrifuge. This motor is a brushless DC motor thus requires electronic speed control (ESC) along with  Arduino Nano as controller.
 
-For more details visit STEMGames: [Link]()  
+For more details visit STEMGames: [Link](https://metastudio.org/t/design-and-build-your-own-centrifuge/3443)  
 Go to top: [Link](#stem-development-projects---makerspace)
 
 ---------
