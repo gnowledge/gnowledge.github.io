@@ -395,7 +395,7 @@ Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps", 2013. 
 
 ## SELF Platform
 
-Meena Kharatmal, "SELF Platform­­­ A Teacher­CentricCollaborative Authoring System", 2009. [Download PDF file](assets/SELF-Platform-2009.pdf)
+Meena Kharatmal, "SELF Platform­­­ A Teacher­Centric Collaborative Authoring System", 2009. [Download PDF file](assets/SELF-Platform-2009.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> SELF Platform is a collaborative authoring system   for   creating   online   courses.   A   totally   frees oftware based application, the platform is deployed to build   courses   on   learning   free   software   materials.   In this article, we present the   architecture, features, and functionality of the Platform. The main components of the platform are authoring and managing the learning materials.   Various   functions   are   integrated   as   as collection   manager,   course   manager,   organizer,   file manager, version  manager, etc. The  SELF Platform is live and presently has a collection of around 50 learning materials on free software which are developed by the community. </p>
 
@@ -423,7 +423,7 @@ Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Thr
 
 ## Socializing Mathematics
 
-Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "SOCIALISING MATHEMATICS: COLLABORATIVE,CONSTRUCTIVE AND DISTRIBUTED LEARNING OFARITHMETIC USING A CHAT APPLICATION" [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
+Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application" [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> We report an exploratory study that examined the educational possibilities through a verbal messaging application (chat), and show that this activity has the potential for effectively teaching mathematical concepts. Communicating in a virtual chat room allows children to become literate, as well as situate themselves in a social environment. Because of the latter possibility, children look forward to this activity with lot of motivation and interest. We modified some rules of the virtual chat room in the Sugar Learning Platform to facilitate development of arithmetic skills like addition, subtraction and multiplication. We present the highlights of this chat room experiment, and outline the insights gained from the analysis of the logs collected over five months from a group of 15 tribal village students (3rd and 4th grade). </p>
 
@@ -431,7 +431,7 @@ Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "SOCIALISING MATHEMATICS: C
 
 ## TSG24
 
-Shaikh Rafikh, Harita Raval, Harshit Agrawal, and G. Nagarjuna, "IMPACT OF COMPUTER-MEDIATED SHARING ON CLASSROOMACTIVITIES", *The 14th International Congress on Mathematical Education Shanghai*, 2020. [Download PDF file](assets/TSG24_Pa_Shaikh.pdf)
+Shaikh Rafikh, Harita Raval, Harshit Agrawal, and G. Nagarjuna, "Impact of computer-mediated sharing on classroom activities.", *The 14th International Congress on Mathematical Education Shanghai*, 2020. [Download PDF file](assets/TSG24_Pa_Shaikh.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Many teaching-learning applications have a computer-mediated sharing feature and it is important that we study its role in the teaching-learning process in detail. The present study, which is a part of the   larger   study,   probes   the   impact   of   the   computer-mediated   sharing   feature   on   classroom activities. 45 students who belonged to a 4th-grade classroom were divided into two groups. One group has worked on a version of a digital game where each student played with the computer individually, whereas another group has worked on the version where a group of students played with each other mediated by networked computers. One classroom session from each setting was video recorded and analyzed. In this paper, we present the findings of the video analysis.</p>
 
@@ -465,7 +465,7 @@ Meena Kharatmal and G. Nagarjuna, "Using Semantic Reference Set of Linking Words
 
 ## CMC 2006
 
-Meena Kharatmal & Nagarjuna G., "A PROPOSAL TO REFINE CONCEPT MAPPING FOR EFFECTIVE SCIENCE LEARNING", *Concept Maps: Theory, Methodology, Technology Proc. of the Second Int. Conference on Concept Mapping*, 2006. [Download PDF file](assets/10-cmc2006-p151.pdf)
+Meena Kharatmal & Nagarjuna G., "A proposal to refine concept mapping for effective science learning", *Concept Maps: Theory, Methodology, Technology Proc. of the Second Int. Conference on Concept Mapping*, 2006. [Download PDF file](assets/10-cmc2006-p151.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Concept  maps  are  found  to  be  useful  in  eliciting  knowledge,  meaningful  learning,  evaluation  of  understanding  and  in  studying the nature of changes taking place during cognitive development, particularly in the classroom. Several experts have claimed the  effectiveness  of  this  tool  for  learning  science.  We  agree  with  the  claim,  but  the  effectiveness  will  improve  only  if  we  gradually introduce a certain amount of discipline in constructing the maps. The discipline is warranted, we argue, because science thrives to be an  unambiguous  and  rigorously  structured  body  of  knowledge.  Since  learning  science  may  be  seen  as  a  process  where  a  novice  is  expected to be transformed into an expert, we use the context of learning science for making the proposal. Further, we identify certain anomalies  in  the  evaluation  of  concept  maps,  and  suggest  that  the  evaluation  should  be  based  on  semantics  of  the  linking  words  (relation types) and not on graphical criteria alone. </p>
 
@@ -473,14 +473,14 @@ Meena Kharatmal & Nagarjuna G., "A PROPOSAL TO REFINE CONCEPT MAPPING FOR EFFECT
 
 ## episteme 2
 
-Meena Kharatmal & Nagarjuna G., *AN ALTERNATIVE PROPOSAL FOR ELICITING ANDASSESSING STUDENTS' KNOWLEDGE STRUCTURE* [Download PDF file](assets/11-episteme-2.pdf)
+Meena Kharatmal & Nagarjuna G., "An alternative proposal for eliciting and assessing students' knowledge structure" [Download PDF file](assets/11-episteme-2.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> In  this   paper,  we  propose an  objective  assessment  technique  for  evaluating  students'  knowledge structure.  The assessment task  is to  create propositions  based on  providing  with  constraints  i.e. concepts and linking words (relation types).  The propositions are validated based on a comparison with an expert's knowledge base. An illustration of the technique is presented from the domain of senior secondary school level biology.</p>
 
 ---
 
 ## cmc2008 
-Meena Kharatmal & Nagarjuna G., "EXPLORING ROOTS OF RIGOR: A PROPOSAL OF A METHODOLOGY FOR ANALYZING THE CONCEPTUAL CHANGE FROM A NOVICE TO AN EXPERT", *Concept Mapping: Connecting Educators Proc. of the Third Int. Conference on Concept Mapping*, 2008 [Download PDF file](assets/12-cmc2008-p260.pdf)
+Meena Kharatmal & Nagarjuna G., "Exploring roots of rigor: A proposal of a methodology for analyzing the conceptual change from a novice to an expert.", *Concept Mapping: Connecting Educators Proc. of the Third Int. Conference on Concept Mapping*, 2008 [Download PDF file](assets/12-cmc2008-p260.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> During the course of science education one of the recognizable and desirable changes from a novice to an expert is in their  language  (knowledge  representation).  One  noticeable  change  is  that  of  weeding  out  ambiguous  expressions  bringing  in  clarity and rigor. However, this happens not by weeding out the concept names but by choosing more and more accurate linking words (relation names). By focusing on the relation names we report the results of a preliminary study that confirms that subject experts  increasingly  chose  relation  names  (linking  words)  that  come  closer  to  formal  descriptions.  The  significance  of  this  observation  to  concept  mapping  community  as  well  as  to  cognitive  development  is  immense,  for  it  provides  a  simple  and  effective  method  to  study  conceptual  change,  validates  the  use  of  refined  concept  maps  in  place  of  the  traditional  technique  inscience education, and also further strengthens the approach that relationship between nodes determine the semantics, and not the nodes per se.</p>
 
@@ -495,14 +495,14 @@ Divya Sinha, Alpesh Gajbe, Rajiv Nair, Ganesh Gajre, Nagarjuna G., "GNOWSYS-mode
 
 ## GNOWSYS-mode in Emacs
 
-Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emacs for collaborative constructionof knowledge networks in plain text." [Download PDF file](assets/14-paper191.pdf)
+Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emacs for collaborative construction of knowledge networks in plain text." [Download PDF file](assets/14-paper191.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> GNOWSYS-mode is an Emacs extension package for knowledge networking and ontology management using GNOWSYS(Gnowledge Networking and Organizing SYStem) as a server. The demonstration shows how to collaboratively build ontologies and semantic network in an intuitive plain text without any of the RDF notations, though importing and exporting in RDF is possible.</p>
 
 ---
 
 ## Common Roots
-Nagarjuna G., "Common Roots of Perception, Conception andConscious Action", 2009. [Download PDF file](assets/15-unity-of-pct.pdf)
+Nagarjuna G., "Common Roots of Perception, Conception and Conscious Action", 2009. [Download PDF file](assets/15-unity-of-pct.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
@@ -518,15 +518,15 @@ Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: 
 
 ## CS-LTA2010
 
-Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network forTeaching-Learning of Conceptual Structures", *In conjunction with ICCS-2010 18th International Conference on Conceptual Structures*,p.13, 2010 [Download PDF file](assets/18-CS-LTA_FullProceedings.pdf)
+Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network for Teaching-Learning of Conceptual Structures", *In conjunction with ICCS-2010 18th International Conference on Conceptual Structures*,p.13, 2010 [Download PDF file](assets/18-CS-LTA_FullProceedings.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">We  propose  in  this  paper  a  simple  method  to  construct  a machine  processable  semantic  network,  called  a  dependency  network, that gathers all the concepts and skills as nodes and the relation type “depends on”, (and its inverse “required for”), as their edges. As a conceptual  structure  can  be  used  to  compute  a  roadmap  of  any  learning-teaching objective. As a prelude we build and contribute a seed graph for demonstration and introduce a collaborative portal for contributing, publishing  and  dynamically  building  dependency  networks.  A  possible generalization  of  this  methodology  for  knowledge  organization  is  discussed.</p>
 
 ---
 
-## ANALYSISOF GRAPHSIN SCHOOL TEXTBOOKS
+## ANALYSIS OF GRAPHS IN SCHOOL TEXTBOOKS
 
-Amit Dhakulkar and Nagarjuna G, "AN ANALYSISOF GRAPHSIN SCHOOL TEXTBOOKS" [Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
+Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks" [Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
 <p style="margin-left:10%; margin-right:10%;">We present here an analysis of school textbooks with graphs and  related  activities  as  the  point  of  focus.  The  sample textbooks that we have considered for the analysis are NCERT textbooks  (from  Grade  5  to  Grade  10,  in  the  subjects  of Science,  Mathematics  and  Social  Sciences).  A  quantitative analysis  is  done  on  frequency  of  occurrence,  types  and features of the graphs present in the different textbooks. We observe that the graphs are under-represented in the school textbooks. Considering the importance of the ability to read, construct  and  interpret  graphs  in  science  and  mathematics education we recommend strongly that in the future edition of textbooks graphs should be properly represented.</p>
 **Keywords**: Critical graphicacy, Textbook analysis, Graphs.
 
@@ -534,7 +534,7 @@ Amit Dhakulkar and Nagarjuna G, "AN ANALYSISOF GRAPHSIN SCHOOL TEXTBOOKS" [Downl
 
 ## EPICYCLICAL ASTRONOMY: GEOGEBRA
 
-Amit Dhakulkar and Nagarjuna G., "EPICYCLICAL ASTRONOMY: A CASEFOR GEOGEBRA" [Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
+Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra" [Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Epicycles  were  historically  used  by  the  ancient  Greeks  to explain  the  retrograde  motion  of  planets.  This  episode  in history of science is used as a case to show how we can use computer  simulations  to  visualize  complex,  abstract  ideas and  difficult  to  imagine  constructions.  We  present  here  a method developed using the dynamic mathematics software GeoGebra, to teach the concept of epicycles.</p>
 **Keywords**: GeoGebra,  Astronomy  education,  Epicycles,Visualization,  Constructionism.
@@ -543,7 +543,7 @@ Amit Dhakulkar and Nagarjuna G., "EPICYCLICAL ASTRONOMY: A CASEFOR GEOGEBRA" [Do
 
 ## ANALYSIS OF GROWTH OF KNOWLEDGE
 
-Meena Kharatmal and Nagarjuna G., "AN ANALYSIS OF GROWTH OF KNOWLEDGE BASED ON CONCEPTS AND PREDICATES-A PRELIMINARY STUDY" [Download PDF file](assets/21-analysis-growth-knowledge-concepts-predicates-epi4-paper.pdf)
+Meena Kharatmal and Nagarjuna G., "An analysis of Growth of knowledge based on concepts and predicates - A Preliminary study" [Download PDF file](assets/21-analysis-growth-knowledge-concepts-predicates-epi4-paper.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Using the methodology of Refined Concept Mapping, we rerepresent the domain of cell biology of secondary and higher secondary levels of textbooks. In this study, we demonstrate that  although  the  number  of  concept  terms  increase progressively,  the  predicate  terms  achieve  constancy depicting  a  finite  set.  This  indicates  that  for  acquiring expertise  in  a  domain,  a  finite  set  of  predicate  terms  is sufficient.  In  this  paper,  we  illustrate  the  methodology  and discuss the pedagogical implications of the study</p>
 
@@ -565,21 +565,22 @@ Rajiv Nair, G Nagarjuna, Arnab K Ray, "Features of complex networks in a free-so
 
 ---
 
-[Download PDF file](assets/24-136-389-1-PB.pdf)
+## Measuring the Mustard Seed
+Amit Dhakulkar, Samir Dhurde & Nagarjuna G., "Measuring the Mustard Seed: First Exercise in Modelling the Real World". [Download PDF file](assets/24-136-389-1-PB.pdf)
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;">Constructing, reading and understanding graphs is an inter disciplinary and important skill in today’s world. Though being such an important skill students are not taught explicitly to develop this important skill. Also there has been an urge in the literature for the students to use real world data to make sense ofthe concepts that they learn. In general students are not provided with opportunities to make the skill explicit, and link it up with their life experiences the concepts and subjects that they learn. We present here a simple task which provides the students a context in which real world data is collected, and used to construct a simple linear mathematical model. This task connects different skills like measurement, graphicacy, mathematical modelling and at the same time also helps a two way transition between the abstract mathematical world and the concrete physical world.</p>
+
+---
+## Re-Structuring Undergraduate Biology Education
+
+Shraddha Ghumre, Nagarjuna G. & M. C. Arunan, "Collaborative Undergraduate Biology Research: Re-Structuring Undergraduate Biology Education in India". [Download PDF file](assets/25-169-428-1-PB.pdf)
+
+
+<p style="margin-left:10%; margin-right:10%;">This work is an effort to convert undergraduate college laboratories into contemporary, open-ended interactive, inquiry-driven and collaborative research laboratories and hence bridge the gap between practice and theory of biology. The programme Collaborative Undergraduate Biology Education (CUBE), as the name suggests, is an invitation to young researchers at the undergraduate level into the nature of scientific inquiry through its essential component of collaboration. Our aim is to design 'functional learning ecologies' by means of simple model systems to facilitate collaborative undergraduate research in the frontiers of biology.</p>
 
 ---
 
-
-[Download PDF file](assets/25-169-428-1-PB.pdf)
-
-
-<p style="margin-left:10%; margin-right:10%;"></p>
-
----
-
-[Download PDF file](assets/26-132-409-1-PB.pdf)
+Rafikh Shaikh, Nagarjuna G. & Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed Learning of Arithmetic Using a Chat Application" [Download PDF file](assets/26-132-409-1-PB.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
@@ -634,10 +635,6 @@ Rajiv Nair, G Nagarjuna, Arnab K Ray, "Features of complex networks in a free-so
 [Download PDF file](assets/36-Pragyaan_IT_June10.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
----
-
-
-<p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
 
