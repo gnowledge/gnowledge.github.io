@@ -423,7 +423,7 @@ Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Thr
 
 ## Socializing Mathematics
 
-Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application" [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
+Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application". [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> We report an exploratory study that examined the educational possibilities through a verbal messaging application (chat), and show that this activity has the potential for effectively teaching mathematical concepts. Communicating in a virtual chat room allows children to become literate, as well as situate themselves in a social environment. Because of the latter possibility, children look forward to this activity with lot of motivation and interest. We modified some rules of the virtual chat room in the Sugar Learning Platform to facilitate development of arithmetic skills like addition, subtraction and multiplication. We present the highlights of this chat room experiment, and outline the insights gained from the analysis of the logs collected over five months from a group of 15 tribal village students (3rd and 4th grade). </p>
 
@@ -447,7 +447,7 @@ Meena Kharatmal and Nagarjuna G., "Understanding Science Through Knowledge Organ
 
 ## Understanding Students' Questioning
 
-Gurinder Singh, Rafikh Shaikh and Karen Haydock , "Understanding student questioning" [Download PDF file](assets/UnderstandingStudentQuestioning.pdf)
+Gurinder Singh, Rafikh Shaikh and Karen Haydock , "Understanding student questioning". [Download PDF file](assets/UnderstandingStudentQuestioning.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> Our investigation focusses on a group of eleven lower-middle-class students from classrooms in which the teachers did most of the talking and students rarely asked any questions. We have examined whether spontaneous discussions among the students in a less structured setting would include questioning, and what kinds of questions they might ask. Our study is based within a historical dialectical materialist framework. We particularly wanted to find out whether, given a material context - an unusual variegated tree - the students would spontaneously ask questions about the tree, or whether they would need some sort of teacher’s guidance in order to do so. We were motivated to raise these research questions partly by worries that a culture of an unquestioning student passivity may exist and that such a culture may be an expedient way of maintaining social norms. Rather than testing out a teaching strategy, our broader aim was to understand the students and find out whether or in what sense they might practice science. We explored the role of the teachers and the context in the students’ questioning process by analysing student talk and interactions with each other and with the tree. We found that, in the course of their spontaneous discussions, even with very little teacher guidance, the students engaged in questioning and asked each other a surprising number of investigatable science questions. Their questioning was mainly authentic, and was both explicit and implicit. We claim that their questioning was a dialectical process in which conflicts arose due to interactions between students, as well as between students and the tree. Even though the students had never done practical science activities in their classrooms, they spontaneously performed some experiments to find answers to their own questions. We present evidence that they did this despite thinking that they were not supposed to do so. We discuss how and why the students engaged in questioning and investigating. We also discuss possibilities for how student questioning could flourish, even if not officially encouraged, at least as a subversive activity. </p>
 
@@ -473,7 +473,7 @@ Meena Kharatmal & Nagarjuna G., "A proposal to refine concept mapping for effect
 
 ## episteme 2
 
-Meena Kharatmal & Nagarjuna G., "An alternative proposal for eliciting and assessing students' knowledge structure" [Download PDF file](assets/11-episteme-2.pdf)
+Meena Kharatmal & Nagarjuna G., "An alternative proposal for eliciting and assessing students' knowledge structure". [Download PDF file](assets/11-episteme-2.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> In  this   paper,  we  propose an  objective  assessment  technique  for  evaluating  students'  knowledge structure.  The assessment task  is to  create propositions  based on  providing  with  constraints  i.e. concepts and linking words (relation types).  The propositions are validated based on a comparison with an expert's knowledge base. An illustration of the technique is presented from the domain of senior secondary school level biology.</p>
 
@@ -526,7 +526,7 @@ Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network for Te
 
 ## ANALYSIS OF GRAPHS IN SCHOOL TEXTBOOKS
 
-Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks" [Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
+Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks". [Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
 <p style="margin-left:10%; margin-right:10%;">We present here an analysis of school textbooks with graphs and  related  activities  as  the  point  of  focus.  The  sample textbooks that we have considered for the analysis are NCERT textbooks  (from  Grade  5  to  Grade  10,  in  the  subjects  of Science,  Mathematics  and  Social  Sciences).  A  quantitative analysis  is  done  on  frequency  of  occurrence,  types  and features of the graphs present in the different textbooks. We observe that the graphs are under-represented in the school textbooks. Considering the importance of the ability to read, construct  and  interpret  graphs  in  science  and  mathematics education we recommend strongly that in the future edition of textbooks graphs should be properly represented.</p>
 **Keywords**: Critical graphicacy, Textbook analysis, Graphs.
 
@@ -534,7 +534,7 @@ Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks" [Dow
 
 ## EPICYCLICAL ASTRONOMY: GEOGEBRA
 
-Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra" [Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
+Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra". [Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Epicycles  were  historically  used  by  the  ancient  Greeks  to explain  the  retrograde  motion  of  planets.  This  episode  in history of science is used as a case to show how we can use computer  simulations  to  visualize  complex,  abstract  ideas and  difficult  to  imagine  constructions.  We  present  here  a method developed using the dynamic mathematics software GeoGebra, to teach the concept of epicycles.</p>
 **Keywords**: GeoGebra,  Astronomy  education,  Epicycles,Visualization,  Constructionism.
@@ -543,7 +543,7 @@ Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra" [D
 
 ## ANALYSIS OF GROWTH OF KNOWLEDGE
 
-Meena Kharatmal and Nagarjuna G., "An analysis of Growth of knowledge based on concepts and predicates - A Preliminary study" [Download PDF file](assets/21-analysis-growth-knowledge-concepts-predicates-epi4-paper.pdf)
+Meena Kharatmal and Nagarjuna G., "An analysis of Growth of knowledge based on concepts and predicates - A Preliminary study". [Download PDF file](assets/21-analysis-growth-knowledge-concepts-predicates-epi4-paper.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Using the methodology of Refined Concept Mapping, we rerepresent the domain of cell biology of secondary and higher secondary levels of textbooks. In this study, we demonstrate that  although  the  number  of  concept  terms  increase progressively,  the  predicate  terms  achieve  constancy depicting  a  finite  set.  This  indicates  that  for  acquiring expertise  in  a  domain,  a  finite  set  of  predicate  terms  is sufficient.  In  this  paper,  we  illustrate  the  methodology  and discuss the pedagogical implications of the study</p>
 
@@ -580,44 +580,53 @@ Shraddha Ghumre, Nagarjuna G. & M. C. Arunan, "Collaborative Undergraduate Biolo
 
 ---
 
-Rafikh Shaikh, Nagarjuna G. & Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed Learning of Arithmetic Using a Chat Application" [Download PDF file](assets/26-132-409-1-PB.pdf)
+## Socialising Mathematics
 
-<p style="margin-left:10%; margin-right:10%;"></p>
+Rafikh Shaikh, Nagarjuna G. & Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed Learning of Arithmetic Using a Chat Application". [Download PDF file](assets/26-132-409-1-PB.pdf)
 
----
-
-[Download PDF file](assets/27-129-396-1-PB.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
+<p style="margin-left:10%; margin-right:10%;"> We report an exploratory study that examined the educational possibilities through a verbal messaging application (chat), and show that this activity has the potential for effectively teaching mathematical concepts. Communicating in a virtual chat room allows children to become literate, as well as situate themselves in a social environment. Because of the latter possibility, children look forward to this activity with lot of motivation and interest. We modified some rules of the virtual chat room in the Sugar Learning Platform to facilitate development of arithmetic skills like addition, subtraction and multiplication. We present the highlights of this chat room experiment, and outline the insights gained from the analysis ofthe logs collected over five months from a group of 15 tribal village students (3rd and 4th grade).</p>
 
 ---
 
+## Concept Maps
 
-[Download PDF file](assets/28-layers-episteme1.pdf)
+Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps". [Download PDF file](assets/27-129-396-1-PB.pdf)
+<p style="margin-left:10%; margin-right:10%;">While concept maps have been quite extensively used to represent static descriptions, it has not been used for its full potential for representing changes or processes. We propose a template and a limited set of linking phrases for representing change, with partial amendments in the concept mapping technique and the CmapTools. Usually, a process is represented in a object-centric manner specifying the object’s role init. In this proposal, we suggest a process-centric strategy with certain heuristics for representing processes. Considering the view that a process is a name to a change of state of an object involving time, sequence, causes, we make necessary proposals to the vocabulary and the form of representing a process. We end with a discussion on implications of this proposal to science education and concept mapping in general.</p>
+
+---
+## Layers in the Fabric of Mind
+
+G. Nagarjuna, "Layers in the Fabric of Mind: A Critical Review of Cognitive Ontogeny". [Download PDF file](assets/28-layers-episteme1.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Biological Roots of Knowledge
 
-[Download PDF file](assets/29-tracing-bio-roots-of-knowledge.pdf)
+G. Nagarjuna, "Tracing the Biological Roots of Knowledge". [Download PDF file](assets/29-tracing-bio-roots-of-knowledge.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Model of Life and Cognition
 
-[Download PDF file](assets/30-model-life.pdf)
+Nagarjuna G., "Towards a Model of Life and Cognition", 2006. [Download PDF file](assets/30-model-life.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## History of Science
 
-[Download PDF file](assets/31-hosBook.pdf)
+Nagarjuna G., "An Invitation to History of Science". [Download PDF file](assets/31-hosBook.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Research on Science, TEchnology and Mathematics Education
 
-[Download PDF file](assets/32-epi5_Proceedings_All_Chapters_version_final-3-gn.pdf)
+Nagarjuna G., Arvind Jamakhandi, Ebie M. Sam, "International Conference to Review Research on Science, TEchnology and Mathematics Education", 2013. [Download PDF file](assets/32-epi5_Proceedings_All_Chapters_version_final-3-gn.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Conceptual Structuresfor STEM Research and Education
 
-[Download PDF file](assets/33-lnai-cs-stem.pdf)
+Heather D. Pfeiffer, Dmitry I. Ignatov, Jonas Poelmans, Nagarjuna Gadiraju, "Conceptual Structuresfor STEM Research and Education" *20th International Conference on Conceptual Structures*, 2013. [Download PDF file](assets/33-lnai-cs-stem.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
@@ -626,25 +635,32 @@ Rafikh Shaikh, Nagarjuna G. & Sanjay Chandrasekharan, "Socialising Mathematics: 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Teaching-Learning Sequences
 
-[Download PDF file](assets/35-nagarjuna.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
-
----
-
-[Download PDF file](assets/36-Pragyaan_IT_June10.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
-
+Nagarjuna G., "Collaborative Creation of Teaching-Learning Sequences and an Atlas of Knowledge", *MATHEMATICS TEACHING-RESEARCH JOURNAL* 2009. [Download PDF file](assets/35-nagarjuna.pdf)
+<p style="margin-left:10%; margin-right:10%;">The article is about a new online resource, a collaborative portal for teachers, which publishes a network of prerequisites for teaching/learning any concept or an activity. A simple and effective method of collaboratively constructing teaching-learning sequences is presented. The special emergent properties of the dependency network and their didactic and epistemic implications are pointed.  The article ends with an appeal to the global teaching community to contribute prerequisites of any subject to complete the global roadmap for an altas being built on similar lines as Wikipedia. The portal is launched and waiting for community participation at http://www.gnowledge.org.</p>
 
 ---
+## Semantic Network
 
-[Download PDF file](assets/38-complex-systems-nnr_2013.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
+Rajiv Nair, G. Nagarjuna and Arnab K. Ray, "Semantic network in a free-software computer operating system", *Journal of Information Technology* p.53, 2010. [Download PDF file](assets/36-Pragyaan_IT_June10.pdf)
+<p style="margin-left:10%; margin-right:10%;">A nonlinear model has been posited for the global analysis of data pertaining to the semantic network of a complex operating system (free and open-source software). While the distribution of links in the dependency network of this system is scale-free for the intermediate nodes, the richest nodes deviate from this trend, and exhibit a nonlinearity-induced saturation effect. This also distinguishes the two directed networks of incoming and outgoing links from each other. The initial condition for a dynamic model, evolving towards the steady dependency distribution, determines the saturation properties of the mature scale-free network</p>
+
+**Keywords**: Networks; Nonlinear dynamics; Structures and organization in complex systems; Computer science.
 
 ---
+## Effects in the dependency networks of free and open-source software
 
-[Download PDF file](assets/39-conceptPaper.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
+Rajiv  Nair, G.  Nagarjuna and  Arnab  K.  Ray, "Finite-size effects in the dependency networks of free and open-source software", 2013. [Download PDF file](assets/38-complex-systems-nnr_2013.pdf)
+<p style="margin-left:10%; margin-right:10%;">We  propose  a  continuum  model  for  the  degree  distribution of  directed  networks  in  free  and  open-source software. The degree distributions of links in both the in-directed and out-directed dependency networks follow Zipf’s law for the intermediate nodes, but the heavily linked nodes and the poorly linked nodes deviate from this trend and exhibit finite-size effects.  The finite-size parameters make a quantitative distinction between the in-directed and out-directed networks. For the out-degree distribution, the initial condition for a dynamic evolution corresponds to the limiting count of the most heavily liked nodes that the out-directed network can finally have. The number of nodes contributing out-directed links grows with every generation of software release, but this growth ultimately saturates towards a terminal value due tothe finiteness of semantic possibilities in the network.</p>
+
+**Keywords**: Structures and organization in complex systems;Systems obeying scaling laws; Networks; Computer systems.
+
+---
+## Semantic Computing
+
+Nagarjuna G., "GNOWSYS: A System for Semantic Computing" [Download PDF file](assets/39-conceptPaper.pdf)
+<p style="margin-left:10%; margin-right:10%;"> The purpose of this essay is to introduce a heterogeneous computing environment with a possibility of semantic and formal annotations, covering the motivation, architecture, and functionality of the system called GNOWSYS(Gnowledge Networking and Organizing System). GNOWSYS is a system to specify, publish and query about multi-plelogics, ontologies, and epistemologies. Its kernel includes three semantic layers with increasing order of semantic specification, three groups of component classes for storing objects of various complexity in the knowledge base, and three levels of generality with objects belonging to tokens,types and metatypes. It has component classes for representing both declarative and procedural knowledge, and the latter specification is  executable enabling semantic and visual computing. It is specially made for publishing vocabularies, propositions, ontologies, complex systems, webservices, with or without formal annotation. Its architecture is not frozen, and is still actively taking shape. Hence a purpose of this communication is also a request for comments.</p>
 
 ---
 
@@ -657,9 +673,12 @@ Rafikh Shaikh, Nagarjuna G. & Sanjay Chandrasekharan, "Socialising Mathematics: 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Semantic structure and finite-size saturation
 
-[Download PDF file](assets/42-0901.4904v3.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
+Rajiv  Nair, G.  Nagarjuna & Arnab  K.  Ray, "Semantic structure and finite-size saturation in scale-free dependency networks of free software" [Download PDF file](assets/42-0901.4904v3.pdf)
+<p style="margin-left:10%; margin-right:10%;"> A continuum model has been proposed to fit the data pertaining to the directed networks in free and open-source software.  While the degree distributions of links in both the in-directed and out-directed dependency networks follow Zipf’s law for the intermediate nodes, the most richly linked nodes, as well as the most poorly linked nodes, deviate from this trend and exhibit finite-size effects. The finite-size parameters make a quantitative distinction between the in-directed and out-directed networks. Dynamic evolution of free software releases shows that the finite-size properties of the in-directed and out-directed networks are opposite in nature. For the out-degree distribution, the initial condition for a dynamic evolution also corresponds to the limiting count of rich nodes that the mature out-directed network can have. The number of nodes contributing out-directed links grows with each passing generation of software release,  but this growth ultimately saturates towards a finite value due to the finiteness of semantic possibilities in the network.</p>
+
+**Keywords**: Networks; Structures and organization in complex systems; Nonlinear dynamics; Computer science.
 
 ---
 
@@ -677,13 +696,16 @@ Rafikh Shaikh, Nagarjuna G. & Sanjay Chandrasekharan, "Socialising Mathematics: 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## National Policy on ICTs in School Education
 
-[Download PDF file](assets/55-What_policy_should_India_adoptfor_ICTin_school_education_by_NagarjunaG.pdf)
+Nagarjuna G., "Consultation on 'National Policy on ICTs in School Education", 2008. [Download PDF file](assets/55-What_policy_should_India_adoptfor_ICTin_school_education_by_NagarjunaG.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
+## Transition from Unconscious to Conscious
 
-[Download PDF file](assets/8-mom.pdf)
-<p style="margin-left:10%; margin-right:10%;"></p>
+Nagarjuna G., "Muscularity of Mind: Towards an Explanation of the Transition from Unconscious to Conscious", 2005.  [Download PDF file](assets/8-mom.pdf)
+<p style="margin-left:10%; margin-right:10%;">The title Muscularity of Mind indicates the point of view that is argued in this essay. I attempt to trace the roots of higher cognitive abilities to the physiological coupling that exists between neuro-sensory and muscular system. Most of the current discourses on the subject base their studies more on the nervous and sensory dimensions, neglecting the most crucial of all, the role of voluntary muscles in shaping the higher cognitive abilities. I make a claim that emancipation of voluntary muscles from the mandatory biological functions to take on the softer habits during the course of evolution played the crucial role in shaping the higher cognitive abilities. I undertake to explain the transition from procedural to declarative representation by hypothesizing that softer operations that a repeculiar to higher cognitive agents in the evolutionary order are rooted in the physiological nexus between neuro-sensory and muscular subsystems of the cognitive agent.The objective of this essay is to indicate that the problem cannot be solved without attending to this nexus.
+</p>
 
 ---
