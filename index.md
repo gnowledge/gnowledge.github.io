@@ -30,19 +30,20 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 - [Learning Studios: A customized operating system for STEM Education](https://www.gnowledge.org/projects/dev.html#learning-studios-a-customized-operating-system-for-stem-education)
 
 ## Research Projects
-- Structure and Dynamics of Knowledge Networks 
-- [Role of Linking Phrases and Representational Re-Description in Concept Mapping](https://www.gnowledge.org/projects/research.html#concept-mapping)
+- [Concept Mapping](https://www.gnowledge.org/projects/research.html#concept-mapping)
 - [Critical Graphicacy](https://www.gnowledge.org/projects/research.html#critical-graphicacy)
-- [Role of Shared Memory Space in Education](https://www.gnowledge.org/projects/research.html#shared-memory-space)
-- Roots and Branches of beingHuman
-- Cultivating and Recognition of STEM Habits/Practices
-
+- [Social Cognition](https://www.gnowledge.org/projects/research.html#social-cognition)
+- [Shared Memory Space](https://www.gnowledge.org/projects/research.html#shared-memory-space)
+- [Understanding Evolution](https://www.gnowledge.org/projects/research.html#understanding-evolution)
+- [Knowledge Network as a Complex System](https://www.gnowledge.org/projects/research.html#knowledge-network-as-a-complex-system)
+- [The Roots of beingHuman](https://www.gnowledge.org/projects/research.md#the-roots-of-beinghuman)
 ## Resources
 - [CUBE Projects](https://www.gnowledge.org/projects/resources-cube.html)
 - [MakerSpace Projects](https://www.gnowledge.org/projects/resources-makerspace.html)
 - [Digital Studio Projects](https://www.gnowledge.org/projects/resources-digitalstudio.html)
 
 ## Publications
+- [List of publications](https://www.gnowledge.org/publications.html)
 
 ## Team
 Visit the [team](https://www.gnowledge.org/team.html) page to know more about the members.
