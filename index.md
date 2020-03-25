@@ -36,7 +36,8 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 - [Shared Memory Space](https://www.gnowledge.org/projects/research.html#shared-memory-space)
 - [Understanding Evolution](https://www.gnowledge.org/projects/research.html#understanding-evolution)
 - [Knowledge Network as a Complex System](https://www.gnowledge.org/projects/research.html#knowledge-network-as-a-complex-system)
-- [The Roots of beingHuman](https://www.gnowledge.org/projects/research.md#the-roots-of-beinghuman)
+- [The Roots of beingHuman](https://www.gnowledge.org/projects/research.html#the-roots-of-beinghuman)
+
 ## Resources
 - [CUBE Projects](https://www.gnowledge.org/projects/resources-cube.html)
 - [MakerSpace Projects](https://www.gnowledge.org/projects/resources-makerspace.html)
