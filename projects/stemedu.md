@@ -117,4 +117,4 @@ schools which fosters connected learning in disconnected spaces  through the con
 
 The HBCSE has contributed to CLIx in the design and development of i2C – a digital literacy course for high school students. The HBCSE staff actively contribute towards the technology transfer to CLIx implementation teams by conducting workshops, training teachers and providing technical support on an ongoing basis.
 
-[Read full details about CLIx](https://www.gnowledge.org/projects/clix.html)
+[Read full details about CLIx](https://clix.tiss.edu/about/)
