@@ -8,7 +8,7 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
-### Basic Astronomy 
+### Learning Basic Astronomy Through an Embodied and Interactive Approach 
 
 Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Through an Embodied and Interactive Approach", *International Conference to review research in Science Technology and Mathematics Education*, 2020. [Download PDF file](assets/Shaikhetal-epiSTEME8.pdf)
 
@@ -16,7 +16,7 @@ Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Thr
 
 ---
 
-### TSG24
+### Impact of computer-mediated sharing on classroom activities
 
 Shaikh Rafikh, Harita Raval, Harshit Agrawal, and G. Nagarjuna, "Impact of computer-mediated sharing on classroom activities.", *The 14th International Congress on Mathematical Education Shanghai*, 2020. [Download PDF file](assets/TSG24_Pa_Shaikh.pdf)
 
@@ -46,7 +46,8 @@ STEM policy and practice. [Also published as a blog here, where you can discuss 
 
 
 
-### ZPD in Connected Learning
+### Zone of Proximal Development in the Era of Connected Computers
+
 Rafikh Shaikh, Amit Dhakulkar, G. Nagarjuna, "Zone of Proximal
 Development in the Era of Connected Computers", In S. Ladage and
 S. Narvekar (Eds.), Proceedings of epiSTEME7: Seventh International
@@ -58,7 +59,7 @@ Education, HBCSE (pp. 214-221). India: CinnamonTeal. 2018 [Download PDF file](as
 
 ---
 
-### Justice in a Digital Society
+### Distributing Justice in a Digital Society
 
 Nagarjuna G., "Distributing Justice in a Digital Society", *Breakthrough: A Journal for Science and Society*, Volume 20, Issue 3, Breakthrough Science Society, 2018. [Download PDF file](assets/mediaPolitics-11-10-2018 .pdf) 
 
@@ -84,7 +85,7 @@ discuss and comment.](https://x.metastudio.org/t/distributing-justice-in-a-digit
 
 
 
-### CSCL 2017
+### Instant Sharing Makes Task More Engaging in Computer Aided Classroom
 Rafikh Shaikh, Harshit Agrawal, Nagarjuna G., and Mrunal Nachankar, "Instant Sharing Makes Task More Engaging in Computer Aided Classroom", Proceedings of CSCL, pp. 609-612 2017. [Download PDF file](assets/CSCL2017-Rafikh.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> With the advent of
@@ -106,7 +107,8 @@ after some days, while experimental group students remained active on
 it till the end of the four-month period.</p>
 
 ---
-### A Slate for Every Child
+### A slate for every child: rethinking education in the age of computers
+
 Amit Dhakulkar, Rafikh Shaikh, "A slate for every child: rethinking
 education in the age of computers" *Teacher Plus Magazine*, 15. 30-33,
 May-June 2017. [Download PDF file](assets/A-slate-for-every-child_ rethinking-education-in-the-age-of-computers.pdf)
@@ -127,11 +129,9 @@ short answer to that was: “You give a million computers to a
 million children!”</p>
 ___
 
-### Instant Messaging
+### Analyzing Instant Messaging Environment as a Learning-Teaching Tool
 
-Rafikh Shaikh, Rachana Katkam, Nagarjuna G., "Analyzing Instant
-Messaging Environment as a Learning-Teaching Tool", Proceedings of the
-Workshop on Computer Based Learning Environments for Deep Learning in
+Rafikh Shaikh, Rachana Katkam, Nagarjuna G., "Analyzing Instant Messaging Environment as a Learning-Teaching Tool", Proceedings of the Workshop on Computer Based Learning Environments for Deep Learning in
 Inquiry and Problem Solving Contexts, The Pre-Conference Workshop at
 ICLS, Singapore, 2016. [Download PDF file](assets/ICLS2016-Rafikh.pdf)
 
@@ -139,7 +139,7 @@ ICLS, Singapore, 2016. [Download PDF file](assets/ICLS2016-Rafikh.pdf)
 
 ---
 
-### Reference Set of Linking Words
+### Using Semantic Reference Set of Linking Words for Concept Mapping in Biology
 
 Meena Kharatmal and G. Nagarjuna, "Using Semantic Reference Set of Linking Words for Concept Mapping in Biology", In A. Canas, P. Reiska & J. Novak (Eds.) *Innovating with concept mapping. Communications in computer and information science series (Vol. 635, pp. 315-329). Springer International Publisher.*, 2016. [Download PDF file](assets/Using-Semantic-Reference-Set-of-Linking-Words-for-Concept-Mapping-in-Biology-2016.pdf)
 
@@ -147,7 +147,7 @@ Meena Kharatmal and G. Nagarjuna, "Using Semantic Reference Set of Linking Words
 
 ---
 
-### Measuring the Mustard Seed
+### Measuring the mustard seed: indirect measurement and mathematical modelling
 
 Amit Dhakulkar, Nagarjuna G, and Samir Dhurde, "Measuring the
  mustard seed: an exercise in indirect measurement and mathematical
@@ -176,7 +176,7 @@ data, graphicacy, indirect measurement, graphs,
 
 
 ---
-### Dependency networks of FOSS
+### Finite-size effects in the dependency networks of FOSS
 
 Rajiv  Nair, G.  Nagarjuna and  Arnab  K.  Ray, "Finite-size effects in the dependency networks of free and open-source software", *Complex Systems, Vol. 23*, 2014. [Download PDF file](assets/complexsystems.pdf)
 <p style="margin-left:10%; margin-right:10%;">We  propose  a  continuum  model  for  the  degree  distribution of  directed  networks  in  free  and  open-source software. The degree distributions of links in both the in-directed and out-directed dependency networks follow Zipf’s law for the intermediate nodes, but the heavily linked nodes and the poorly linked nodes deviate from this trend and exhibit finite-size effects.  The finite-size parameters make a quantitative distinction between the in-directed and out-directed networks. For the out-degree distribution, the initial condition for a dynamic evolution corresponds to the limiting count of the most heavily liked nodes that the out-directed network can finally have. The number of nodes contributing out-directed links grows with every generation of software release, but this growth ultimately saturates towards a terminal value due tothe finiteness of semantic possibilities in the network.</p>
@@ -185,7 +185,7 @@ Rajiv  Nair, G.  Nagarjuna and  Arnab  K.  Ray, "Finite-size effects in the depe
 
 ---
 
-### Mapping to Concept Lattices
+### A Proposal to Extend Concept Mapping to Concept Lattices for Representing Biology
 Meena Kharatmal, "A Proposal to Extend Concept Mapping to Concept Lattices for Representing Biology"
 in Summer School on “Methodology of task design – How to construct exercises for learning”  Technische Universität Dresden, Dresden, Germany , 22 – 27 September 2014. [Download PDF file](assets/A-Proposal-to-Extend-Concept-Mapping-to-Concept-Lattices-for-Representing-Biology-2014.pdf)
 
@@ -205,7 +205,7 @@ teaching learning, cognitive assessment.</p>
 analysis, assessment, knowledge structure, biology
 
 ___
-### Model of Life and Cognition
+### Towards a Model of Life and Cognition
 
 Nagarjuna G., "Towards a Model of Life and Cognition", *in Foundations of Science, B. V. Sreekantan, Ed. Centre for Studies in Civilizations, Pergamon Press, pp. 694–737*, 2014. [Download PDF file](assets/30-model-life.pdf)
 <p style="margin-left:10%; margin-right:10%;">This essay is an attempt to answer the question: What should be the ontological
@@ -225,7 +225,7 @@ foundations can indeed explain the actual world.</p>
 {:toc}
 
 
-### Representing Change
+### Representing Change Using Concept Maps
 
 Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps", *Proceedings of epiSTEME 5, International Conference to Review Research on Science, TEchnology and Mathematics Education* 2013. [Download PDF file](assets/Representing-Change-Using-Concept-Maps-2013.pdf)
 
@@ -233,7 +233,7 @@ Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps", *Proce
 
 ---
 
-### Socializing Mathematics
+### Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application
 
 Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application", *In Nagarjuna G., Arvind Jamakhandi, and Ebie M. Sam (Eds.) Procceedings of epiSTEME-5, pp.321-327*, 2013. [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
 
@@ -247,14 +247,14 @@ Nagarjuna G., Arvind Jamakhandi, Ebie M. Sam, "International Conference to Revie
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
-### Measuring the Mustard Seed
+### Measuring the Mustard Seed: First Exercise in Modelling the Real World
 Amit Dhakulkar, Samir Dhurde & Nagarjuna G., "Measuring the Mustard Seed: First Exercise in Modelling the Real World". *Proceedings of epiSTEME 5, International Conference to Review Research on Science, TEchnology and Mathematics Education*, 2013 [Download PDF file](assets/24-136-389-1-PB.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Constructing, reading and understanding graphs is an inter disciplinary and important skill in today’s world. Though being such an important skill students are not taught explicitly to develop this important skill. Also there has been an urge in the literature for the students to use real world data to make sense ofthe concepts that they learn. In general students are not provided with opportunities to make the skill explicit, and link it up with their life experiences the concepts and subjects that they learn. We present here a simple task which provides the students a context in which real world data is collected, and used to construct a simple linear mathematical model. This task connects different skills like measurement, graphicacy, mathematical modelling and at the same time also helps a two way transition between the abstract mathematical world and the concrete physical world.</p>
 
 ---
 
-### Re-Structuring Undergraduate Biology Education
+### CUBE: Re-Structuring Undergraduate Biology Education
 
 Shraddha Ghumre, Nagarjuna G. & M. C. Arunan, "Collaborative Undergraduate Biology Research: Re-Structuring Undergraduate Biology Education in India", *Proceedings of epiSTEME 5, International Conference to Review Research on Science, TEchnology and Mathematics Education*, 2013 [Download PDF file](assets/25-169-428-1-PB.pdf)
 
@@ -272,13 +272,13 @@ Heather D. Pfeiffer, Dmitry I. Ignatov, Jonas Poelmans, Nagarjuna Gadiraju, "Con
 
 
 
-### Complex networks in FOSS
+### Features of complex networks in FOSS OS
 Rajiv Nair, G Nagarjuna, Arnab K Ray, "Features of complex networks in a free-software operating system" *International Conference on Recent Trends in Physics*, 2012. [Download PDF file](assets/23-1742-6596_365_1_012058.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">We  propose  a  mathematical  model  to  fit  the  degree  distribution  of  directed  dependency networks  in  free  and  open-source  software.   In  this  complex  system,  the  intermediate  scales  of  both the in-directed and out-directed dependency networks follow a power-law trend (specifically Zipf’s law). Deviations from this feature are found both for the highly linked nodes, and the poorly linked nodes.  This is due to finite-size effects in the networks, and the parameters needed to model finite-size behaviour make a quantitative distinction between the in-directed and out-directed networks.  We also provide a model to describe the dynamic evolution of the network, and account for its saturation in the long-time limit.</p>
 
 ---
-### ANALYSIS OF GRAPHS IN SCHOOL TEXTBOOKS
+### An analysis of graphs in school textbooks
 
 Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks". *Proceedings of epiSTEME 4 International Conference to Review Research on Science, Technology and Mathematics Education, Mumbai, pp. 127–131.*, 2011 [Download PDF file](assets/19-dhakulkar-nagarjunag.pdf)
 <p style="margin-left:10%; margin-right:10%;">We present here an analysis of school textbooks with graphs and  related  activities  as  the  point  of  focus.  The  sample textbooks that we have considered for the analysis are NCERT textbooks  (from  Grade  5  to  Grade  10,  in  the  subjects  of Science,  Mathematics  and  Social  Sciences).  A  quantitative analysis  is  done  on  frequency  of  occurrence,  types  and features of the graphs present in the different textbooks. We observe that the graphs are under-represented in the school textbooks. Considering the importance of the ability to read, construct  and  interpret  graphs  in  science  and  mathematics education we recommend strongly that in the future edition of textbooks graphs should be properly represented.</p>
@@ -286,7 +286,7 @@ Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks". *Pr
 
 ---
 
-### Gnowth of Knowledge
+### An Analysis of Growth of Knowledge based on Concepts and Predicates
 
 M. Kharatmal and G. Nagarjuna, “An Analysis of Growth of Knowledge based on Concepts and Predicates,”
 in *In S. Chunawala and M. Kharatmal (Eds.) Proceedings of
@@ -310,7 +310,7 @@ Knowledge representation, Cell biology
 
 ___
 
-### EPICYCLICAL ASTRONOMY: GEOGEBRA
+### Epicyclical Astronomy: A case for Geogebra
 
 Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra". *Proceedings of epiSTEME 4 International Conference to Review Research on Science, Technology and Mathematics Education, Mumbai, pp. 324–328*, 2011 [Download PDF file](assets/20-dhakulkar-nagarjunag-2.pdf)
 
@@ -320,7 +320,7 @@ Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra". *
 ---
 
 
-### Primer for Conceptual Structures
+### Proposal for developing a primer for constructing and analyzing conceptual structures
 
 G.Nagarjuna and M. Kharatmal, “Proposal for developing a primer for
 constructing and analyzing conceptual structures,” in *Proceedings
@@ -343,7 +343,7 @@ sentation, propositions, logic, philosophy, teaching-learning.
 ___
 
 
-### Teaching Learning Sequences
+### Building a Dependency Network for Teaching-Learning of Conceptual Structures
 
 Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency
 Network for Teaching-Learning of Conceptual Structures", *Proceedings
@@ -366,7 +366,7 @@ organization is discussed.</p>
 
 ___ 
 
-### Rigor in Concept Maps
+### Introducing Rigor in Concept Maps
 
 Meena Kharatmal and G. Nagarjuna, "Introducing Rigor in Concept Maps", *M. Croitoru, S. Ferr ́e, and D. Lukose (Eds.): ICCS 2010, LNAI 6208, pp. 199–202, Springer-Verlag Berlin Heidelberg*, 2010. [Download PDF file](assets/Introducing-Rigor-in-Concept-Maps-2010.pdf)
 
@@ -375,7 +375,7 @@ Meena Kharatmal and G. Nagarjuna, "Introducing Rigor in Concept Maps", *M. Croit
 **Keywords**: concept maps, conceptual structures, disambiguation, education, knowledge representation, rigor.
 
 ---
-### Teaching-Learning of Conceptual Structures
+### Building a Dependency Network for Teaching-Learning of Conceptual Structures
 
 Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network for Teaching-Learning of Conceptual Structures", *In conjunction with ICCS-2010 18th International Conference on Conceptual Structures*,p.13, 2010 [Download PDF file](assets/18-CS-LTA_FullProceedings.pdf)
 
@@ -384,7 +384,7 @@ Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network for Te
 ---
 
 
-### Semantic Network in FOSS
+### Semantic network in a free-software computer operating system
 
 Rajiv Nair, G. Nagarjuna and Arnab K. Ray, "Semantic network in a free-software computer operating system", *Journal of Information Technology* p.53, 2010. [Download PDF file](assets/36-Pragyaan_IT_June10.pdf)
 <p style="margin-left:10%; margin-right:10%;">A nonlinear model has been posited for the global analysis of data pertaining to the semantic network of a complex operating system (free and open-source software). While the distribution of links in the dependency network of this system is scale-free for the intermediate nodes, the richest nodes deviate from this trend, and exhibit a nonlinearity-induced saturation effect. This also distinguishes the two directed networks of incoming and outgoing links from each other. The initial condition for a dynamic model, evolving towards the steady dependency distribution, determines the saturation properties of the mature scale-free network</p>
@@ -392,14 +392,14 @@ Rajiv Nair, G. Nagarjuna and Arnab K. Ray, "Semantic network in a free-software 
 **Keywords**: Networks; Nonlinear dynamics; Structures and organization in complex systems; Computer science.
 
 ---
-### GNOWSYS-mode in Emacs
+### GNOWSYS-mode: An Emacs based Text Editor for Semantic and Structured Document Editing
 Divya Sinha, Alpesh Gajbe, Rajiv Nair, Ganesh Gajre, Nagarjuna G., "GNOWSYS-mode: An Emacs based Text Editor for Semantic and Structured Document Editing". *In Proceedings of Workshop on Collaborative Construction, Management and Linking of Structured Knowledge (CK2009)*, 2009. [Download PDF file](assets/13-paper.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Keeping the requirements of the semantic web in mind we have developed a pure text based collaborative editing environment to create, update and manage knowledge networks and structured documents. It works as a client to the GNOWSYS server. GNOWSYS (Gnowledge Networking and Organizing System) is a frame based triple-store supporting version control, publishing and managing multiple ontologies along with instances.</p>
 
 ---
 
-### Eliciting Students' Understanding
+### Concept Mapping for eliciting Students' Snderstanding of Science
 Meena Kharatmal, "Concept Mapping for Eliciting Students' Understanding of Science, *Indian Educational Review* Vol. 45, No.2, July 2009. [Download PDF file](assets/Concept-Mapping-for-Eliciting-Students-Understanding-of-Science-2009.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> Students' understanding of science has been of considerable importance in the area of science education research. It tries to focus on issues such as conceptual understanding, teaching of science, students' knowledge structure, tools that can aid in their understanding of science, etc. Concept map is one such tool that is being used to elicit students' knowledge and teaching and learning in a given domain. Concept maps are two-dimensional, hierarchical, node-link diagrams that depict knowledge. This article presents a review of concept maps in science education research with an illustration of a case study on the effectiveness of concept maps for eliciting students' knowledge structure from the domain of cell biology. The study used two different methods---description and concept maps---for depicting students' knowledge. The study depicts a significant increase in the depiction of concepts and propositions using the concept mapping method as compared to the description method.
@@ -407,15 +407,15 @@ Meena Kharatmal, "Concept Mapping for Eliciting Students' Understanding of Scien
 </p>
 ---
 
-### Feasibility of Refined Concept Maps
+### Refined Concept Maps for Science Education
 
-Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: A FeasibilityStudy", *Proceedings of epiSTEME 3, International Conference to Review Research on Science, TEchnology and Mathematics Education*, 2009. [Download PDF file](assets/Refined-Concept-Maps-for-Science-Education-A-Feasibility-2009.pdf)
+Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: A Feasibility Study", *Proceedings of epiSTEME 3, International Conference to Review Research on Science, TEchnology and Mathematics Education*, 2009. [Download PDF file](assets/Refined-Concept-Maps-for-Science-Education-A-Feasibility-2009.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> Refined  concept  map  (RCM)  is  comprised  of  node  names and a well-defined, invariant, minimal set of relation names. Using  RCM  as  a  methodology,  it  can  be  applied  to  study the changes in the knowledge structure, as a tool for analysis of forms of representations. In this paper, we discuss the study conducted to test the ease and feasibility of RCM by comparing it with other modes of representation. A homo-geneous sample of school students were assigned the same task from a specific domain. The analysis shows that it was easy and feasible to use RCM by the school students. The fixed set of relation names, does not affect the expression of  knowledge  and  at  the  same  time  helps  in  representing accurate knowledge. The constraints in the RCM served as an anchoring and a facilitator  for  representing  scientific knowledge.</p>
 
 ---
 
-### GNOWSYS-mode in Emacs
+### GNOWSYS-mode in Emacs for collaborative construction of knowledge networks in plain text
 
 Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emacs for collaborative construction of knowledge networks in plain text." *in 8th International Semantic Web Conference (ISWC2009)*, 2009 [Download PDF file](assets/14-paper191.pdf)
 
@@ -423,7 +423,7 @@ Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emac
 
 ---
 
-### SELF Platform
+### SELF Platform: A Teacher - Centric Collaborative Authoring System
 
 Meena KHARATMAL, Nagarjuna G., "SELF Platform: A Teacher - Centric Collaborative Authoring System", *Journal of Applied Collaborative Systems*, Vol. 1, No. 2, 2009. [Download PDF file](assets/SELF-Platform-A-Teacher-Centric-Collaborative-Authoring-System-2009.pdf)
 
@@ -432,13 +432,13 @@ Meena KHARATMAL, Nagarjuna G., "SELF Platform: A Teacher - Centric Collaborative
 **Keywords**: e-learning,    collaboration  content  management,  collaborative  authoring system, free knowledge creation, SCORM, LOM, open standards.
 
 ---
-### Common Roots
+### Common Roots of Perception, Conception and Conscious Action
 Nagarjuna G., "Common Roots of Perception, Conception and Conscious Action", *In Procceedings of International Conference on Language, Mind and Social Construction, IIT Mumbai, p.83-104,* 2009. 2009. [Download PDF file](assets/15-unity-of-pct.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
-### Semantic structure and finite-size saturation
+### Semantic structure and finite-size saturation in scale-free dependency networks of free software
 
 Rajiv  Nair, G.  Nagarjuna & Arnab  K.  Ray, "Semantic structure and finite-size saturation in scale-free dependency networks of free software", *Pre-print https://arxiv.org/abs/0901.4904v3*, 2009 [Download PDF file](assets/42-0901.4904v3.pdf)
 <p style="margin-left:10%; margin-right:10%;"> A continuum model has been proposed to fit the data pertaining to the directed networks in free and open-source software.  While the degree distributions of links in both the in-directed and out-directed dependency networks follow Zipf’s law for the intermediate nodes, the most richly linked nodes, as well as the most poorly linked nodes, deviate from this trend and exhibit finite-size effects. The finite-size parameters make a quantitative distinction between the in-directed and out-directed networks. Dynamic evolution of free software releases shows that the finite-size properties of the in-directed and out-directed networks are opposite in nature. For the out-degree distribution, the initial condition for a dynamic evolution also corresponds to the limiting count of rich nodes that the mature out-directed network can have. The number of nodes contributing out-directed links grows with each passing generation of software release,  but this growth ultimately saturates towards a finite value due to the finiteness of semantic possibilities in the network.</p>
@@ -447,7 +447,7 @@ Rajiv  Nair, G.  Nagarjuna & Arnab  K.  Ray, "Semantic structure and finite-size
 
 ---
 
-### Teaching-Learning Sequences
+### Collaborative Creation of Teaching-Learning Sequences and an Atlas of Knowledge
 
 Nagarjuna G., "Collaborative Creation of Teaching-Learning Sequences and an Atlas of Knowledge", *Mathematics Teaching-Research Journal* 2009. [Download PDF file](assets/35-nagarjuna.pdf)
 <p style="margin-left:10%; margin-right:10%;">The article is about a new online resource, a collaborative portal for teachers, which publishes a network of prerequisites for teaching/learning any concept or an activity. A simple and effective method of collaboratively constructing teaching-learning sequences is presented. The special emergent properties of the dependency network and their didactic and epistemic implications are pointed.  The article ends with an appeal to the global teaching community to contribute prerequisites of any subject to complete the global roadmap for an altas being built on similar lines as Wikipedia. The portal is launched and waiting for community participation at http://www.gnowledge.org.</p>
@@ -468,7 +468,7 @@ and educational institutions to take hold of the power, and how we can fight thi
 software is an eminent choice for education, and is an ethical and political choice to exercise.</p>
 
 ---
-### Biological Roots of Knowledge
+### Tracing the Biological Roots of Knowledge
 
 G. Nagarjuna, "Tracing the Biological Roots of Knowledge", *in Life and Organicism, Rangaswamy. N. S., Ed. Centre for Studies in Civilizations,* 2009. [Download PDF file](assets/29-tracing-bio-roots-of-knowledge.pdf)
 <p style="margin-left:10%; margin-right:10%;">Traditionally questions in epistemology took for granted the uniqueness of the human being, and
@@ -489,7 +489,7 @@ that is Mind in Nature.</p>
 
 ---
 
-### Roots of rigor
+### Exploring Roots of Rigor:Novice to an Expert
 
 Meena Kharatmal & Nagarjuna G., "Exploring Roots of Rigor: A Proposal of a Methodology for Analyzing the
 Conceptual Change from a Novice to an Expert", in *Concept Mapping: Connecting Educators
@@ -526,17 +526,17 @@ provided for discussion. The document does not cover the pros and cons of using 
 education. I will try to intervene during the deliberations on these issues. </p>
 
 ---
-### SELF Platform Development
+### SELF Platform Development: localised and tested system
 Nagarjuna G. ,"SELF Platform Development: localised and tested system", 2008[Download PDF file](assets/48-D6_SELF-Platform-v1.0.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
-### SELF Platform Defination 
+### SELF Plaform Techincal Document 
 SELF Project Team, "SELF Plaform Techincal Document", 2007.[Download PDF file](assets/47-SELF_Platform_Definition_20070213.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
-### Is OOXML Open Standard?
+### Is Ecma OOXML Open Standard?
 
 [Nagarjuna G., "Why Ecma OOXML cannot be regarded as a free/open document standard?", *Note submitted to the Working Committee, Board of Indian Standards on
 WordprocessingXML, a component of OOXML*, 2007 [Download PDF file](assets/40-bis-note-on-ooxml.pdf)
@@ -550,7 +550,7 @@ Ecma.  Some of the details already published are not included in
 this document.</p>
 
 ---
-### Eliciting Students' Knowledge
+### Eliciting and Assessing Students’Knowledge Structure
 
 Meena Kharatmal, G. Nagarjuna, “An Alternative Proposal for Eliciting
 and Assessing Students’Knowledge Structure,” *Episteme 2: Second
@@ -594,14 +594,14 @@ criteria alone.</p>
 
 ___
 
-### Refine Concept Mapping
+### A proposal to refine concept mapping for effective science learning
 
 Meena Kharatmal & Nagarjuna G., "A proposal to refine concept mapping for effective science learning", *Concept Maps: Theory, Methodology, Technology Proc. of the Second Int. Conference on Concept Mapping*, 2006. [Download PDF file](assets/10-cmc2006-p151.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Concept  maps  are  found  to  be  useful  in  eliciting  knowledge,  meaningful  learning,  evaluation  of  understanding  and  in  studying the nature of changes taking place during cognitive development, particularly in the classroom. Several experts have claimed the  effectiveness  of  this  tool  for  learning  science.  We  agree  with  the  claim,  but  the  effectiveness  will  improve  only  if  we  gradually introduce a certain amount of discipline in constructing the maps. The discipline is warranted, we argue, because science thrives to be an  unambiguous  and  rigorously  structured  body  of  knowledge.  Since  learning  science  may  be  seen  as  a  process  where  a  novice  is  expected to be transformed into an expert, we use the context of learning science for making the proposal. Further, we identify certain anomalies  in  the  evaluation  of  concept  maps,  and  suggest  that  the  evaluation  should  be  based  on  semantics  of  the  linking  words  (relation types) and not on graphical criteria alone. </p>
 
 ---
-### Layers in the Fabric of Mind
+### Layers in the Fabric of Mind: A Critical Review of Cognitive Ontogeny
 
 G. Nagarjuna, "Layers in the Fabric of Mind: A Critical Review of Cognitive Ontogeny" , *In Research Trends in Science, Technology and Mathematics Education,J. Ramadas and S. Chunawala, Eds. Homi Bhabha Centre for Science Education,TIFR*, 2006. [Download PDF file](assets/28-layers-episteme1.pdf)
 <p style="margin-left:10%; margin-right:10%;">The focus in this essay is on metasystem transitions: from biologically rooted procedural knowledge to socially rooted declarative knowledge. Another fundamental transition, from folklore to science, will be alluded to while drawing the picture of the layers in the fabric of mind towards the end.</p>
@@ -610,7 +610,7 @@ G. Nagarjuna, "Layers in the Fabric of Mind: A Critical Review of Cognitive Onto
 
 
 
-### Transition from Unconscious to Conscious
+### Muscularity of Mind: Towards an Explanation of the Transition from Unconscious to Conscious
 
 Nagarjuna G., "Muscularity of Mind: Towards an Explanation of the Transition from Unconscious to Conscious", *in Annual Conference of European Society for Philosophy and Psychology (ESPS), in Lund, Sweden, http://cogprints.Org/4352,* 2005.  [Download PDF file](assets/8-mom.pdf)
 <p style="margin-left:10%; margin-right:10%;">The title Muscularity of Mind indicates the point of view that is argued in this essay. I attempt to trace the roots of higher cognitive abilities to the physiological coupling that exists between neuro-sensory and muscular system. Most of the current discourses on the subject base their studies more on the nervous and sensory dimensions, neglecting the most crucial of all, the role of voluntary muscles in shaping the higher cognitive abilities. I make a claim that emancipation of voluntary muscles from the mandatory biological functions to take on the softer habits during the course of evolution played the crucial role in shaping the higher cognitive abilities. I undertake to explain the transition from procedural to declarative representation by hypothesizing that softer operations that a repeculiar to higher cognitive agents in the evolutionary order are rooted in the physiological nexus between neuro-sensory and muscular subsystems of the cognitive agent.The objective of this essay is to indicate that the problem cannot be solved without attending to this nexus.
@@ -618,7 +618,7 @@ Nagarjuna G., "Muscularity of Mind: Towards an Explanation of the Transition fro
 
 ---
 
-### Knowledge Management
+### Information and Knowledge Management Using GNOWSYS
 
 Meena Kharatmal, Sandhya R. and Nagarjuna G., "Information and Knowledge Management Using GNOWSYS", *Conference Proceedings. Recent Advances in Information Technology*, p.160, 2005. [Download PDF file](assets/Information-and-Knowledge-Management-Using-GNOWSYS-2005.pdf) 
 
@@ -649,14 +649,14 @@ Library, Knowledge Organization, Semantic Web.
 ---
 
 
-### Semantic Computing
+### GNOWSYS: A System for Semantic Computing
 
 Nagarjuna G., "GNOWSYS: A System for Semantic Computing", *Homi Bhabha centre for Science Education, Tata Institute of Fundamental Research,* 2005. [Download PDF file](assets/39-conceptPaper.pdf)
 <p style="margin-left:10%; margin-right:10%;"> The purpose of this essay is to introduce a heterogeneous computing environment with a possibility of semantic and formal annotations, covering the motivation, architecture, and functionality of the system called GNOWSYS(Gnowledge Networking and Organizing System). GNOWSYS is a system to specify, publish and query about multi-plelogics, ontologies, and epistemologies. Its kernel includes three semantic layers with increasing order of semantic specification, three groups of component classes for storing objects of various complexity in the knowledge base, and three levels of generality with objects belonging to tokens,types and metatypes. It has component classes for representing both declarative and procedural knowledge, and the latter specification is  executable enabling semantic and visual computing. It is specially made for publishing vocabularies, propositions, ontologies, complex systems, webservices, with or without formal annotation. Its architecture is not frozen, and is still actively taking shape. Hence a purpose of this communication is also a request for comments.</p>
 
 ---
 
-### Knowledge Organizers for Science Education
+### Understanding Science Through Knowledge Organizers
 
 Meena Kharatmal and Nagarjuna G., "Understanding Science Through Knowledge Organizers: An Introduction", *In Episteme-1: An International Conference to review
 Research on Science, Technology and Mathematics Education, pp. 13–17*, 2004. [Download PDF file](assets/Understanding-Science-Through-Knowledge-Organizers-An-Introduction-2004.pdf)
@@ -665,7 +665,7 @@ Research on Science, Technology and Mathematics Education, pp. 13–17*, 2004. [
 
 ---
 
-### History of Science
+### An Invitation to History of Science
 
 Nagarjuna G., "An Invitation to History of Science". [Download PDF file](assets/31-hosBook.pdf)
 <p style="margin-left:10%; margin-right:10%;"></p>
