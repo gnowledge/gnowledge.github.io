@@ -36,12 +36,15 @@ The added 'A' refers to art. We interpret the four components of STEM as sub-cul
 
 Designing and creating tools and media is engineering. Thus, the design is an integral part of engineering. We grant a collection of badges for design thinking. Research projects as a context for learning and teaching define the scope of STEMgames.
 
-# STEM Habits
+# [STEM Habits](https://metastudio.org/t/what-are-stem-habits/52)
 This platform is specially designed and crafted to recognize and cultivate the habits/practices that promote STEM (Science, Technology, Engineering, Mathematics) culture in society. Each project we publish here will be mapped to specific STEM habits, and those who complete the project will be credited by awarding the specific badges. If you are interested in designing projects, you are invited too! Some of you could become referees of these projects and could grant badges to participants or design projects by becoming Staff (organizers) of this platform.
-![CUBE_1|608x500](https://metastudio.org/uploads/default/original/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3.png) 
+
+![STEM Habits Summary](https://metastudio.org/t/glab-gallery-resources/2786) 
 
 # Why Games? 
 Games are rule-following practices, and the rules are known to the players as well as to the spectators. Academic practices also follow rules. Often the rules are not made explicit in the conventional STEM education. When we make the rules explicit, not only the practitioners but also the spectators can develop an understanding of research and development activities that happen in STEM labs. For wider appreciation and participation of STEM projects, we label the practices in the form of habits that can be cultivated as well as recognized.
+
+![CUBE_1|608x500](https://metastudio.org/uploads/default/original/2X/f/f1ca6b78917f085c44c4d4d1b97ad490cc3db4c3.png)
 
 # Badges 
 We grant two kinds of [badges](https://metastudio.org/badges): for COOOL Habits and for STEM Habits. COOOL habits are about how civil, engaging and collaborative we are, while STEM habits are required for becoming proficient STEM practitioners. COOOL badges are granted automatically by the platform, while the STEM Habits are granted by the qualified referees whenever participants display proficiency in any of the mentioned STEM habits. Most of these badges can be granted multiple times to participants. Certificates will be awarded based on cumulative score. Eventually, we will opt for recognition from certifying agencies like education boards, UGC, academies and employment agencies like industries, entrepreneurs, Govt bodies.
