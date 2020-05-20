@@ -133,4 +133,4 @@ the NUSSD program, and the course is still being offered. [An online archived ve
 
 ## An Invitation to Connected Learning Initiative (CLIx)
 
-
+Details about CLIx initiative can be found [here](https://www.gnowledge.org/projects/stemedu.html#clix-connected-learning-initiative)
