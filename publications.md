@@ -129,7 +129,7 @@ short answer to that was: “You give a million computers to a
 million children!”</p>
 ___
 
-### Analyzing Instant Messaging Environment as a Learning-Teaching Tool
+### Analyzing Instant Messaging Environment as Learning-Teaching Tool
 
 Rafikh Shaikh, Rachana Katkam, Nagarjuna G., "Analyzing Instant Messaging Environment as a Learning-Teaching Tool", Proceedings of the Workshop on Computer Based Learning Environments for Deep Learning in
 Inquiry and Problem Solving Contexts, The Pre-Conference Workshop at
@@ -147,7 +147,7 @@ Meena Kharatmal and G. Nagarjuna, "Using Semantic Reference Set of Linking Words
 
 ---
 
-### Measuring the mustard seed: indirect measurement and mathematical modelling
+### Measuring the mustard seed: measurement and mathematical modelling
 
 Amit Dhakulkar, Nagarjuna G, and Samir Dhurde, "Measuring the
  mustard seed: an exercise in indirect measurement and mathematical
@@ -185,7 +185,7 @@ Rajiv  Nair, G.  Nagarjuna and  Arnab  K.  Ray, "Finite-size effects in the depe
 
 ---
 
-### Extending Concept Mapping to Concept Lattices for Representing Biology
+### Extending Concept Mapping to Lattices for Representing Biology
 Meena Kharatmal, "A Proposal to Extend Concept Mapping to Concept Lattices for Representing Biology"
 in Summer School on “Methodology of task design – How to construct exercises for learning”  Technische Universität Dresden, Dresden, Germany , 22 – 27 September 2014. [Download PDF file](assets/A-Proposal-to-Extend-Concept-Mapping-to-Concept-Lattices-for-Representing-Biology-2014.pdf)
 
@@ -233,7 +233,7 @@ Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps", *Proce
 
 ---
 
-### Socialising Mathematics: Learning of arithmetic using a chat application
+### Socialising Mathematics: Learning of arithmetic using chat application
 
 Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application", *In Nagarjuna G., Arvind Jamakhandi, and Ebie M. Sam (Eds.) Procceedings of epiSTEME-5, pp.321-327*, 2013. [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
 
@@ -286,7 +286,7 @@ Amit Dhakulkar and Nagarjuna G, "An analysis of graphs in school textbooks". *Pr
 
 ---
 
-### An Analysis of Growth of Knowledge based on Concepts and Predicates
+### Analysis of Growth of Knowledge based on Concepts and Predicates
 
 M. Kharatmal and G. Nagarjuna, “An Analysis of Growth of Knowledge based on Concepts and Predicates,”
 in *In S. Chunawala and M. Kharatmal (Eds.) Proceedings of
@@ -343,7 +343,7 @@ sentation, propositions, logic, philosophy, teaching-learning.
 ___
 
 
-### Building a Dependency Network for Teaching-Learning of Conceptual Structures
+### Building Dependency Network for Teaching-Learning of Conceptual Structures
 
 Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency
 Network for Teaching-Learning of Conceptual Structures", *Proceedings
@@ -415,7 +415,7 @@ Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: 
 
 ---
 
-### GNOWSYS-mode in Emacs for collaborative construction of knowledge networks
+### GNOWSYS-mode in Emacs for collaborative construction of knowledge
 
 Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emacs for collaborative construction of knowledge networks in plain text." *in 8th International Semantic Web Conference (ISWC2009)*, 2009 [Download PDF file](assets/14-paper191.pdf)
 
@@ -438,7 +438,7 @@ Nagarjuna G., "Common Roots of Perception, Conception and Conscious Action", *In
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
-### Semantic structure in scale-free dependency networks of free software
+### Semantic structure in scale-free dependency networks of FOSS
 
 Rajiv  Nair, G.  Nagarjuna & Arnab  K.  Ray, "Semantic structure and finite-size saturation in scale-free dependency networks of free software", *Pre-print https://arxiv.org/abs/0901.4904v3*, 2009 [Download PDF file](assets/42-0901.4904v3.pdf)
 <p style="margin-left:10%; margin-right:10%;"> A continuum model has been proposed to fit the data pertaining to the directed networks in free and open-source software.  While the degree distributions of links in both the in-directed and out-directed dependency networks follow Zipf’s law for the intermediate nodes, the most richly linked nodes, as well as the most poorly linked nodes, deviate from this trend and exhibit finite-size effects. The finite-size parameters make a quantitative distinction between the in-directed and out-directed networks. Dynamic evolution of free software releases shows that the finite-size properties of the in-directed and out-directed networks are opposite in nature. For the out-degree distribution, the initial condition for a dynamic evolution also corresponds to the limiting count of rich nodes that the mature out-directed network can have. The number of nodes contributing out-directed links grows with each passing generation of software release,  but this growth ultimately saturates towards a finite value due to the finiteness of semantic possibilities in the network.</p>
@@ -447,7 +447,7 @@ Rajiv  Nair, G.  Nagarjuna & Arnab  K.  Ray, "Semantic structure and finite-size
 
 ---
 
-### Collaborative Creation of Teaching-Learning Sequences and an Atlas of Knowledge
+### Collaborative Creation of Teaching-Learning Sequences of Knowledge
 
 Nagarjuna G., "Collaborative Creation of Teaching-Learning Sequences and an Atlas of Knowledge", *Mathematics Teaching-Research Journal* 2009. [Download PDF file](assets/35-nagarjuna.pdf)
 <p style="margin-left:10%; margin-right:10%;">The article is about a new online resource, a collaborative portal for teachers, which publishes a network of prerequisites for teaching/learning any concept or an activity. A simple and effective method of collaboratively constructing teaching-learning sequences is presented. The special emergent properties of the dependency network and their didactic and epistemic implications are pointed.  The article ends with an appeal to the global teaching community to contribute prerequisites of any subject to complete the global roadmap for an altas being built on similar lines as Wikipedia. The portal is launched and waiting for community participation at http://www.gnowledge.org.</p>
@@ -594,7 +594,7 @@ criteria alone.</p>
 
 ___
 
-### A proposal to refine concept mapping for effective science learning
+### Proposal to refine concept mapping for effective science learning
 
 Meena Kharatmal & Nagarjuna G., "A proposal to refine concept mapping for effective science learning", *Concept Maps: Theory, Methodology, Technology Proc. of the Second Int. Conference on Concept Mapping*, 2006. [Download PDF file](assets/10-cmc2006-p151.pdf)
 
