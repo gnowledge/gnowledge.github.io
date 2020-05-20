@@ -10,7 +10,7 @@ After the launch of [metaStudio](https://metastudio.org/) platform, various digi
 
 To explore the design challenges visit [3D Design ](https://metastudio.org/c/projects/3d-design/30) section on [metastudio](https://metastudio.org/)
 
-### [openSCAD](https://www.openscad.org/)
+### [OpenSCAD](https://www.openscad.org/)
 
 OpenSCAD is a script-only 3D parametric modeler. It is a cross-platform free software used for creating solid 3D CAD objects. 
  Design challenges related to OpenSCAD are below:
