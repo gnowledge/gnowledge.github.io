@@ -85,7 +85,7 @@ discuss and comment.](https://x.metastudio.org/t/distributing-justice-in-a-digit
 
 
 
-### Instant Sharing Makes Task More Engaging in Computer Aided Classroom
+### Instant Sharing in Computer Aided Classroom
 Rafikh Shaikh, Harshit Agrawal, Nagarjuna G., and Mrunal Nachankar, "Instant Sharing Makes Task More Engaging in Computer Aided Classroom", Proceedings of CSCL, pp. 609-612 2017. [Download PDF file](assets/CSCL2017-Rafikh.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> With the advent of
@@ -107,7 +107,7 @@ after some days, while experimental group students remained active on
 it till the end of the four-month period.</p>
 
 ---
-### A slate for every child: rethinking education in the age of computers
+### Slate for every child: rethinking education in the age of computers
 
 Amit Dhakulkar, Rafikh Shaikh, "A slate for every child: rethinking
 education in the age of computers" *Teacher Plus Magazine*, 15. 30-33,
@@ -139,7 +139,7 @@ ICLS, Singapore, 2016. [Download PDF file](assets/ICLS2016-Rafikh.pdf)
 
 ---
 
-### Using Semantic Reference Set of Linking Words for Concept Mapping in Biology
+### Semantic Reference Set of Linking Words for Concept Mapping in Biology
 
 Meena Kharatmal and G. Nagarjuna, "Using Semantic Reference Set of Linking Words for Concept Mapping in Biology", In A. Canas, P. Reiska & J. Novak (Eds.) *Innovating with concept mapping. Communications in computer and information science series (Vol. 635, pp. 315-329). Springer International Publisher.*, 2016. [Download PDF file](assets/Using-Semantic-Reference-Set-of-Linking-Words-for-Concept-Mapping-in-Biology-2016.pdf)
 
@@ -185,7 +185,7 @@ Rajiv  Nair, G.  Nagarjuna and  Arnab  K.  Ray, "Finite-size effects in the depe
 
 ---
 
-### A Proposal to Extend Concept Mapping to Concept Lattices for Representing Biology
+### Extending Concept Mapping to Concept Lattices for Representing Biology
 Meena Kharatmal, "A Proposal to Extend Concept Mapping to Concept Lattices for Representing Biology"
 in Summer School on “Methodology of task design – How to construct exercises for learning”  Technische Universität Dresden, Dresden, Germany , 22 – 27 September 2014. [Download PDF file](assets/A-Proposal-to-Extend-Concept-Mapping-to-Concept-Lattices-for-Representing-Biology-2014.pdf)
 
@@ -233,7 +233,7 @@ Meena Kharatmal & Nagarjuna G., "Representing Change Using Concept Maps", *Proce
 
 ---
 
-### Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application
+### Socialising Mathematics: Learning of arithmetic using a chat application
 
 Rafikh Shaikh, G. Nagarjuna, Sanjay Chandrasekharan, "Socialising Mathematics: Collaborative, Constructive and Distributed learning of arithmetic using a chat application", *In Nagarjuna G., Arvind Jamakhandi, and Ebie M. Sam (Eds.) Procceedings of epiSTEME-5, pp.321-327*, 2013. [Download PDF file](assets/SOCIALISING_MATHEMATICS_COLLABORATIVE_CO.pdf)
 
@@ -320,7 +320,7 @@ Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra". *
 ---
 
 
-### Proposal for developing a primer for constructing and analyzing conceptual structures
+### Developing a primer for constructing and analyzing conceptual structures
 
 G.Nagarjuna and M. Kharatmal, “Proposal for developing a primer for
 constructing and analyzing conceptual structures,” in *Proceedings
@@ -375,7 +375,7 @@ Meena Kharatmal and G. Nagarjuna, "Introducing Rigor in Concept Maps", *M. Croit
 **Keywords**: concept maps, conceptual structures, disambiguation, education, knowledge representation, rigor.
 
 ---
-### Building a Dependency Network for Teaching-Learning of Conceptual Structures
+### Dependency Network for Teaching-Learning of Conceptual Structures
 
 Nagarjuna G., Meena Kharatmal, Rajiv Nair, "Building a Dependency Network for Teaching-Learning of Conceptual Structures", *In conjunction with ICCS-2010 18th International Conference on Conceptual Structures*,p.13, 2010 [Download PDF file](assets/18-CS-LTA_FullProceedings.pdf)
 
@@ -392,14 +392,14 @@ Rajiv Nair, G. Nagarjuna and Arnab K. Ray, "Semantic network in a free-software 
 **Keywords**: Networks; Nonlinear dynamics; Structures and organization in complex systems; Computer science.
 
 ---
-### GNOWSYS-mode: An Emacs based Text Editor for Semantic and Structured Document Editing
+### GNOWSYS-mode: An Emacs based Text Editor for Editing
 Divya Sinha, Alpesh Gajbe, Rajiv Nair, Ganesh Gajre, Nagarjuna G., "GNOWSYS-mode: An Emacs based Text Editor for Semantic and Structured Document Editing". *In Proceedings of Workshop on Collaborative Construction, Management and Linking of Structured Knowledge (CK2009)*, 2009. [Download PDF file](assets/13-paper.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Keeping the requirements of the semantic web in mind we have developed a pure text based collaborative editing environment to create, update and manage knowledge networks and structured documents. It works as a client to the GNOWSYS server. GNOWSYS (Gnowledge Networking and Organizing System) is a frame based triple-store supporting version control, publishing and managing multiple ontologies along with instances.</p>
 
 ---
 
-### Concept Mapping for eliciting Students' Snderstanding of Science
+### Concept Mapping for eliciting Students' understanding of Science
 Meena Kharatmal, "Concept Mapping for Eliciting Students' Understanding of Science, *Indian Educational Review* Vol. 45, No.2, July 2009. [Download PDF file](assets/Concept-Mapping-for-Eliciting-Students-Understanding-of-Science-2009.pdf)
 
 <p style="margin-left:10%; margin-right:10%;"> Students' understanding of science has been of considerable importance in the area of science education research. It tries to focus on issues such as conceptual understanding, teaching of science, students' knowledge structure, tools that can aid in their understanding of science, etc. Concept map is one such tool that is being used to elicit students' knowledge and teaching and learning in a given domain. Concept maps are two-dimensional, hierarchical, node-link diagrams that depict knowledge. This article presents a review of concept maps in science education research with an illustration of a case study on the effectiveness of concept maps for eliciting students' knowledge structure from the domain of cell biology. The study used two different methods---description and concept maps---for depicting students' knowledge. The study depicts a significant increase in the depiction of concepts and propositions using the concept mapping method as compared to the description method.
@@ -415,7 +415,7 @@ Meena Kharatmal and Nagarjuna G., "Refined Concept Maps  for Science Education: 
 
 ---
 
-### GNOWSYS-mode in Emacs for collaborative construction of knowledge networks in plain text
+### GNOWSYS-mode in Emacs for collaborative construction of knowledge networks
 
 Divya, Alpesh Gajbe,Rajiv Nair, Ganesh Gajre,Nagarjuna G., "GNOWSYS-mode in Emacs for collaborative construction of knowledge networks in plain text." *in 8th International Semantic Web Conference (ISWC2009)*, 2009 [Download PDF file](assets/14-paper191.pdf)
 
@@ -438,7 +438,7 @@ Nagarjuna G., "Common Roots of Perception, Conception and Conscious Action", *In
 <p style="margin-left:10%; margin-right:10%;"></p>
 
 ---
-### Semantic structure and finite-size saturation in scale-free dependency networks of free software
+### Semantic structure in scale-free dependency networks of free software
 
 Rajiv  Nair, G.  Nagarjuna & Arnab  K.  Ray, "Semantic structure and finite-size saturation in scale-free dependency networks of free software", *Pre-print https://arxiv.org/abs/0901.4904v3*, 2009 [Download PDF file](assets/42-0901.4904v3.pdf)
 <p style="margin-left:10%; margin-right:10%;"> A continuum model has been proposed to fit the data pertaining to the directed networks in free and open-source software.  While the degree distributions of links in both the in-directed and out-directed dependency networks follow Zipf’s law for the intermediate nodes, the most richly linked nodes, as well as the most poorly linked nodes, deviate from this trend and exhibit finite-size effects. The finite-size parameters make a quantitative distinction between the in-directed and out-directed networks. Dynamic evolution of free software releases shows that the finite-size properties of the in-directed and out-directed networks are opposite in nature. For the out-degree distribution, the initial condition for a dynamic evolution also corresponds to the limiting count of rich nodes that the mature out-directed network can have. The number of nodes contributing out-directed links grows with each passing generation of software release,  but this growth ultimately saturates towards a finite value due to the finiteness of semantic possibilities in the network.</p>
@@ -610,7 +610,7 @@ G. Nagarjuna, "Layers in the Fabric of Mind: A Critical Review of Cognitive Onto
 
 
 
-### Muscularity of Mind: Towards an Explanation of the Transition from Unconscious to Conscious
+### Muscularity of Mind: Transition from Unconscious to Conscious
 
 Nagarjuna G., "Muscularity of Mind: Towards an Explanation of the Transition from Unconscious to Conscious", *in Annual Conference of European Society for Philosophy and Psychology (ESPS), in Lund, Sweden, http://cogprints.Org/4352,* 2005.  [Download PDF file](assets/8-mom.pdf)
 <p style="margin-left:10%; margin-right:10%;">The title Muscularity of Mind indicates the point of view that is argued in this essay. I attempt to trace the roots of higher cognitive abilities to the physiological coupling that exists between neuro-sensory and muscular system. Most of the current discourses on the subject base their studies more on the nervous and sensory dimensions, neglecting the most crucial of all, the role of voluntary muscles in shaping the higher cognitive abilities. I make a claim that emancipation of voluntary muscles from the mandatory biological functions to take on the softer habits during the course of evolution played the crucial role in shaping the higher cognitive abilities. I undertake to explain the transition from procedural to declarative representation by hypothesizing that softer operations that a repeculiar to higher cognitive agents in the evolutionary order are rooted in the physiological nexus between neuro-sensory and muscular subsystems of the cognitive agent.The objective of this essay is to indicate that the problem cannot be solved without attending to this nexus.
