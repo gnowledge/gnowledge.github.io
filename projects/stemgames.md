@@ -39,7 +39,7 @@ Designing and creating tools and media is engineering. Thus, the design is an in
 # [STEM Habits](https://metastudio.org/t/what-are-stem-habits/52)
 This platform is specially designed and crafted to recognize and cultivate the habits/practices that promote STEM (Science, Technology, Engineering, Mathematics) culture in society. Each project we publish here will be mapped to specific STEM habits, and those who complete the project will be credited by awarding the specific badges. If you are interested in designing projects, you are invited too! Some of you could become referees of these projects and could grant badges to participants or design projects by becoming Staff (organizers) of this platform.
 
-![STEM Habits Summary](https://metastudio.org/t/glab-gallery-resources/2786) 
+![STEM Habits Summary](https://metastudio.org/uploads/default/original/2X/b/bfa493076000d2258a6c3a41365caa08bc1779cf.jpeg) 
 
 # Why Games? 
 Games are rule-following practices, and the rules are known to the players as well as to the spectators. Academic practices also follow rules. Often the rules are not made explicit in the conventional STEM education. When we make the rules explicit, not only the practitioners but also the spectators can develop an understanding of research and development activities that happen in STEM labs. For wider appreciation and participation of STEM projects, we label the practices in the form of habits that can be cultivated as well as recognized.
