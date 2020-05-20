@@ -37,7 +37,8 @@ The CUBE project started as a 5-week hands-on research experience based on ‘Si
 [Read full details about CUBE](cube.html)
 
 [CUBE Project Details](resources-cube.html)
-________
+
+---
 
 ## MakerSpaces (for development projects)
 HBCSE has launched a new initiative to support and improve the quality of engagements in the makerspaces and tinkering labs that are being setup in many schools across the country. This makerspace follows the CUBE (Collaborative Understanding of Biology Education) model of project based STEM (Science, Technology, Engineering, Mathematics) education, which focuses on conversations around making and investigative projects. The engagements emphasize documenting the process of making and investigations as a primary goal, with a lesser emphasis on finishing the project. This design creates sufficient opportunities for all the members to engage in conversations based on written and digital media, which are essential for authentic learning. We developed a sophisticated platform that awards badges based on the activity of each registered user. We regularly conduct workshops for teachers (along with students).
@@ -82,12 +83,9 @@ communication.
 
 [MakerSpace Project Details](resources-makerspace.html)
 
-____
+---
 
-## Digital Studio 
-A computer lab for doing I and II using digital applications such as simulations, computer graphics, mathematical and geometric calculators, data visualizations, statistics, report writing and last but not least conversations in an online forum.  
-
-### COOOL STEM Games Platform 
+## COOOL STEM Games Platform 
 ![STEMGames Logo](https://metastudio.org/uploads/default/original/1X/39d3aab369cc8f9235f8ca03bc57a2e2418867d4.png)
 
 All the activities of the above physical spaces will be supported by an online platform called - COOOL STEM Games. (COOOL is Collaborative Open Online and Ongoing Learning to nurture research/STEM practices.) The platform was launched on 15th July 2019 and has now a user base of 1000+ participants. The effort is to make a vibrant community of practice for teachers, students, educators, researchers, parents, or any citizen who can collectively participate in the process of knowledge construction via discussions and attempting to solve project challenges. The team also publishes STEM (Science, Technology, Engineering, and Mathematics) projects challenges periodically, which are specially designed to inculcate STEM habits among participants, keeping in mind [21st
@@ -98,81 +96,25 @@ Goals](https://en.wikipedia.org/wiki/21st_century_skills). The platform link is 
 
 [Visit and Learn more about the live platform](https://stemgames.metastudio.org/)
 
-____
+---
 
-# CLIx: Connected Learning Initiative 
+## CLIx: Connected Learning Initiative 
 
-Connected Learning Initiative (CLIx) a multi-partner project funded by
-Tata Trusts and coordinated by Tata Institute of Social Sciences.
-Arguably one of the most extensive field-based research study on the
-ICT based Science, Mathematics, and Language teaching in Govt Schools
-in four different states in India (Telangana, Rajasthan, Chattisgarh,
-and Mizoram).  The project started in 2015, the first phase of the
-project will end in March 2019.  The project so far is executed in
-about 600 schools across the country.  The project started with an
-online course (delivered through LAN in the school’s computer lab)
-developed for school students, Invitation to Connected Learning Environment (i2c) 
-was deployed in the field through a marathon of workshops conducted in 
-three different states. The was developed in three languages, English, 
-Hindi, and Telugu. We deployed, in collaboration with CLIx team, 
-in about 600 schools, trained several hundred teachers trained about 
-35 technical field support personnel.   
+Connected Learning Initiative (CLIx) a multi-partner project funded by Tata Trusts and coordinated by Tata Institute of Social Sciences. Arguably one of the most extensive field-based research study on the ICT based Science, Mathematics, and Language teaching in Govt Schools in four different states in India (Telangana, Rajasthan, Chattisgarh, and Mizoram).  The project started in 2015, the first phase of the project will end in March 2019.  The project so far is executed in about 600 schools across the country.  The project started with an online course (delivered through LAN in the school’s computer lab)
+developed for school students, Invitation to Connected Learning Environment (i2c) was deployed in the field through a marathon of workshops conducted in three different states. The was developed in three languages, English, Hindi, and Telugu. We deployed, in collaboration with CLIx team, in about 600 schools, trained several hundred teachers trained about 35 technical field support personnel.   
 
-After the successful run of the online course Invitation to CLIx using
-the GStudio server during the first half of the year, it was decided
-to use GStudio for other courses developed by other partners of CLIx.
-As a result, it transformed into CLIx Course Platform for all
-courses. During this process, we started collaborating with Office of
-the Digital Learning at MIT Boston, which is a core partner of the
-CLIx project. We reached an agreement that MIT team will develop Open
-Assessment Tool for authoring questions as well as Open Assessment
-Player to administer them.  We successfully integrated these
-components to run with GStudio environment using an open standard
-interface called DLKIT (Digital Learning Kit) which is a Python
-binding for OSID (Open Service Interface Definitions).  MIT provided
-the DLKIT and test cases supporting the integration process. These
-developments gave GStudio the ability to embed assessments, generate
-analytics to track learners performance.  During this period both the
-team members visited each other’s labs for face to face coordination
-and regular conference calls between the MIT team and the team at the
-gnowledge lab.  The platform is continuously updated and is available
-online at [https://clixplatform.tiss.edu/](https://clixplatform.tiss.edu/), and the code is published at
-[https://github.com/gnowledge/gstudio](https://github.com/gnowledge/gstudio) as DLKIT branch.
-The main contribution of the gnowledge lab has been to develop the software of the platform based on the flagship project of the lab (GStudio).
+After the successful run of the online course Invitation to CLIx using the GStudio server during the first half of the year, it was decided to use GStudio for other courses developed by other partners of CLIx. As a result, it transformed into CLIx Course Platform for all courses. During this process, we started collaborating with Office of the Digital Learning at MIT Boston, which is a core partner of the CLIx project. We reached an agreement that MIT team will develop Open Assessment Tool for authoring questions as well as Open Assessment Player to administer them.  We successfully integrated these
+components to run with GStudio environment using an open standard interface called DLKIT (Digital Learning Kit) which is a Python binding for OSID (Open Service Interface Definitions).  MIT provided the DLKIT and test cases supporting the integration process. These developments gave GStudio the ability to embed assessments, generate analytics to track learners performance.  During this period both the team members visited each other’s labs for face to face coordination and regular conference calls between the MIT team and the team at the gnowledge lab.  The platform is continuously updated and is available online at [https://clixplatform.tiss.edu/](https://clixplatform.tiss.edu/), and the code is published at [https://github.com/gnowledge/gstudio](https://github.com/gnowledge/gstudio) as DLKIT branch. The main contribution of the gnowledge lab has been to develop the software of the platform based on the flagship project of the lab (GStudio).
 
 ![CLIx Platform Installed in over 540 schools across 4 states in India](https://metastudio.org/uploads/default/original/2X/0/0ce360844572fdafb71237260944c8f77e16f69e.jpeg)
 
-The multi-partner CLIx project was awarded the **UNESCO King Hamad Bin
-Isa Al-Khalifa ICT in Education for the year 2017**.  Award received
-2018. 
+The multi-partner CLIx project was awarded the **UNESCO King Hamad Bin Isa Al-Khalifa ICT in Education for the year 2017**.  Award received 2018. 
 
-CLIx also won **Open Collaboration Award for Excellence 2019** from
-the Open Education Consortium (OEC). The award says: "A bold and
-innovative intervention with global relevance to improve the quality
-of teaching and learning in the public education systems in India. The
-overarching goal is to demonstrate quality at scale through meaningful
-use of new media and digital technologies in resource constrained
-contexts."
+CLIx also won **Open Collaboration Award for Excellence 2019** from the Open Education Consortium (OEC). The award says: "A bold and innovative intervention with global relevance to improve the quality of teaching and learning in the public education systems in India. The overarching goal is to demonstrate quality at scale through meaningful use of new media and digital technologies in resource constrained contexts."
 
-Gnowledge lab at HBCSE contributes to the CLIx by advising and
-assisting CLIx technology team for the design, development,
-integration and deployment of CLIx platform – a next generation
-digital learning platform which is both a course maker (CMS) and a
-course player (LMS). The CLIx platform is powered by gstudio, which is
-a node based framework for learning technologies developed at the
-Gnowledge lab. The platform hosts all the CLIx students modules and
-works both online as well as offline. The lab also developed
-installation technology for distribution of the platform in the remote
-schools which fosters connected learning in disconnected spaces
-through the concept of internet in a box. The team at HBCSE
-collaborates with MIT technology team to integrate the Open Assessment
-Tool and Open Assessment Client with the platform. The Gnowledge lab
-is also involved in the CLIx OER release.
+Gnowledge lab at HBCSE contributes to the CLIx by advising and assisting CLIx technology team for the design, development, integration and deployment of CLIx platform – a next generation digital learning platform which is both a course maker (CMS) and a course player (LMS). The CLIx platform is powered by gstudio, which is a node based framework for learning technologies developed at the Gnowledge lab. The platform hosts all the CLIx students modules and works both online as well as offline. The lab also developed installation technology for distribution of the platform in the remote
+schools which fosters connected learning in disconnected spaces  through the concept of internet in a box. The team at HBCSE collaborates with MIT technology team to integrate the Open Assessment Tool and Open Assessment Client with the platform. The Gnowledge lab is also involved in the CLIx OER release.
 
-The HBCSE has contributed to CLIx in the design and development of i2C
-– a digital literacy course for high school students. The HBCSE staff
-actively contribute towards the technology transfer to CLIx
-implementation teams by conducting workshops, training teachers and
-providing technical support on an ongoing basis.
+The HBCSE has contributed to CLIx in the design and development of i2C – a digital literacy course for high school students. The HBCSE staff actively contribute towards the technology transfer to CLIx implementation teams by conducting workshops, training teachers and providing technical support on an ongoing basis.
 
 [Read full details about CLIx](https://www.gnowledge.org/projects/clix.html)
