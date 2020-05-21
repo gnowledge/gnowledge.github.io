@@ -51,7 +51,6 @@ Visit the [team](https://www.gnowledge.org/team.html) page to know more about th
 
 ### Contact
 Recommended way of contacting our team members is to join
-collaborative platform [COOOL
-STEMGames](https://metastudio.org/), where you could talk to all
+collaborative platform [metastudio](https://metastudio.org/), where you could talk to all
 members of the community. Alternatively send us an email: 
 **team AT gnowledge.org**.
