@@ -133,4 +133,6 @@ the NUSSD program, and the course is still being offered. [An online archived ve
 
 ## An Invitation to Connected Learning Initiative (CLIx)
 
-Details about CLIx initiative can be found [here](https://www.gnowledge.org/projects/stemedu.html#clix-connected-learning-initiative)
+I2C is designed to be an easy and exemplary connected learning experience, facilitated through a specially designed course platform - a social space where collaborative interactions happen. i2C aims to prepare learners for conceptual and investigative engagements in Science, Mathematics and English Communication as offered through CLIx.
+
+More details about initiative can be found [here](https://clix.tiss.edu/curriculum/invitation-to-clix/)
