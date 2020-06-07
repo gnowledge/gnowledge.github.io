@@ -3,7 +3,9 @@ layout: default
 title: NROER: National Repository for Open Educational Resources
 description: in Collaboration with CIET, NCERT, MHRD Govt of India.
 ---
-* NROER
+# NROER
+
+![NROER](https://nroer.gov.in/static/ndf/css/themes/nroer/logo.png)
 
 The National Repository for Open Educational Resources (NROER) which was
 developed and deployed by the gnowledge lab is arguably the largest curated OER
