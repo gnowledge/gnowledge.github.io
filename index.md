@@ -27,6 +27,7 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 ## Development Projects
 - [GNOWSYS and Gstudio: A graph database for semantic computing](https://www.gnowledge.org/projects/dev.html#gnowsys-and-gstudio)
 - [DOER: Distributed Decentralized Disk of Open Educational Resources](https://www.gnowledge.org/projects/dev.html#doer-disk-of-oer) 
+- [Connected Learning Initiative (CLIx)](https://www.gnowledge.org/projects/clix)
 - [Learning Studios: A customized operating system for STEM Education](https://www.gnowledge.org/projects/dev.html#learning-studios-a-customized-operating-system-for-stem-education)
 
 ## Research Projects
