@@ -5,7 +5,7 @@ description: in Collaboration with CIET, NCERT, MHRD Govt of India.
 ---
 # NROER
 <div bg=black>
-![NROER](https://nroer.gov.in/static/ndf/css/themes/nroer/logo.png)
+<img src="https://nroer.gov.in/static/ndf/css/themes/nroer/logo.png" alt="NROER logo">
 </div>
 The National Repository for Open Educational Resources (NROER) which was
 developed and deployed by the gnowledge lab is arguably the largest curated OER
