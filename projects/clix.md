@@ -32,3 +32,5 @@ Eklavya, MP; CERP Jaipur; and Corporates: Tata Class Edge.
 The success of knowledge transfer is best demonstrated when the team becomes autonomous and continues with little inputs from the lab.
 The core technology team of CLix eventually developed another module using GStudio platform for publishing all the resources developed
 through the project as [CLIX-OER](https://clixoer.tiss.edu/). 
+
+![CLIx OER launch event](https://clix.tiss.edu/wp-content/uploads/2019/12/CLIx-OER-Launch-Event-06Dec2019-1-1.jpg)
