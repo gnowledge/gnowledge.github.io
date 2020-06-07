@@ -12,6 +12,8 @@ developed and deployed by the gnowledge lab is arguably the largest curated OER
 repository of the country.  The platform is published at
 http://nroer.gov.in/.
 
+Gnowledge lab collaboratively designed and developed the platform with CIET of NCERT. The current version of the platform is developed using [gstudio](https://www.gnowledge.org/projects/gstudio.html) as the knowledge management and curation engine. 
+
 The platform currently published about 18,000 resources, with 16,800 registered users, 
 about 10,000 unique visitors every day, about 4,00,000 daily hits.
 
