@@ -147,9 +147,11 @@ repository](https://github.com/gnowledge/gstudio). No stable version is released
 
 If you want to see live implementations, please visit:
 
-- [http://www.metaStudio.org](http://www.metastudio.org/).
 - [https://nroer.gov.in](https://nroer.gov.in/)
+- [https://clixplatform.tiss.edu](https://clixplatform.tiss.edu)
 - [https://clixoer.tiss.edu](https://clixoer.tiss.edu)
+- [http://gstudio.metaStudio.org](http://gstudio.metastudio.org/).
+
 
 ### Features of GNOWSYS
 
