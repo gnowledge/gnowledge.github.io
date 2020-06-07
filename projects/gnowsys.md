@@ -11,14 +11,14 @@ description: A Project of Gnowledge Lab of HBCSE, TIFR
 
 ### Introduction to GNOWSYS
 
-GNOWSYS is a specification for a generic distributed network based
-memory/knowledge management. Typically computer memory is managed as a
+GNOWSYS is a specification for a generic distributed graph based
+data/memory/knowledge management. Typically computer memory is managed as a
 tree, or as nested arrays. Our attempt in this project is to represent
 all forms of declarative and procedural knowledge as a network, and then
 develop network processing methods to create and publish knowledge as a
 network.
 
-![GNOWSYS](https://stemgames.metastudio.org/uploads/default/original/2X/e/ec4d81cc161b4732d7b927b1ef5100116c5a911d.png)
+![GNOWSYS](https://metastudio.org/uploads/default/original/2X/e/ec4d81cc161b4732d7b927b1ef5100116c5a911d.png)
 
 
 ### Node orientated computing
@@ -130,7 +130,7 @@ The \'G\' in GNOWSYS is pronounced hard just as the \'G\' in GNU.
 
 ### Features Implemented 
 
-![NROER, metaStudio, CLIx](https://stemgames.metastudio.org/uploads/default/original/2X/4/45f4809b520f59bdd639df0f69f164a755f69ce9.png)
+![NROER, metaStudio, CLIx](https://metastudio.org/uploads/default/original/2X/4/45f4809b520f59bdd639df0f69f164a755f69ce9.png)
 
 The specification is implemented currently in
 [Python](http://www.python.org/). The current implementation used
@@ -155,7 +155,7 @@ If you want to see live implementations, please visit:
 
 ### Features of GNOWSYS
 
--   A distributed knowledge network.
+-   A distributed graph database.
 -   Metadata can also be added to relations and attributes.
 -   All changes to the data as well as to the metadata of knowledge is
     tracked.
