@@ -1,3 +1,14 @@
+--- 
+layout: default
+title: Connected Learning Initiative (CLIx)
+description: in Collaboration with TISS, Tata Trusts and MIT
+---
+
+# Connected Learning Initiative (CLIx)
+
+Gnowledge lab at HBCSE contributes to the CLIx by advising and assisting CLIx technology team for the design, development, integration and deployment of CLIx platform – a next generation digital learning platform which is both a course maker (CMS) and a course player (LMS). The CLIx platform is powered by gstudio, which is a node based framework for learning technologies developed at the Gnowledge lab. The platform hosts all the CLIx students modules and works both online as well as offline. The lab also developed installation technology for distribution of the platform in the remote schools which fosters connected learning in disconnected spaces through the concept of internet in a box. The team at HBCSE collaborates with MIT technology team to integrate the Open Assessment Tool and Open Assessment Client with the platform. The Gnowledge lab is also involved in the CLIx OER release.
+
+The lab also contributed to CLIx in the design and development of i2C – a digital literacy course for high school students. The HBCSE staff actively contribute towards the technology transfer to CLIx implementation teams by conduction workshops, training teachers and providing technical support on an ongoing basis.
 
 The core technology team of CLIx project was hosted at the gnowledge lab from 2016 till 2019. The design and development of the school server used in the project was designed and developed in the lab.
 The GStudio platform used for NROER.gov.in is reconfigured to peform as CMS (Course Management System) and LMS (Learning Management System). 
