@@ -1,7 +1,7 @@
 --- 
 layout: default
 title: NROER: National Repository for Open Educational Resources
-description: in Collaboration with CIET, NCERT, MHRD Govt of India.
+description: in Collaboration with CIET, NCERT, MHRD Govt of India
 ---
 
 # NROER
