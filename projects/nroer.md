@@ -5,7 +5,8 @@ description: in Collaboration with CIET, NCERT, MHRD Govt of India.
 ---
 # NROER
 
-![NROER](https://github.com/gnowledge/gnowledge.github.io/blob/master/assets/NROER-The-Storehouse-of-Educational-Resources-for-Students-Body-Image.webp)
+![NROER](https://github.com/gnowledge/gnowledge.github.io/blob/master/assets/NROER.webp)
+
 The National Repository for Open Educational Resources (NROER) which was
 developed and deployed by the gnowledge lab is arguably the largest curated OER
 repository of the country.  The platform is published at
