@@ -32,7 +32,7 @@ Details of Team Members:
 
 Github repository: [Here]() 
 
-Download: [here](/assets/bits2020_TurtleBot.pdf)
+Download: [here](/assets/bits2020_Turtlebot.pdf)
 
 # STEMChat App
 
@@ -52,7 +52,7 @@ Details of team members:
 
 Github repository: [Here]
 
-Download: [here](/assets/bits2020_STEMChatApp.pdf)
+Download: [here](/assets/bits2020_StemChatApp.pdf)
 
 # ThinQ-Lib
 
