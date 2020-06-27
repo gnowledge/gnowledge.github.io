@@ -45,6 +45,9 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 - [MakerSpace Projects](https://www.gnowledge.org/projects/resources-makerspace.html)
 - [Digital Studio Projects](https://www.gnowledge.org/projects/resources-digitalstudio.html)
 
+## Internship
+- [BITS Pilani 2020](https://www.gnowledge.org/projects/bitspilani2020.html)
+
 ## Publications
 - [List of publications](https://www.gnowledge.org/publications.html)
 
