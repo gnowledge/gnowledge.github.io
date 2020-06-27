@@ -14,7 +14,7 @@ Details of members :
 
 Github repository: [Here]() 
 
-Download: [here](assets/bits2020_Image3D.pptx)
+Download: [here](assets/bits2020_Image3D.pdf)
 
 
 # TurtleBot
@@ -30,7 +30,7 @@ Details of Team Members:
 - Anubhav Srivastava
 - Vodela Amith Kum
 
-Github repository: [Here]((assets/bits2020_TurtleBot.pptx) 
+Github repository: [Here]((assets/bits2020_TurtleBot.pdf) 
 
 Download: [here]()
 
@@ -50,7 +50,7 @@ Details of team members:
 - Anusha Agarwal
 - Ananya Khandelwal
 
-Github repository: [Here](assets/bits2020_STEMChatApp.pptx)
+Github repository: [Here](assets/bits2020_STEMChatApp.pdf)
 
 Download: [here]()
 
@@ -66,7 +66,7 @@ Currently, the framework offers the following features:
 
 Github repository: [Here](https://github.com/PrarabdhGarg/thinq_lib) 
 
-Download: [here](assets/bits2020_ThinQ.pptx)
+Download: [here](assets/bits2020_ThinQ.pdf)
 
 Details of team members:
 - Himanshu Pandey
@@ -83,4 +83,4 @@ Details of team members:
 
 Github repository: [Here]() 
 
-Download: [here](assets/bits2020_OfficeAutomation.pptx)
+Download: [here](assets/bits2020_OfficeAutomation.pdf)
