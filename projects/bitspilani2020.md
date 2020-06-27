@@ -30,9 +30,9 @@ Details of Team Members:
 - Anubhav Srivastava
 - Vodela Amith Kum
 
-Github repository: [Here]((assets/bits2020_TurtleBot.pdf) 
+Github repository: [Here]() 
 
-Download: [here]()
+Download: [here](assets/bits2020_TurtleBot.pdf)
 
 # STEMChat App
 
@@ -50,9 +50,9 @@ Details of team members:
 - Anusha Agarwal
 - Ananya Khandelwal
 
-Github repository: [Here](assets/bits2020_STEMChatApp.pdf)
+Github repository: [Here]
 
-Download: [here]()
+Download: [here](assets/bits2020_STEMChatApp.pdf)
 
 # ThinQ-Lib
 
