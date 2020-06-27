@@ -14,7 +14,7 @@ Details of members :
 
 Github repository: [Here]() 
 
-Download: [here](assets/bits2020_Image3D.pdf)
+Download: [here](./assets/bits2020_Image3D.pdf)
 
 
 # TurtleBot
@@ -32,7 +32,7 @@ Details of Team Members:
 
 Github repository: [Here]() 
 
-Download: [here](assets/bits2020_TurtleBot.pdf)
+Download: [here](./assets/bits2020_TurtleBot.pdf)
 
 # STEMChat App
 
@@ -52,7 +52,7 @@ Details of team members:
 
 Github repository: [Here]
 
-Download: [here](assets/bits2020_STEMChatApp.pdf)
+Download: [here](./assets/bits2020_STEMChatApp.pdf)
 
 # ThinQ-Lib
 
@@ -66,7 +66,7 @@ Currently, the framework offers the following features:
 
 Github repository: [Here](https://github.com/PrarabdhGarg/thinq_lib) 
 
-Download: [here](assets/bits2020_ThinQ.pdf)
+Download: [here](./assets/bits2020_ThinQ.pdf)
 
 Details of team members:
 - Himanshu Pandey
@@ -83,4 +83,4 @@ Details of team members:
 
 Github repository: [Here]() 
 
-Download: [here](assets/bits2020_OfficeAutomation.pdf)
+Download: [here](./assets/bits2020_OfficeAutomation.pdf)
