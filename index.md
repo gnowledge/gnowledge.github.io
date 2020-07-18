@@ -4,6 +4,17 @@ title: Welcome to Gnowledge Lab!
 description: Design and Development of Collaborative STEM Engagements!
 ---
 <!---{% include menu.html %}--->
+
+<div class="banner" style="padding:15px; text-align:center;">
+<div class="banner-content">
+<h1>Gnowledge Lab Chatshaala </h1>
+<p>Chatshaala are conversational space to nurture and deepen understanding around making and investigative projects. We envision to build an community of students, educators, tinkers, researchers, teachers, scientists, curious citizens to participate in the process of knowledge construction via tinkering and discussion. To know more about various chatshaalas and participate, explore below</p>
+<a href="./chatshaala-cube.html" class="btn btn-primary">CUBE Chatshaala</a>|
+<a href="./chatshaala-electronics.html" class="btn btn-primary">Electronics Chatshaala</a>|
+<a href="./chatshaala-turtleArt.html" class="btn btn-primary">turtleArt Chatshaala</a>
+</div>
+</div>
+
 #  STEM Habits
 **Nurturing and Recognizing STEM habits, bringing Culture to the Foreground of Education**
 
