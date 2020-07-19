@@ -15,6 +15,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <style>
 
+.font-face{
+  font-family: naYana;
+  src: url("/assets/fonts/naYana.woff");
+}
+.custom_navbar{
+/*  font-family: naYana;*/
+  color: red;
+}
+
 .sidenav {
   height: 100%;
   width: 0;
@@ -51,6 +60,7 @@
   font-size: 36px;
   margin-left: 50px;
 }
+
 
 header span {
   float: left;
@@ -136,7 +146,7 @@ header span {
 
     <div class="wrapper">
       <nav>
-        <ul></ul>
+        <ul class="custom_navbar"></ul>
       </nav>
       <section>
         {{ content }}
