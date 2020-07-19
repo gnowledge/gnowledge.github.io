@@ -7,8 +7,8 @@ description: Design and Development of Collaborative STEM Engagements!
 
 <div class="banner" style="padding:15px; text-align:center;">
 <div class="banner-content">
-<h1>Gnowledge Lab Chatshaala </h1>
-<p>Chatshaala are conversational space to nurture and deepen understanding around making and investigative projects. We envision to build an community of students, educators, tinkers, researchers, teachers, scientists, curious citizens to participate in the process of knowledge construction via tinkering and discussion. To know more about various chatshaalas and participate, explore below</p>
+<h1>chatShaala: a webinar room and an online forum</h1>
+<p>chatShaala is a conversational space to nurture and deepen understanding around making and investigative projects. We envision to build an community of students, educators, tinkerers, researchers, teachers, scientists, curious citizens to participate in the process of knowledge construction through dialogue in the context of tinkering and investigations. To know more about various chatShaalas and participate, explore below</p>
 <a href="https://www.gnowledge.org/projects/chatshaala-cube.html" class="btn btn-primary">CUBE Chatshaala</a>|
 <a href="https://www.gnowledge.org/projects/chatshaala-electronics.html" class="btn btn-primary">Electronics Chatshaala</a>|
 <a href="https://www.gnowledge.org/projects/chatshaala-turtleart.html" class="btn btn-primary">turtleArt Chatshaala</a>
