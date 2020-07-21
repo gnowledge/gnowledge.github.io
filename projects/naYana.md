@@ -64,7 +64,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 
 All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood. (Article 1 of the Universal Declaration of Human Rights)
 
-**Article 1 of UDHR in Hindi
+**Article 1 of UDHR in Hindi**
 
 सभी मनुष्यों को गौरव और अधिकारों के मामले में जन्मजात स्वतन्त्रता और समानता प्राप्त है । उन्हें बुद्धि और अन्तरात्मा की देन प्राप्त है और परस्पर उन्हें भाईचारे के भाव से बर्ताव करना चाहिए ।
 
