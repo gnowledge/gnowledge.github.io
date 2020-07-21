@@ -68,11 +68,13 @@ All human beings are born free and equal in dignity and rights. They are endowed
 
 सभी मनुष्यों को गौरव और अधिकारों के मामले में जन्मजात स्वतन्त्रता और समानता प्राप्त है । उन्हें बुद्धि और अन्तरात्मा की देन प्राप्त है और परस्पर उन्हें भाईचारे के भाव से बर्ताव करना चाहिए ।
 
-sabhir manuSYoko gauRav auR adhikaRon ke marmle me janmajaaT svaTanTRaTa aur samaanTa pRapT hai\| unhebuddi auR anTRaTmar kii den prapT hai auR paRaspaR unhe bhaircarRe ke bhav se baRTav kaRna carhiYe\|
+sabhir manuSYoko gauRav auR adhikaRon ke marmle me janmajaaT svaTanTRaTa aur samaanTa pRapT hai. unhebuddi auR anTRaTmar kii den prapT hai auR paRaspaR unhe bhaircarRe ke bhav se baRTav kaRna carhiYe.
 
 **Article 1 of UDHR in Marathi**
 
-सर्व मानवी व्यक्ती जन्मतः स्वतंत्र आहेत व त्यांना समान प्रतिष्ठा व समान आधिकार आहेत. त्यांना विचारशक्ती व सदसद्विवेकबुद्धी लाभलेली आहे व त्यांनी एकमेकांशी बंधुत्वाच्या भावनेने आचरण करावे. saRva maanavi vYakti janmaTaha svaTanTRa aahet va TYaannaa samaan pRatiSthaa va samaan adhiKaaR aaheT. Tyanna vicaRSakTi va sadsadvivekbuddhi laabhaleli aahe va Tyanni ekmekarnSi bandhutvacyaa bhaavanene aacaRaN kaRaave.
+सर्व मानवी व्यक्ती जन्मतः स्वतंत्र आहेत व त्यांना समान प्रतिष्ठा व समान आधिकार आहेत. त्यांना विचारशक्ती व सदसद्विवेकबुद्धी लाभलेली आहे व त्यांनी एकमेकांशी बंधुत्वाच्या भावनेने आचरण करावे. 
+
+saRva maanavi vYakti janmaTaha svaTanTRa aahet va TYaannaa samaan pRatiSthaa va samaan adhiKaaR aaheT. Tyanna vicaRSakTi va sadsadvivekbuddhi laabhaleli aahe va Tyanni ekmekarnSi bandhutvacyaa bhaavanene aacaRaN kaRaave.
 
 **Article 1 of UDHR in Telugu**
 
@@ -84,7 +86,7 @@ pRaTipaTTisvaTvamula viSaYamuna maanavulellaRunu janmaTaha svaTanTRulunu samaanu
 
 सर्वे मानवाः स्वतन्त्राः समुत्पन्नाः वर्तन्ते अपि च, गौरवदृशा अधिकारदृशा च समानाः एव वर्तन्ते। एते सर्वे चेतना-तर्क-शक्तिभ्यां सुसम्पन्नाः सन्ति। अपि च, सर्वेऽपि बन्धुत्व-भावनया परस्परं व्यवहरन्तु।
 
-saRve maanavaaha svaTanTRaaha samuTpannaaha vaRTanTe api c, gauRavdRuSaa adhiKaaRdRuSa c samaanaaha eva vaRTanTe \। eTe saRve ceTanaa-TaRka-Saktibhyaam susampannaaha sanTi \। api c, saRverpi bandhuTva-bhaavanayaa paRaspaRam vyavahaRanTu \।
+saRve maanavaaha svaTanTRaaha samuTpannaaha vaRTanTe api c, gauRavdRuSaa adhiKaaRdRuSa c samaanaaha eva vaRTanTe. eTe saRve ceTanaa-TaRka-Saktibhyaam susampannaaha sanTi. api c, saRverpi bandhuTva-bhaavanayaa paRaspaRam vyavahaRanTu.
 
 ## Credits
 **Credits Authors**:Nagarjuna G. and Vickram Krishna
