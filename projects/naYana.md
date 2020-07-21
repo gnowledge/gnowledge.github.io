@@ -4,8 +4,9 @@ title: naYana
 description: an alphabet for universal literacy
 ---
 # naYana
+<p style="font-family:naYanakamik;">This is a paragraph.</p>
 
-<div font-family:naYanakamik> dis iz naYana</div>
+<div font-face:naYanakamik> dis iz naYana</div>
 
 The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.
 
