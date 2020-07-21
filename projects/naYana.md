@@ -5,6 +5,9 @@ description: an alphabet for universal literacy
 ---
 # naYana
 <p style="font-family:naYanakamik;">This is a paragraph.</p>
+<p style="font-face:naYanakamik;">This is a paragraph.</p>
+<p style="font-family:courier;">This is a paragraph.</p>
+
 
 <div font-face:naYanakamik> dis iz naYana</div>
 
