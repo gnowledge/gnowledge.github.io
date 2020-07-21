@@ -16,17 +16,12 @@
 <style>
 
 @font-face{
-  font-family: naYanakamik;
-  src: url("../fonts/naYanakamikRegular.otf");
-}
-
-.nayana{
-/*  font-family: naYana;*/
-   font-family: naYanakamik;
+  font-family: naYana;
+  src: url("/assets/fonts/naYanakamikRegular.otf");
 }
 
 h5 {
- font-family: naYanakamik;
+  font-family: naYana !important;
 }
   
 .sidenav {
@@ -124,7 +119,7 @@ header span {
       <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <a href="/index.html" class="button fork" >Home</a> |
-      <a href="/projects/stemedu.html">Education</a> |
+      <a href="/projects/stemedu.html" >Education</a> |
       <a href="/projects/dev.html">Development</a> |
       <a href="/projects/research.html">Research</a> |
       <a href="/projects/resources.html">Resources</a> |
@@ -151,7 +146,7 @@ header span {
 
     <div class="wrapper">
       <nav>
-        <ul class="custom_navbar"></ul>
+        <ul></ul>
       </nav>
       <section>
         {{ content }}
