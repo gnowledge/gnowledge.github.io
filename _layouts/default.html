@@ -129,7 +129,7 @@ header span {
 
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-        <h3 class="custom_navbar">{% include menu.html %}</h3>
+        <h3>{% include menu.html %}</h3>
       </header>
 <!--
       <div id="banner">
@@ -146,7 +146,7 @@ header span {
 
     <div class="wrapper">
       <nav>
-        <ul class="custom_navbar"></ul>
+        <ul></ul>
       </nav>
       <section>
         {{ content }}
