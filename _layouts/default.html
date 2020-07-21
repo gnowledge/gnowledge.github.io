@@ -23,7 +23,7 @@
 h5 {
   font-family: naYana !important;
 }
-
+  
 .sidenav {
   height: 100%;
   width: 0;
@@ -127,7 +127,7 @@ header span {
       </div>
       <span class="horizontal_lines" style="color:#f3f3f3;font-size:40px;cursor:pointer" onclick="openNav()">&#9776;</span>
 
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h5>{{ page.title | default: site.title | default: site.github.repository_name }}</h5>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
         <h3>{% include menu.html %}</h3>
       </header>
