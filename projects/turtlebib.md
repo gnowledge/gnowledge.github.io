@@ -28,6 +28,8 @@ This book is an introduction to the TI Logo and to its programming environment p
 
 ---
 
+### Apple Logo II Reference Manual
+
 ‘Apple Logo II Reference Manual’ (1984). Apple Computer Inc.
 
 [Link to the file]()
@@ -35,6 +37,8 @@ This book is an introduction to the TI Logo and to its programming environment p
 Insert the text </p>
 
 ---
+
+### TurtleTalk Summary
 
 Baker, M. (1982) ‘Short Summary Document TurtleTalk’.
 
@@ -44,13 +48,18 @@ Insert the text </p>
 
 ---
 
+### A bit of LOGO magic
+
 Bearden, D. (1984) A bit of LOGO magic for the TI 99/4A. Reston, Virginia: Reston Pub. Co.
 
 [Link to the file]()
 <p style="margin-left:10%; margin-right:10%;">
-Insert the text </p>
+Have you ever thought that programming concepts can be introduced in a storytelling format? In this book, Donna Bearden introduces the reader to foundational concepts of programming via the adventures of an old wizard and a mischievous dragon. One where one needs to write LOGO procedures to draw optical illusions, tessellations, make a castle, draw fractal trees and finally uncover the adventures of the dark forest.
+</p>
 
 ---
+
+### Sprites, a turtle, and TI LOGO
 
 Conlan, J. and Inman, D. (1984) Sprites, a turtle, and TI LOGO. Reston, Va: Reston Pub. Co.
 
@@ -60,6 +69,8 @@ Insert the text </p>
 
 ---
 
+### The Commodore 64 Logo Tutorial
+
 Grammer.C, V., Goldenberg, E. P. and Klotz Jr, L. (1982) ‘The Commodore 64 Logo Tutorial’. Terrapin, Inc.
 
 [Link to the file]()
@@ -67,6 +78,8 @@ Grammer.C, V., Goldenberg, E. P. and Klotz Jr, L. (1982) ‘The Commodore 64 Log
 Logo graphics allows one to draw figures and drawing of varying complexity. Commodore 64 LOGO has allows one to independently control up to eight spirite on the screen. This is a great resource to explore the early attempts to design networked models to make many advance concepts accessible.</p>
 
 ---
+
+### Radio Shack Color Logo
 
 Kheriaty, L. and Gerhold, G. (1982) ‘Radio Shack Color Logo’. Micropi.
 
@@ -76,6 +89,8 @@ Insert the text </p>
 
 ---
 
+### LEGO Teaching the turtle
+
 LEGO Teaching the turtle (1989). LEGO Group.
 
 [Link to the file]()
@@ -84,6 +99,8 @@ Insert the text </p>
 
 ---
 
+### Kids working with computers
+
 Mass, L. and Kuffler, J. (1983) Kids working with computers: a Texas Instruments Logo manual for graphics. New York, N.Y.: Trillium Press.
 
 [Link to the file]()
@@ -91,6 +108,8 @@ Mass, L. and Kuffler, J. (1983) Kids working with computers: a Texas Instruments
 Insert the text </p>
 
 ---
+
+### Twenty Things to do with Computer
 
 Papert, S. and Solomon, C. (1971) Twenty Things to do with Computer. LOGO Memo No 3. MIT, AI Lab.
 ‘Programmable Turtle final’ (1985). NSW Department of Education.
@@ -102,6 +121,8 @@ Twenty things to do with Computer is a short report by Papert and Cynthia from M
 
 ---
 
+### Programming Discovery in TI Logo
+
 Programming Discovery in TI Logo Student Guide (1982). Texas Instruments Incorporated.
 
 [Link to the file]()
@@ -109,6 +130,8 @@ Programming Discovery in TI Logo Student Guide (1982). Texas Instruments Incorpo
 Insert the text </p>
 
 ---
+
+### Introducing LOGO: for the Apple II computer
 
 Ross, P. (1983) Introducing LOGO: for the Apple II computer, Texas Instruments 99/4A and Tandy Color computer. Reading, Mass: Addison-Wesley Pub (Addison-Wesley microcomputer books popular series).
 Rubin, M. and Toll, D. (no date) ‘Lynne Mass Joseph Kuffler’, p. 50.
@@ -119,6 +142,8 @@ Insert the text </p>
 
 ---
 
+### Amiga LOGO Tutorial
+
 Sassenrath, C. (1989) ‘Amiga LOGO Tutorial and Reference’. Commodore-Amiga,Inc.
 
 [Link to the file]()
@@ -126,6 +151,8 @@ Sassenrath, C. (1989) ‘Amiga LOGO Tutorial and Reference’. Commodore-Amiga,I
 Insert the text </p>
 
 ---
+
+### Computer art and animation
 
 Thornburg, D. D. (1984) Computer art and animation: a user’s guide to TI-99/4A Color Logo. Reading, Mass: Addison-Wesley Pub. Co (Addison-Wesley microcomputer books popular series).
 
@@ -135,6 +162,7 @@ Insert the text </p>
 
 ---
 
+### LogoWriter for educators
 
 Yoder, S., Moursund, D. and International Society for Technology in Education (1990) LogoWriter for educators: a problem solving approach. Eugene, Or.: International Society for Technology in Education.
 (1983) ‘TurtleNews’, November.
