@@ -34,7 +34,7 @@ This book is an introduction to the TI Logo and to its programming environment p
 
 [Link to the file]()
 <p style="margin-left:10%; margin-right:10%;">
-Insert the text </p>
+This is Apple Logo Manual </p>
 
 ---
 
