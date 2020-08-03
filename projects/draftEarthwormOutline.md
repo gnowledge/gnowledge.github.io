@@ -1,3 +1,9 @@
+--- 
+layout: default
+title: The Story of Earthworm
+description:  
+---
+
 # Draft outline: The Story of Earthworm
 
 ## Gnowledge Lab, CUBE, HBCSE
