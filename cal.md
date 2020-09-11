@@ -10,8 +10,6 @@ description: List of students and teachers - Gnowledge Lab, CUBE, MakerSpace
 
 {% for member in site.data.glabCal %}
   -  #### {{ member.date }} {{ member.group}}
-  - {{ member.title }}
-  - [![](./glabIMG/{{ member.pic }}.jpg)](./glabIMG/{{ member.pic }}.jpg) <br><br>
+{{ member.title }}  
+[![](./glabIMG/{{ member.pic }}.jpg)](./glabIMG/{{ member.pic }}.jpg) <br><br>
 {% endfor %}
-
-
