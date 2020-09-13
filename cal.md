@@ -11,5 +11,5 @@ description: List of students and teachers - Gnowledge Lab, CUBE, MakerSpace
 {% for member in site.data.glabCal %}
   -  #### {{ member.date }} {{ member.group}}
 {{ member.title }}  
-[![](./glabIMG/{{ member.picName }}.jpg)](./glabIMG/{{ member.picName }}.jpg) <br><br>
+[![](./event/glabIMG/{{ member.picName }}.jpg)](./event/glabIMG/{{ member.picName }}.jpg) <br><br>
 {% endfor %}
