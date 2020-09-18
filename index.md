@@ -41,6 +41,7 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 - [Connected Learning Initiative (CLIx)](https://www.gnowledge.org/projects/clix)
 - [NROER: National Repository of Open Educational Resources](https://www.gnowledge.org/projects/nroer)
 - [Learning Studios: A customized operating system for STEM Education](https://www.gnowledge.org/projects/dev.html#learning-studios-a-customized-operating-system-for-stem-education)
+- [naYana](https://www.gnowledge.org/projects/naYana)
 
 ## Research Projects
 - [Concept Mapping](https://www.gnowledge.org/projects/research.html#concept-mapping)
@@ -61,6 +62,10 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 
 ## Publications
 - [List of publications](https://www.gnowledge.org/publications.html)
+
+## List of workshops
+- [Workshops](https://www.gnowledge.org/cal.html)
+- [Tabular view](https://www.gnowledge.org/event/)
 
 ## Team
 Visit the [team](https://www.gnowledge.org/team.html) page to know more about the members.
