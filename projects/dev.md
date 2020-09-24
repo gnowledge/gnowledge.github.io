@@ -129,6 +129,8 @@ by the participating learners.
 This course is delivered to more than 20,000 students across India by
 the NUSSD program, and the course is still being offered. [An online archived version of thhe MOOC course is available from here.](http://courses.metastudio.org/courses/gnowledgeLab/DL101/2014/about)
 
+
+
 [Download the PDF document describing the Course](http://gnowledge.org/~nagarjun/dl-booklet-3.0.-gn.pdf)
 
 ## An Invitation to Connected Learning Initiative (CLIx)
@@ -136,3 +138,11 @@ the NUSSD program, and the course is still being offered. [An online archived ve
 I2C is designed to be an easy and exemplary connected learning experience, facilitated through a specially designed course platform - a social space where collaborative interactions happen. i2C aims to prepare learners for conceptual and investigative engagements in Science, Mathematics and English Communication as offered through CLIx.
 
 More details about initiative can be found [here](https://clix.tiss.edu/curriculum/invitation-to-clix/)
+
+# naYana
+
+The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](https://gnowledge.org/~nagarjun/naYanakamikRegular.otf)
+
+More details about the project can be found [here](https://www.gnowledge.org/projects/naYana)
+
+
