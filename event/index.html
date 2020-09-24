@@ -26,14 +26,14 @@
     <script type="text/javascript">
       function format_link(link){
         if (link){
-          return "<a href='" + "glabIMG2/" + link + ".jpg" + "' target='_blank'>" + link + "</a>";
+          return "<a href='" + "glabIMG/" + link + ".jpg" + "' target='_blank'>" + link + "</a>";
         }  
         else
           return "";
       }
 
       CsvToHtmlTable.init({
-        csv_path: 'data/glabCal2.csv',
+        csv_path: 'data/glabCal.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
