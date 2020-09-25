@@ -32,7 +32,7 @@ project](https://www.gnu.org/). The lab is also unusual for its explicit declara
 
 ## Release of chatshaala.in
 
-[chatShaala.in](chatShaala.in) is a mobile friendly, data efficient web app, with a simplified interface of metaStudio.org. This does not need any installation, and works on all mobiles and Desktops using a normal web browser. It consumes 50% less Internet bandwidth to access [metaStudio.org](http://metaStudio.org) which makes it lean and fast application. [metaStudio.org](http://metaStudio.org) as well as [chatShaala.in](chatShaala.in) both use the same backend, therefore users can continue to use any Interface as per their preference. More details can be found [here](https://www.gnowledge.org/projects/chatshaalaApp.html)
+[chatShaala.in](https://chatshaala.in/) is a mobile friendly, data efficient web app, with a simplified interface of metaStudio.org. This does not need any installation, and works on all mobiles and Desktops using a normal web browser. It consumes 50% less Internet bandwidth to access [metaStudio.org](http://metaStudio.org) which makes it lean and fast application. [metaStudio.org](http://metaStudio.org) as well as [chatShaala.in](https://chatshaala.in/) both use the same backend, therefore users can continue to use any Interface as per their preference. More details can be found [here](https://www.gnowledge.org/projects/chatshaalaApp.html)
 
 
 ## STEM Education Projects
