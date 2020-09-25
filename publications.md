@@ -8,6 +8,14 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
+### Figuring the ‘making’ with Indian teachers: Can we re-imagine STEM learning?
+
+Karnam, DP., Sinha, R., & Pardeshi, A.,  Abstracts (with oral presentations) & Poster.   "Figuring the ‘making’ with Indian teachers: Can we re-imagine STEM learning?". In Gresalfi M., & Horn, I. S. (Eds.). Proceedings of The Interdisciplinarity of the Learning Sciences, 14th The International Conference of the Learning Sciences (ICLS) 2020, Volume 4. (pp. 2339-2340), Nashville, Tennessee: (Online): International Society of the Learning Sciences. June 21, 2020.
+
+<p style="margin-left:10%; margin-right:10%;">There is a recent interest among education researchers and a push by policymakers towards making, due to a converging acknowledgement of its potential in improving learning. In India too, there is a push in creating maker spaces in schools. However, there is a limited realisation of the potential possibly due to the limited understanding of this in the teachers. Here, we attempt to engage with the teachers in a meaningful way. This paper captures the initial understanding of making in a cohort of 21 science and 19 mathematics teachers of government schools in India. Further, it highlights the nuances in the understanding of the making culture (developing a framework) and its broader implications after reflecting on the video prompt and collective discussion with the teachers. Using this evidence of teachers eliciting subtleties of learning and making culture, we argue for a greater possibility of and a need for meaningful teacher-researcher engagement for reimagining learning.</p>
+
+---
+
 ### Learning Basic Astronomy Through an Embodied and Interactive Approach 
 
 Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Through an Embodied and Interactive Approach", *International Conference to review research in Science Technology and Mathematics Education*, 2020. [Download PDF file](assets/Shaikhetal-epiSTEME8.pdf)
@@ -21,6 +29,24 @@ Shaikh, R., Padalkar, S., Sutar, P. and Kumar, A., "Learning Basic Astronomy Thr
 Shaikh Rafikh, Harita Raval, Harshit Agrawal, and G. Nagarjuna, "Impact of computer-mediated sharing on classroom activities.", *The 14th International Congress on Mathematical Education Shanghai*, 2020. [Download PDF file](assets/TSG24_Pa_Shaikh.pdf)
 
 <p style="margin-left:10%; margin-right:10%;">Many teaching-learning applications have a computer-mediated sharing feature and it is important that we study its role in the teaching-learning process in detail. The present study, which is a part of the   larger   study,   probes   the   impact   of   the   computer-mediated   sharing   feature   on   classroom activities. 45 students who belonged to a 4th-grade classroom were divided into two groups. One group has worked on a version of a digital game where each student played with the computer individually, whereas another group has worked on the version where a group of students played with each other mediated by networked computers. One classroom session from each setting was video recorded and analyzed. In this paper, we present the findings of the video analysis.</p>
+
+---
+
+### Populating India with STEM Spectators: GullyCricket Model of Spreading STEM Culture
+
+
+Prof M C Arunan, "Populating India with STEM Spectators: GullyCricket Model of Spreading STEM Culture", CUBE Lab, Homi Bhabha Center for Science Education, TIFR, Mumbai, 2020.
+
+<p style="margin-left:10%; margin-right:10%;">In India, there is a serious dearth of spectators for Science, unlike, say, in a game of cricket. A game like Cricket is a rule-following activity where the players as well as the spectators are immersed in it. The idea was to see if Indian science can learn anything from Indian street cricket. With this aim a new model of STEM (Science, Technology, Engineering and Mathematics) education called CUBE (Collaboratively Understanding Biology Education) was launched 6 years ago at the Homi Bhabha Center. STEM is taken as a set of games scientists, engineers and mathematicians play. The idea is to develop groups of people who understood some rules of the game and they would constitute the STEM spectators. For creating the STEM spectators, groups of students and teachers working in collaboration were encouraged to do experiments using the resourcesin their neighborhood on problems that they observe in their everyday life. Several such groups in under graduate colleges and schools across the country were set up. Prof Arunan narrated examples of such experiments as the pea study, the Dafnia study, the flowering patterns of mangoes in different geographical locations etc. It was observed that some of these studies matured from curiosity to frontier sciences.</p>
+
+---
+
+### Making as a Medium of Truth
+
+G. Nagarjuna, “Making as a Medium of Truth: A Constructionist View of STEM”  Integrating Science with Society, [*Proceedings of the Conference on Integrating Science with Society, Jadavpur University, Kolkata*](https://breakthroughindia.org/national-conference-on-integrating-science-with-society/), 15-16 December 2018. [Download the PDF file](Reconstruction_of_Phenomena_through_STEM_Games.pdf)
+ 
+
+<p style="margin-left:10%; margin-right:10%;">As a part of the STEM games, scientists have been involved in searching for the building blocks and cement for reconstructing natural phenomena. This reconstruction happens in an artificially constructed experimental “microworlds”. And in this reconstruction process, the author argues, that scientists have always been employing technology, engineering, and mathematics. The evidence for the truths in science is situated in the socially reconstructed experimental process of natural phenomena, and cannot be obtained in isolation.</p>
 
 ---
 
