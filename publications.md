@@ -43,7 +43,7 @@ Prof M C Arunan, "Populating India with STEM Spectators: GullyCricket Model of S
 
 ### Making as a Medium of Truth
 
-G. Nagarjuna, “Making as a Medium of Truth: A Constructionist View of STEM”  Integrating Science with Society, [*Proceedings of the Conference on Integrating Science with Society, Jadavpur University, Kolkata*](https://breakthroughindia.org/national-conference-on-integrating-science-with-society/), 15-16 December 2018. [Download the PDF file](Reconstruction_of_Phenomena_through_STEM_Games.pdf)
+G. Nagarjuna, “Making as a Medium of Truth: A Constructionist View of STEM”  Integrating Science with Society, [*Proceedings of the Conference on Integrating Science with Society, Jadavpur University, Kolkata*](https://breakthroughindia.org/national-conference-on-integrating-science-with-society/), 15-16 December 2018. [Download the PDF file](assets/Reconstruction_of_Phenomena_through_STEM_Games.pdf)
  
 
 <p style="margin-left:10%; margin-right:10%;">As a part of the STEM games, scientists have been involved in searching for the building blocks and cement for reconstructing natural phenomena. This reconstruction happens in an artificially constructed experimental “microworlds”. And in this reconstruction process, the author argues, that scientists have always been employing technology, engineering, and mathematics. The evidence for the truths in science is situated in the socially reconstructed experimental process of natural phenomena, and cannot be obtained in isolation.</p>
