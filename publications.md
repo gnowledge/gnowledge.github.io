@@ -8,11 +8,206 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
+
+### Seroprevalence Study in Mumbai – 4
+
+
+Uma Ramakrishnan & Meena Kharatmal (2020).   Seroprevalence Study in Mumbai: In Conversation with TIFR Scientists -- Part 4: Personal Perspectives, Risks and Challenges During the Study, and About Public Private Partnership    In CovidGyan Website, Mumbai: TIFR,  25th September 2020. 
+
+[To view](https://covid-gyan.in/article/seroprevalence-study-mumbai-conversation-tifr-scientists-part-4)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Mumbai, a city in Maharashtra (India) has been the center of the epidemic since the outbreak of COVID-19. The prevailing pandemic has led to the spread of COVID-19, caused by the SARS-CoV-2 virus, both symptomatically and asymptomatically. One of the ways to understand the dynamics of transmission of disease is through  community based serological studies to test for infection. It is important as depending on the level of prevalence of infection, appropriate public health interventions can be planned and implemented for prevention and control of the disease.  A COVID-19 seroprevalence survey study was recently conducted by TIFR scientists. The results of this study are sending shock waves across the world! To get up close and personal insights into the seroprevalence study, we at CovidGyan are in conversation with the scientists. The  part 4 of the article discusses the personal perspectives, risks and challenges during the study, and about public private partnership 
+
+
+</p>
+
+---
+
+### Seroprevalence Study in Mumbai – 3
+
+Uma Ramakrishnan & Meena Kharatmal (2020).    Seroprevalence Study in Mumbai: In Conversation with TIFR Scientists -- Part 3: Discussion of Findings and Other Studies   In CovidGyan Website, Mumbai: TIFR,  25th September 2020. 
+
+[To view](https://covid-gyan.in/article/seroprevalence-study-mumbai-conversation-tifr-scientists-part-3)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Mumbai, a city in Maharashtra (India) has been the center of the epidemic since the outbreak of COVID-19. The prevailing pandemic has led to the spread of COVID-19, caused by the SARS-CoV-2 virus, both symptomatically and asymptomatically. One of the ways to understand the dynamics of transmission of disease is through  community based serological studies to test for infection. It is important as depending on the level of prevalence of infection, appropriate public health interventions can be planned and implemented for prevention and control of the disease.  A COVID-19 seroprevalence survey study was recently conducted by TIFR scientists. The results of this study are sending shock waves across the world! To get up close and personal insights into the seroprevalence study, we at CovidGyan are in conversation with the scientists. The  part 3 of the article discusses the discussion of findings and other studies
+
+</p>
+
+---
+
+### Seroprevalence Study in Mumbai – 2
+
+
+Meena Kharatmal & Uma Ramakrishnan (2020).   Seroprevalence Study in Mumbai: In Conversation with TIFR Scientists -- Part 2: Key Insights from the Study    In CovidGyan Website, Mumbai: TIFR,  25th September 2020. 
+ 
+
+[To view](https://covid-gyan.in/article/seroprevalence-study-mumbai-conversation-tifr-scientists-part-2)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Mumbai, a city in Maharashtra (India) has been the center of the epidemic since the outbreak of COVID-19. The prevailing pandemic has led to the spread of COVID-19, caused by the SARS-CoV-2 virus, both symptomatically and asymptomatically. One of the ways to understand the dynamics of transmission of disease is through  community based serological studies to test for infection. It is important as depending on the level of prevalence of infection, appropriate public health interventions can be planned and implemented for prevention and control of the disease.  A COVID-19 seroprevalence survey study was recently conducted by TIFR scientists. The results of this study are sending shock waves across the world! To get up close and personal insights into the seroprevalence study, we at CovidGyan are in conversation with the scientists. The part 2 of the article discusses the key insights from the study
+
+</p>
+
+---
+
+### Seroprevalence Study in Mumbai – 1
+
+Meena Kharatmal & Uma Ramakrishnan (2020).    Seroprevalence Study in Mumbai: In Conversation with TIFR Scientists -- Part 1: Introduction and About the Study    In CovidGyan Website, Mumbai: TIFR, 25th September 2020. 
+
+[To view](https://covid-gyan.in/article/seroprevalence-study-mumbai-conversation-tifr-scientists-part-1)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Mumbai, a city in Maharashtra (India) has been the center of the epidemic since the outbreak of COVID-19. The prevailing pandemic has led to the spread of COVID-19, caused by the SARS-CoV-2 virus, both symptomatically and asymptomatically. One of the ways to understand the dynamics of transmission of disease is through  community based serological studies to test for infection. It is important as depending on the level of prevalence of infection, appropriate public health interventions can be planned and implemented for prevention and control of the disease.  A COVID-19 seroprevalence survey study was recently conducted by TIFR scientists. The results of this study are sending shock waves across the world! To get up close and personal insights into the seroprevalence study, we at CovidGyan are in conversation with the scientists. The part 1 of the article discusses the introduction and about the study
+
+</p>
+
+---
+
+### A conversation with a public health care specialist dealing in the pandemic
+
+Meena Kharatmal (2020).   Public health framework and its intersections with society while dealing with the pandemic – A conversation with a public health care specialist.   In CovidGyan Website, Mumbai: TIFR, 24th August 2020. 
+ 
+
+[To view](https://covid-gyan.in/article/public-health-framework-and-its-intersections-society-while-dealing-pandemic-conversation)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+A medical doctor and a PhD in public health, discusses the challenges of working with the public health care system during the pandemic, and calls for a proactive interaction of scientists in interfacing with policymakers, along with community engagement during the pandemic
+
+</p>
+
+---
+
+### Is Novel Coronavirus Evolving?
+
+
+Meena Kharatmal (2020). Update article on -- Is Novel Coronavirus Evolving? In CovidGyan Website, Mumbai: TIFR, 24th July 2020. 
+
+
+[To view](https://covid-gyan.in/article/update-novel-coronavirus-evolving)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+The article discusses some key findings from genome sequencing studies done in India to study the mutation of the novel coronavirus
+
+</p>
+
+---
+
+### Measuring in Microns
+
+Meena Kharamal & Nagarjuna G. (2020). Getting Down to the Micron. In Teacher Plus. Telangana: Azim Premji University, July 2020.
+
+
+[To view](http://www.teacherplus.org/getting-down-to-the-micron/)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Estimating the size of any small object or microorganism is a challenging task for students and teachers. We present a simple method to estimate small sizes and learn to use micron as a unit of measurement. While observing organisms under the microscope, can we also estimate the size of the organisms? Should it be in centimeters or millimeters, or even more minute and tiny than these two units? There are units for observing smaller objects or microorganisms that are too small to see with the naked eye. One of these units is called micron (μ) or micrometer (μm). 
+
+</p>
+
+---
+
+### A Blurb on "A Study on Using Gold Nanoparticles for Naked-Eye Detection of SARS-CoV-2"
+
+
+Meena Kharatmal (2020). A Blurb on "A Study on Using Gold Nanoparticles for Naked-Eye Detection of SARS-CoV-2". In CovidGyan Website, Mumbai: TIFR, 25 June 2020.
+
+
+[To view](https://covid-gyan.in/page/study-using-gold-nanoparticles-naked-eye-detection-sars-cov-2)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+In the current outbreak of COVID-19, for a large scale diagnosis it is preferrable that a testing method that is easy, quick, without any sophisticated instrument is made available. A recent study claiming to detect the SARS-CoV-2 with naked eye seems of interest. The method uses gold nanoparticles and colorimetric analysis for detection of the target RNA sequence of  the virus, without use of sophisticated instruments, within 10 min from the isolated RNA samples.
+
+</p>
+
+---
+
 ### Figuring the ‘making’ with Indian teachers: Can we re-imagine STEM learning?
 
 Karnam, DP., Sinha, R., & Pardeshi, A.,  Abstracts (with oral presentations) & Poster.   "Figuring the ‘making’ with Indian teachers: Can we re-imagine STEM learning?". In Gresalfi M., & Horn, I. S. (Eds.). Proceedings of The Interdisciplinarity of the Learning Sciences, 14th The International Conference of the Learning Sciences (ICLS) 2020, Volume 4. (pp. 2339-2340), Nashville, Tennessee: (Online): International Society of the Learning Sciences. June 21, 2020.
 
 <p style="margin-left:10%; margin-right:10%;">There is a recent interest among education researchers and a push by policymakers towards making, due to a converging acknowledgement of its potential in improving learning. In India too, there is a push in creating maker spaces in schools. However, there is a limited realisation of the potential possibly due to the limited understanding of this in the teachers. Here, we attempt to engage with the teachers in a meaningful way. This paper captures the initial understanding of making in a cohort of 21 science and 19 mathematics teachers of government schools in India. Further, it highlights the nuances in the understanding of the making culture (developing a framework) and its broader implications after reflecting on the video prompt and collective discussion with the teachers. Using this evidence of teachers eliciting subtleties of learning and making culture, we argue for a greater possibility of and a need for meaningful teacher-researcher engagement for reimagining learning.</p>
+
+---
+
+###  Testing for COVID-19: Here's What You Need to Know.
+
+Meena Kharatmal (2020). Testing for COVID-19: Here's What You Need to Know. In CovidGyan Website, Mumbai: TIFR, 18th May 2020.
+
+[To view](https://covid-gyan.in/article/testing-covid-19-here%E2%80%99s-what-you-need-know)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+An FAQ on the types of tests available for COVID-19 and the main differences between each of them. The article discussed about the RT-PCR and Rapid antibody tests, their fundamental differences, working of the tests, accuracy of the tests, etc.
+
+</p>
+
+---
+
+###  An Infographic on Comparison of COVID-19 Tests.
+
+Meena Kharatmal (2020). An Infographic on Comparison of COVID-19 Tests. In CovidGyan Website, Mumbai: TIFR, 18th May 2020.
+ 
+[To view](https://www.covid-gyan.in/infographic/comparison-covid-19-tests)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+An infographic based on the comparison of COVID-19 testing methods.
+
+</p>
+
+---
+
+###  CUBE Lab Projects, Science Experiments for School Students -- Article in Marathi
+
+Meena Kharatmal & CUBE Lab Team  (2020). Shaley Vidyaarthyaansathi Prakalp: Vidnyan Prayog (CUBE Lab Projects, Science Experiments for School Students -- Article in Marathi). In Shikshan Sankraman, Pune: MSBSHSE, April, 2020.
+
+[To view](https://okeanos.files.wordpress.com/2020/06/cube-shikshan-sankraman-article-marathi-apr2020.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+The article is an invitation to the CUBE program in Marathi. It discusses about the CUBE, project based investigations, etc.
+
+</p>
+
+---
+
+###  Training Ourselves to See Better
+
+
+Meena Kharatmal (2020). Training Ourselves to See Better (Primary Pack). In Teacher Plus. Telangana: Azim Premji University, April 2020. 
+
+[To view](http://www.teacherplus.org/training-ourselves-to-see-better/)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+The article discusses how students can develop observation based skills through an activity based learning method.
+
+</p>
+
+---
+
+###  Developing observational skills in primary students
+
+Meena Kharatmal (2020). Nirikshan Vikasit Karnyasaathi Kriyakalp (Developing observational skills -- Article in Marathi). In Jeevan Shikshan, Pune: MSCERT, February 2020.
+
+
+[To view](https://okeanos.files.wordpress.com/2020/04/jeevan-shikshan-article-print.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+The article in Marathi discusses about developing observation based skills through an activity based learning method.
+
+</p>
 
 ---
 
@@ -38,6 +233,19 @@ Shaikh Rafikh, Harita Raval, Harshit Agrawal, and G. Nagarjuna, "Impact of compu
 Prof M C Arunan, "Populating India with STEM Spectators: GullyCricket Model of Spreading STEM Culture", CUBE Lab, Homi Bhabha Center for Science Education, TIFR, Mumbai, 2020.
 
 <p style="margin-left:10%; margin-right:10%;">In India, there is a serious dearth of spectators for Science, unlike, say, in a game of cricket. A game like Cricket is a rule-following activity where the players as well as the spectators are immersed in it. The idea was to see if Indian science can learn anything from Indian street cricket. With this aim a new model of STEM (Science, Technology, Engineering and Mathematics) education called CUBE (Collaboratively Understanding Biology Education) was launched 6 years ago at the Homi Bhabha Center. STEM is taken as a set of games scientists, engineers and mathematicians play. The idea is to develop groups of people who understood some rules of the game and they would constitute the STEM spectators. For creating the STEM spectators, groups of students and teachers working in collaboration were encouraged to do experiments using the resourcesin their neighborhood on problems that they observe in their everyday life. Several such groups in under graduate colleges and schools across the country were set up. Prof Arunan narrated examples of such experiments as the pea study, the Dafnia study, the flowering patterns of mangoes in different geographical locations etc. It was observed that some of these studies matured from curiosity to frontier sciences.</p>
+
+---
+###  Observing Microorganisms at our Doorstep -- A Learning Unit. 
+
+Meena Kharatmal, Nagarjuna G., M C. Arunan (2019). Observing Microorganisms at our Doorstep -- A Learning Unit. In Vigyan Pratibha Project, Mumbai: HBCSE
+
+[To view](https://vigyanpratibha.in/index.php/observing-microorganisms-at-our-doorstep/)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+This is a project based learning unit based on CUBE’s activity – Microorganisms at your Doorstep. The learning unit comprises of students’ worksheet, teachers handout. It is developed as part of the Vigyan Pratibha project. project. 
+
+</p>
 
 ---
 
