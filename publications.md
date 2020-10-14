@@ -191,7 +191,7 @@ The article discusses how students can develop observation based skills through 
 
 ---
 
-###  Developing observational skills in primary students
+###  Developing observational skills in primary students — Article in Marathi
 
 Meena Kharatmal (2020). Nirikshan Vikasit Karnyasaathi Kriyakalp (Developing observational skills -- Article in Marathi). In Jeevan Shikshan, Pune: MSCERT, February 2020.
 
