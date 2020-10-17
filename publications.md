@@ -525,6 +525,22 @@ Amit Dhakulkar, Samir Dhurde & Nagarjuna G., "Measuring the Mustard Seed: First 
 <p style="margin-left:10%; margin-right:10%;">Constructing, reading and understanding graphs is an inter disciplinary and important skill in today’s world. Though being such an important skill students are not taught explicitly to develop this important skill. Also there has been an urge in the literature for the students to use real world data to make sense ofthe concepts that they learn. In general students are not provided with opportunities to make the skill explicit, and link it up with their life experiences the concepts and subjects that they learn. We present here a simple task which provides the students a context in which real world data is collected, and used to construct a simple linear mathematical model. This task connects different skills like measurement, graphicacy, mathematical modelling and at the same time also helps a two way transition between the abstract mathematical world and the concrete physical world.</p>
 
 ---
+### Transforming Undergraduate Science Education: Collaborative Undergraduate Biology Education (CUBE)
+
+
+Arunan M C (2013). Transforming Undergraduate Science Education: Collaborative Undergraduate Biology Education (CUBE) In IndiaBioScience Website, 29th Jul 2013. 
+
+[To view](https://indiabioscience.org/columns/indian-scenario/transforming-undergraduate-science-education-collaborative-undergraduate-biology-education-cube)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+The present article is a narrative of an ongoing effort to functionally network the 26,000 undergraduate colleges in India. The functional connectivity is proposed to be achieved by providing research experiences to undergraduates by means of simple model systems based research. The aim is to transform college labs into contemporary, open-ended, inquiry-driven and collaborative research laboratories so that the biology we teach reflects the biology we do. We propose that linking the synergistic communities of teaching and research in biology or any discipline will empower the teachers who are the mainstay of the Indian education system. The network that CUBE envisages will facilitate resource sharing among the members so that scarcity of any resource for a group/​individual is an opportunity to invoke the entire network to pitch in and provide.
+
+
+</p>
+
+---
+
 
 ### CUBE: Re-Structuring Undergraduate Biology Education
 
@@ -604,6 +620,21 @@ Amit Dhakulkar and Nagarjuna G., "Epicyclical Astronomy: A case for Geogebra". *
 
 ---
 
+### How will it Improve Undergraduate Biology Training in India?
+
+
+Arunan M C (2011). University-Institute Interactions: How will it Improve Undergraduate Biology Training in India? In IndiaBioScience Website, 29th March 2011. 
+
+[To view](https://indiabioscience.org/columns/opinion/university-institute-interactions-how-will-it-improve)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+There are a few successful individual initiatives in University-Institute interactions in the past, some of them sustained since the eighties. Even as there is scope for institutionalizing these efforts further by involving more such city colleges in the ambit, the reproducibility of this engaging interaction involving research institutes and colleges in other centers in the country, is not in any serious doubt. Rather, it is highly called for, since potential scientists should be tapped at an early age onwards, from the academic hinterlands spread across the country. The Get Involved in Biology Series(GIBS) and the Wikilabs, initiated at the Homi Bhabha Center for Science Education, TIFR, Mumbai, recently, as well as programs like the Season Watch (NCBS, Bengaluru) are expected to functionally network students, teachers and researchers across the country through engaging in collaborative research in undergraduate biology. Harnessing the potential of the rich biodiversity, by developing newer model systems that are cost-effective and at the same time powerful enough to address even highly sophisticated questions is one of the other objectives.
+
+
+</p>
+
+---
 
 ### Developing a primer for constructing and analyzing conceptual structures
 
