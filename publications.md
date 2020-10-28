@@ -8,7 +8,19 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
+### CUBE Home Labs and chatShaala
 
+Meena Kharatmal, Nagarjuna G. & Kiran Yadav (2020). Undergraduates in Lockdown: Sustaining Research Projects with CUBE Home Labs and chatShaala. IndiaBioscience. Bangalore. 23 October 2020.
+
+[To view](https://indiabioscience.org/columns/education/undergraduates-in-lockdown-sustaining-research-projects-with-cube-home-labs)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+The pandemic and the consequent lockdown have disrupted classes and access to labs at educational institutions across the country. However, for the undergraduate students of the CUBE program, the lockdown has been a boon. Instead of losing hope, these students have set a precedent by finding creative ways to continue working and learning along with their peers by developing the CUBE home labs and the CUBE chatShaala.
+
+</p>
+
+---
 ### Seroprevalence Study in Mumbai – 4
 
 Uma Ramakrishnan & Meena Kharatmal (2020).   Seroprevalence Study in Mumbai: In Conversation with TIFR Scientists -- Part 4: Personal Perspectives, Risks and Challenges During the Study, and About Public Private Partnership    In CovidGyan Website, Mumbai: TIFR,  25th September 2020. 
