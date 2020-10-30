@@ -5,7 +5,7 @@ description: an alphabet for universal literacy
 ---
 # naYana
 
-The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](../assets/font/naYanakamikRegular.otf)
+The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](../assets/fonts/naYanakamikRegular.otf)
 
 The ability to produce a variety of vocalizations and other sounds through the buccal cavity gives human beings, so to speak, a speech engine. According to Ethnologue there are over 7000 different languages spoken around the world. If we take IPA (International Phonetic Alphabet) as an indication of the variety of vocalizations that we can generate, we have about 107 sound symbols for each phoneme, plus about 50 diacritics generating variations of the sounds and a few intonations. None of the languages use all of them.  For example, English uses only about 24 consonants and 20 vowel forms  to produce variations;  Hindustani has about 28 consonants and about 8 vowels. Taa language, spoken in Botswana, is considered to have the alrgest number of phonemes including non-vocal click sounds, with about 60 consonants and about 30 vowels. Each of these phonemes need a corresponding alphabet, and IPA does provide that.  However, IPA is a linguistic exercise and not developed for literacy.  There are some attempts to make the IPA encodable within 7-bit ASCII range, e.g. X-SAMPA (https://en.wikipedia.org/wiki/X-SAMPA), which is now used mostly as an input method for IPA. 	If universal literacy is the motive, we need a script that is easy to learn, easy to learn another language. extendable and localizable without violating the design principles, and finally preerving and provisioning for the diversity of expression.
 
@@ -97,7 +97,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 ## Credits
 **Credits Authors**:Nagarjuna G. and Vickram Krishna
 
-**Author of naYanakamikRegular font**: Nagarjuna G. [Download the OTF font](../assets/font/naYanakamikRegular.otf)
+**Author of naYanakamikRegular font**: Nagarjuna G. [Download the OTF font](../assets/fonts/naYanakamikRegular.otf)
 
 **Name for the alphabet given by**: Rafikh Shaikh
 
