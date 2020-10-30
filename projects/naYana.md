@@ -38,7 +38,7 @@ Most of the shapes used in the design of naYana alphabet are widely available wi
 
 Vowels are produced by free passage of breath through the oral cavity. All vowels are created by a shape that closely resembles the sound, placed above a horizontal line with a gap, representing the free passage of breath. The modifiers placed on top of the horizontal line are chosen intuitively and inspired from existing usage.
 
-![vowel chart of naYana]((../assets/img/nayana-vowel.jpeg)
+![vowel chart of naYana](../assets/img/nayana-vowel.jpeg)
 Table 1: vowels chart indicating the IPA mapping, proposed input character for typing on a regular QWERTY keyboard and examples.
 
 Additional vowel forms can be created by a combination of the base vowels, e.g. au, oi, ui, ae, ea ou etc. When necessary localized interpretations can be defined for each langauge or dialect.
