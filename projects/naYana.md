@@ -5,7 +5,7 @@ description: an alphabet for universal literacy
 ---
 # naYana
 
-The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](https://gnowledge.org/~nagarjun/naYanakamikRegular.otf)
+The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](../assets/font/naYanakamikRegular.otf)
 
 The ability to produce a variety of vocalizations and other sounds through the buccal cavity gives human beings, so to speak, a speech engine. According to Ethnologue there are over 7000 different languages spoken around the world. If we take IPA (International Phonetic Alphabet) as an indication of the variety of vocalizations that we can generate, we have about 107 sound symbols for each phoneme, plus about 50 diacritics generating variations of the sounds and a few intonations. None of the languages use all of them.  For example, English uses only about 24 consonants and 20 vowel forms  to produce variations;  Hindustani has about 28 consonants and about 8 vowels. Taa language, spoken in Botswana, is considered to have the alrgest number of phonemes including non-vocal click sounds, with about 60 consonants and about 30 vowels. Each of these phonemes need a corresponding alphabet, and IPA does provide that.  However, IPA is a linguistic exercise and not developed for literacy.  There are some attempts to make the IPA encodable within 7-bit ASCII range, e.g. X-SAMPA (https://en.wikipedia.org/wiki/X-SAMPA), which is now used mostly as an input method for IPA. 	If universal literacy is the motive, we need a script that is easy to learn, easy to learn another language. extendable and localizable without violating the design principles, and finally preerving and provisioning for the diversity of expression.
 
@@ -29,7 +29,7 @@ A word about celebrating cultural variation. Often we hear arguments that any at
 
 ## naYana alphabets
 
-![naYana alphabets](https://gnowledge.org/~nagarjun/nayana-banner-v3.png)
+![naYana alphabets](../assets/img/nayana-alphabets.jpeg)
 Figure 1: naYana alphabets. The vowel set followed by the consonents which are grouped into six categories, and the numbers are grouped into 0-9.
 
 Most of the shapes used in the design of naYana alphabet are widely available within the very large unicode set of most common fonts. Some of the shapes are created by rotating them, and by doing a union or diffrence operation of the outlines from existing shapes. No distinction between capital and small letters is proposed. The prototype font (naYanakamik is derived from Comik Neue Regular) 
@@ -38,7 +38,7 @@ Most of the shapes used in the design of naYana alphabet are widely available wi
 
 Vowels are produced by free passage of breath through the oral cavity. All vowels are created by a shape that closely resembles the sound, placed above a horizontal line with a gap, representing the free passage of breath. The modifiers placed on top of the horizontal line are chosen intuitively and inspired from existing usage.
 
-![vowel chart of naYana](https://gnowledge.org/~nagarjun/naYana-vowel-table.png)
+![vowel chart of naYana]((../assets/img/nayana-vowel.jpeg)
 Table 1: vowels chart indicating the IPA mapping, proposed input character for typing on a regular QWERTY keyboard and examples.
 
 Additional vowel forms can be created by a combination of the base vowels, e.g. au, oi, ui, ae, ea ou etc. When necessary localized interpretations can be defined for each langauge or dialect.
@@ -50,7 +50,7 @@ Sharper contact at the end of the palate genetates /k/, therfore <u>k</u> is cho
 
 The number shapes were created keeping semantics of the decimal number system. 6-9 are created by inserting stroke modifer of 1-4. The number 5 is represented as half of 10, hence D. The need to create special symbols for numbers is arising from using some of the number shapes for the consonents, e.g. <u>s</u>, <u>m</u> and <u>T</u> for /s/, /m/ and /ɵ/.
 
-![consonents chart of naYana](https://gnowledge.org/~nagarjun/naYana-consonent-table.png)
+![consonents chart of naYana](../assets/img/nayana-consonent.jpeg)
 
 Table 2: Consonents with the shape, IPA phoneme mapping, proposed input character for typing on a regular QWERTY keyboard, with examples.
 
@@ -97,7 +97,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 ## Credits
 **Credits Authors**:Nagarjuna G. and Vickram Krishna
 
-**Author of naYanakamikRegular font**: Nagarjuna G. [Download the OTF font](https://gnowledge.org/~nagarjun/naYanakamikRegular.otf)
+**Author of naYanakamikRegular font**: Nagarjuna G. [Download the OTF font](../assets/font/naYanakamikRegular.otf)
 
 **Name for the alphabet given by**: Rafikh Shaikh
 
