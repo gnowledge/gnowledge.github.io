@@ -11,7 +11,9 @@ description: Design and Development of Collaborative STEM Engagements!
 <p>chatShaala is a conversational space to nurture and deepen understanding around making and investigative projects. We envision to build an community of students, educators, tinkerers, researchers, teachers, scientists, curious citizens to participate in the process of knowledge construction through dialogue in the context of tinkering and investigations. To know more about various chatShaalas and participate, explore below</p>
 <a href="https://www.gnowledge.org/projects/chatshaala-cube.html" class="btn btn-primary">CUBE Chat</a>|
 <a href="https://www.gnowledge.org/projects/chatshaala-electronics.html" class="btn btn-primary">Chip Chat</a>|
-<a href="https://www.gnowledge.org/projects/chatshaala-turtleart.html" class="btn btn-primary">turtle Chat</a>
+<a href="https://www.gnowledge.org/projects/chatshaala-turtleart.html" class="btn btn-primary">Turtle Chat</a>|
+<a href="https://metastudio.org/c/barefootchat/37" class="btn btn-primary">Barefoot Chat</a>|
+<a href="https://metastudio.org/c/COVIDChat/34" class="btn btn-primary">COVID Chat</a> 
 </div>
 </div>
 
