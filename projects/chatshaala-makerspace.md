@@ -17,7 +17,7 @@ Here are some examples of recorded conversations,
 Here are some example of projects documented on metastudio.org 
 - [Weather Staion](https://metastudio.org/t/iot-micro-weather-station/4640/20)
 - [Effect of thermal expansion on pitch](https://metastudio.org/t/effect-of-thermal-expansion-on-the-pitch-of-steel-bamboo-flute-and-guitar/3762)
-- [Smartphone into microscope](https://metastudio.org/t/a-basic-guide-to-the-six-times-nobel-prize-winning-fruit-flies/4404)
+- [Smartphone into microscope](https://metastudio.org/t/lights-camera-action-how-to-convert-your-smartphone-into-microscope-for-less-than-a-1/5216)
 
 ## How to join the MakerSpace Chatshaala?
 
@@ -25,7 +25,7 @@ Here are some example of projects documented on metastudio.org
 ### Time: 3:30 pm to 5:30 pm
 ### Link to join: [Here](https://webinar.hbcse.tifr.res.in/b/rs7-7hj-une)
 
-The discussions can be found on metaStudio: https://metastudio.org/c/chipchat/36
+The discussions can be found on metaStudio: [Here](https://metastudio.org/c/chipchat/36)
 
 ## FAQ
 
