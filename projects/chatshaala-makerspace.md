@@ -35,5 +35,5 @@ The discussions can be found on metaStudio: https://metastudio.org/c/chipchat/36
 >**Do I have to be present for the entire duration of the chatshaala?**  
 > It's up to your availability. You can drop-in and leave anytime depending on your schedule.
 
->**I have already working on my project idea and facing a challenge during the implementation. Can I join the session to seek feedback on my project and get help?**  
+>**I am already working on my project idea and facing a challenge during the implementation. Can I join the session to seek feedback on my project and get help?**  
 > Yes. We encourage the sharing of challenges and problems with the community so that there is collaborative learning. We have a diverse group of mentors and community members who are always willing to extend help to support each other. You can also document your challenge on [metastudio.org](https://metastudio.org/)
