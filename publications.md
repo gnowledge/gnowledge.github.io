@@ -8,6 +8,20 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
+### Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit
+
+Meena Kharatmal, Nagarjuna G., & M. C. Arunan (2021). Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit.In Exploring Science and Mathematics with Vigyan Pratibha Learning Units. Class 8 Teacher Version, Mumbai: HBCSE.
+
+[To view](https://okeanos.files.wordpress.com/2021/06/vp_class8_teacherbook1-microorganisms-at-our-doorstep.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Things that are around us often go unnoticed. During the rainy season, drainage covers and pits in the ground fill up with water, mud,leaves, etc. Can the puddles, the soil in the garden, or the playground be a context for learning biology? These micro ecosystems support different forms of life that vary from place to place and from season to season. In this Learning Unit, students will explore their immediate surroundings, i.e. their ‘doorstep’, to learn about the tiny life-forms (microorganisms) in their own context. From the same sampling site, some students may find life-forms and others may not. Students can report their findings to each other and also to students and teachers from other schools. This will enable everyone to learn about the diversity of microbes across different locations all over the country
+
+</p>
+
+---
+
 ### CUBE Home Labs and chatShaala
 
 Meena Kharatmal, Nagarjuna G. & Kiran Yadav (2020). Undergraduates in Lockdown: Sustaining Research Projects with CUBE Home Labs and chatShaala. IndiaBioscience. Bangalore. 23 October 2020.
