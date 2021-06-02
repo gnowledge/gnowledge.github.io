@@ -10,7 +10,7 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 
 ### Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit
 
-Meena Kharatmal, Nagarjuna G., & M. C. Arunan (2021). Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit.In Exploring Science and Mathematics with Vigyan Pratibha Learning Units. Class 8 Teacher Version, Mumbai: HBCSE.
+Meena Kharatmal, Nagarjuna G., & M. C. Arunan (2021). Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit. In Choksi, B., Date, G., Mani, R. & Subramaniam, K. (EDs.). Exploring Science and Mathematics with Vigyan Pratibha Learning Units. Class 8 Teacher Version, Mumbai: HBCSE.
 
 [To view](https://okeanos.files.wordpress.com/2021/06/vp_class8_teacherbook1-microorganisms-at-our-doorstep.pdf)
 
