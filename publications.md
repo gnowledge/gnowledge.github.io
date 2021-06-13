@@ -331,7 +331,7 @@ Education, HBCSE (pp. 214-221). India: CinnamonTeal. 2018
 
 Nagarjuna G., "Distributing Justice in a Digital Society", *Breakthrough: A Journal for Science and Society*, Volume 20, Issue 3, Breakthrough Science Society, 2018. 
 
-[Download PDF file](assets/mediaPolitics-11-10-2018.pdf) 
+[Download PDF file](assets/mediaPolitics-11-10-2018 .pdf) 
 
 <p style="margin-left:10%; margin-right:10%;"> This article is on the
 politics of media, covering both digital and non-digital media. The
