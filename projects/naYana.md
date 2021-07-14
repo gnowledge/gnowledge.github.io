@@ -88,7 +88,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 
   - *In IPA* - səb̤iː mənuʂjon ko ɡɔːrvə ɔːrə ad̤ikaːron ke maːmle men d͡ʒənməd͡ʒaːtə svətntrətaː ɔːrə səmaːntaː praːptə ɦæː । unɦen budd̤i ɔːrə antəraːtmaː kiː denə praːptə ɦæː ɔːrə pərspərə unɦen b̤aːiːt͡ʃaːre ke b̤əavə səe bərtəavə kərnəa t͡ʃəaɦəie ।
 
-  - *In naYana* - <h5>sabhir manuSYoko gauRav auR adhikaRon ke marmle me janmajaaT svaTanTRaTa aur samaanTa pRapT hai. unhebuddi auR anTRaTmar kii den prapT hai auR paRaspaR unhe bhaircarRe ke bhav se baRTav kaRna carhiYe.</h5>
+  - *In naYana* - <h5>səb̤iː mənuʂjon ko ɡɔːrvə ɔːrə ad̤ikaːron ke maːmle men d͡ʒənməd͡ʒaːtə svətntrətaː ɔːrə səmaːntaː praːptə ɦæː । unɦen budd̤i ɔːrə antəraːtmaː kiː denə praːptə ɦæː ɔːrə pərspərə unɦen b̤aːiːt͡ʃaːre ke b̤əavə səe bərtəavə kərnəa t͡ʃəaɦəie ।</h5>
 
 - **Article 1 of UDHR in Marathi**
 
@@ -96,7 +96,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 
   - *In IPA* - sərvə maːnviː vjəktiː d͡ʑənmətəh svətəntrə aːɦetə və tjaːnnaː səmaːnə prətiʂʈʰaː və səmaːnə aːd̤ikaːrə aːɦetə. tjaːnnaː vit͡ɕaːrəɕəktiː və sədsədvivekbudd̤iː laːb̤leliː aːɦe və tjaːnniː ekmekaːnɕiː bənd̤əutvəat͡ɕjəa b̤əavnəenəe aːt͡ɕərɳə kərəavəe.
 
-  - *In naYana* - <h5>saRva maanavi vYakti janmaTaha svaTanTRa aahet va TYaannaa samaan pRatiSthaa va samaan adhiKaaR aaheT. Tyanna vicaRSakTi va sadsadvivekbuddhi laabhaleli aahe va Tyanni ekmekarnSi bandhutvacyaa bhaavanene aacaRaN kaRaave.</h5>
+  - *In naYana* - <h5>sərvə maːnviː vjəktiː d͡ʑənmətəh svətəntrə aːɦetə və tjaːnnaː səmaːnə prətiʂʈʰaː və səmaːnə aːd̤ikaːrə aːɦetə. tjaːnnaː vit͡ɕaːrəɕəktiː və sədsədvivekbudd̤iː laːb̤leliː aːɦe və tjaːnniː ekmekaːnɕiː bənd̤əutvəat͡ɕjəa b̤əavnəenəe aːt͡ɕərɳə kərəavəe.</h5>
 
 - **Article 1 of UDHR in Telugu**
 
@@ -104,7 +104,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 
   - *In IPA* - prət̪ɪpət̪t̪ɪsʋət̪ʋəmʊlə ʋɪʂəjəmʊnə manəʋʊlellərʊnʊ d͡ʒənmət̪əh sʋət̪ənt̪rʊlʊnʊ səmanʊlʊnʊ nəɡʊd̪ʊrʊ. ʋarʊ ʋɪʋeːt͡ʃənə-nt̪əhkərəɳə səmpənnʊləɡʊʈət͡ʃeː pərəspərəmʊ b̤rat̪rub̤aʋəmʊt̪əoː ʋərt̪əɪmpəʋələjəʊnəʊ.
 
-  - *In naYana* - <h5>pRaTipaTTisvaTvamula viSaYamuna maanavulellaRunu janmaTaha svaTanTRulunu samaanulunu naguduRu. vaaRu vivercana-anTahakaRaNa sampannulagutacEr paRaspaRamu bhRaTRubhavamuTo vaRTimpavalaYunu.</h5>
+  - *In naYana* - <h5>prət̪ɪpət̪t̪ɪsʋət̪ʋəmʊlə ʋɪʂəjəmʊnə manəʋʊlellərʊnʊ d͡ʒənmət̪əh sʋət̪ənt̪rʊlʊnʊ səmanʊlʊnʊ nəɡʊd̪ʊrʊ. ʋarʊ ʋɪʋeːt͡ʃənə-nt̪əhkərəɳə səmpənnʊləɡʊʈət͡ʃeː pərəspərəmʊ b̤rat̪rub̤aʋəmʊt̪əoː ʋərt̪əɪmpəʋələjəʊnəʊ.</h5>
 
 - **Article 1 of UDHR in Sanskrit**
 
@@ -112,7 +112,7 @@ aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT
 
   - *In IPA* - sərve maːnvaːəh svətntraːəh səmutpənnaːəh vərtənte api t͡ʃə, ɡɔːrvədr̩ʃaː ad̤ikaːrdr̩ʃaː t͡ʃə səmaːnaːəh evə vərtənte। ete sərve t͡ʃetnaː-tərkə-ʃəktib̤jaːn susmpənnaːəh sənti। api t͡ʃə, sərveऽpi bənd̤utvə-b̤aːvnəjəa pərspərən vjəvɦərntəu।
 
-  - *In naYana* - <h5>sərve maːnvaːəh svətntraːəh səmutpənnaːəh vərtənte api t͡ʃə, ɡɔːrvədr̩ʃaː ad̤ikaːrdr̩ʃaː t͡ʃə səmaːnaːəh evə vərtənte। ete sərve t͡ʃetnaː-tərkə-ʃəktib̤jaːn susmpənnaːəh sənti। api t͡ʃə, sərveऽpi bənd̤utvə-b̤aːvnəjəa pərspərən vjəvɦərntəu।.</h5>
+  - *In naYana* - <h5>sərve maːnvaːəh svətntraːəh səmutpənnaːəh vərtənte api t͡ʃə, ɡɔːrvədr̩ʃaː ad̤ikaːrdr̩ʃaː t͡ʃə səmaːnaːəh evə vərtənte। ete sərve t͡ʃetnaː-tərkə-ʃəktib̤jaːn susmpənnaːəh sənti। api t͡ʃə, sərveऽpi bənd̤utvə-b̤aːvnəjəa pərspərən vjəvɦərntəu।</h5>
 
 ## Credits
 **Credits Authors**:Nagarjuna G. and Vickram Krishna
