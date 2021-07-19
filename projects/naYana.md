@@ -69,17 +69,13 @@ Table 2: Consonants with the shape, IPA phoneme mapping, proposed input characte
 ## UDHR transcripts
 Article 1 of Universal Declaration of Human Rights is transcribed in multiple langauges below:
 
-**Standard English Spelling for Universal Declaration of Human Rights** 
+- **Standard English Spelling for Universal Declaration of Human Rights** 
 
-All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood. (Article 1 of the Universal Declaration of Human Rights)
+  - *In English* - All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood. (Article 1 of the Universal Declaration of Human Rights)
 
-**QWERTY keyboard input for Article 1 of UDHR** 
+  - *In IPA* - ɔl hjumən biɪŋz ɑɹ bɔɹn fɹi ænd ikwəl ɪn dɪɡnəʈi ænd ɹajʈs. ðej ɑɹ ɛndawd wɪð ɹizən ænd kɑnʃəns ænd ʃʊd ækʈ ʈəwɔɹdz wʌn ənʌðɹ̩ ɪn ə spɪɹəʈ ʌv bɹʌðɹ̩hʊd. (ɑɹʈəkəl 1 ʌv ðə junəvɹ̩səl dɛklɹ̩ejʃən ʌv hjumən ɹajʈs)
 
-aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT Riizan anD kansyens anD SuD Akt tuvarDz van enader in a spiRit af braderhud.
-
-**naYana transcript for UDHR** 
-
-<h5>aal hYuman biings ar barn frii anD iikval in Digniti anD Ryts. de ar enDoveD viT Riizan anD kansyens anD SuD Akt tuvarDz van enader in a spiRit af braderhud.</h5>
+  - *In naYana* - <h5>ɔl hjumən biɪŋz ɑɹ bɔɹn fɹi ænd ikwəl ɪn dɪɡnəʈi ænd ɹajʈs. ðej ɑɹ ɛndawd wɪð ɹizən ænd kɑnʃəns ænd ʃʊd ækʈ ʈəwɔɹdz wʌn ənʌðɹ̩ ɪn ə spɪɹəʈ ʌv bɹʌðɹ̩hʊd. (ɑɹʈəkəl 1 ʌv ðə junəvɹ̩səl dɛklɹ̩ejʃən ʌv hjumən ɹajʈs)</h5>
 
 
 - **Article 1 of UDHR in Hindi**
