@@ -125,4 +125,4 @@ Article 1 of Universal Declaration of Human Rights is transcribed in multiple la
 
 Translations of UDHR taken from https://unicode.org/udhr/index.html
 
-21st July 2020
+19th July 2021
