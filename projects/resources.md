@@ -16,3 +16,6 @@ If you love physics, mathematics, electronics and tinkering - you might find the
 ### [Digital Studio Resources](https://www.gnowledge.org/projects/resources-digitalstudio.html)
 If you are wondering to figure out meaningful integration of ICT in education, you might find the resources in this section useful. The softwares are FLOSS(Free/Libre and Open Source) and involve meaningful integration of ICT in classroom. The softwares are designed to empowers children to be the producer of content rather than passive consumer. 
 
+### [Learning STEM through simulations](https://www.gnowledge.org/projects/resources-simulation.html)
+Here are the list of recorded conversational video which integrates simulation to initiate discussion around STEM concepts and phenomena. These are released as OER. More details can be found on metastudio [simulation chat](https://metastudio.org/c/chat/simulation/78) category. 
+
