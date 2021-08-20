@@ -20,7 +20,7 @@ Here are some example of projects documented on metastudio.org
 ## Joining the MakerSpace Chatshaala
 - Pls read Notice, 20 Aug 2021 [Here](https://metastudio.org/t/imp-annoucement-related-to-makerspace-chatshaala/12429)
 
-The discussions can be found on metaStudio: [Here](https://metastudio.org/c/chipchat/36)
+## The earlier discussions are recorded and can be found on metaStudio: [Here](https://metastudio.org/c/chipchat/36)
 
 ## FAQ
 
