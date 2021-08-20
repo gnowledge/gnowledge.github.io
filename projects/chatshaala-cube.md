@@ -11,7 +11,7 @@ More details about CUBE can be found here: [Link](https://www.gnowledge.org/proj
 
 ### Days: Everyday
 ### Time: 5:30 pm to 8:30 pm
-### Link to join: [Here](https://webinar.hbcse.tifr.res.in/b/kir-vgc-6jf)
+### Link to join: [Here](https://webinar.hbcse.tifr.res.in/b/kir-hye-cn4)
 
 More details about the session/archived session: [Here](https://metastudio.org/t/s1e8-cube-chatshaala-exploring-new-ways-of-learning/4138)
 
