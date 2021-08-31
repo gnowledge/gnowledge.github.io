@@ -64,6 +64,58 @@ Things that are around us often go unnoticed. During the rainy season, drainage 
 
 ---
 
+### An Infographic on Frequency and Severity of the Adverse Events Following Immunization
+
+Meena Kharatmal & Anand Vaidya (2021). An Infographic on Frequency and Severity of the Adverse Events Following Immunization.  In CovidGyan Website, Mumbai: TIFR, 4th February,  2021.
+
+[To view](https://www.covid-gyan.in/infographic/frequency-and-severity-adverse-events-following-immunization)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+
+</p>
+
+---
+
+### An Infographic on Five Reasons for Adverse Events Following Immunization (AEFI)
+
+Meena Kharatmal & Anand Vaidya (2021). An Infographic on Five Reasons for Adverse Events Following Immunization (AEFI). In CovidGyan Website, Mumbai: TIFR, 4th February,  2021.
+
+[To view](https://www.covid-gyan.in/infographic/five-reasons-adverse-events-following-immunization)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+
+</p>
+
+---
+
+### An Infographic on Vaccine Safety Basics
+
+Meena Kharatmal & Anand Vaidya (2021). An Infographic on Vaccine Safety Basics. In CovidGyan Website, Mumbai: TIFR, 4th February,  2021.
+
+[To view](https://www.covid-gyan.in/infographic/vaccine-safety-basics)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+
+</p>
+
+---
+
+### An Infographic on Stages of Vaccine Development and Phase Trials
+
+Meena Kharatmal & Anand Vaidya (2021). An Infographic on Stages of Vaccine Development and Phase Trials. In CovidGyan Website, Mumbai: TIFR, 4th February,  2021.
+
+[To view](https://www.covid-gyan.in/infographic/stages-vaccine-development)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+
+</p>
+
+---
+
 ### CUBE Home Labs and chatShaala
 
 Meena Kharatmal, Nagarjuna G. & Kiran Yadav (2020). Undergraduates in Lockdown: Sustaining Research Projects with CUBE Home Labs and chatShaala. IndiaBioscience. Bangalore. 23 October 2020.
