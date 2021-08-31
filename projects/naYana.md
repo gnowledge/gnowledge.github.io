@@ -29,6 +29,7 @@ A word about celebrating cultural variation. Often we hear arguments that any at
 
 The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](../assets/fonts/naYanakamikRegular.otf)
 
+To make learning the script more accessible and fun, a **naYana playground** is also developed, which can be accessed [here](https://gnowledge.gitlab.io/nayana_browser_plugin/index.html), where the users can type in naYana using their standard Latin keyboards. All the character mapping charts are also available there for a handy reference of the learner. An additional logging feature is also included for easy comparison and contrast, thus aiding in learning the script.
 
 ## naYana alphabets
 
