@@ -8,6 +8,48 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
+
+### CUBE -- Pathshala Ke Chatro Se Jude Project Aadharit Vigyan Prayog
+
+Meena Kharatmal (2021). CUBE -- Pathshala Ke Chatro Se Jude Project Aadharit Vigyan Prayog (CUBE -- Project Based Science Experiments for School Students -- Article in Hindi). In Shaikshanik Sandarbh, Issue 76 (133). Bhopal: Eklavya Foundation. March-April 2021.
+
+[To view](https://okeanos.files.wordpress.com/2021/08/cube-hindi-eklavya-sandarbh-mar-apr-2021.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+
+</p>
+
+---
+
+### Invitation to CUBE Project -- Learning Science by Doing Science
+
+Meena Kharatmal with CUBE Lab Members (2021). Invitation to CUBE Project -- Learning Science by Doing Science. In Teacher Plus. Secunderabad: Azim Premji University. August 2021.
+
+[To view](https://okeanos.files.wordpress.com/2021/08/invitation-to-cube-project-learning-science-by-doing-science.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+
+</p>
+
+---
+
+### Observing the Microbial World: Student Experiences.  Field Guide Know Your Pond Mates.
+
+Meena Kharatmal (2021). Observing the Microbial World: Student Experiences.  Field Guide Know Your Pond Mates. In iwonder Rediscovering School Science. Bangalore: Azim Premji University. June 2021, pg. 25-31.
+
+
+[To view](https://okeanos.files.wordpress.com/2021/08/observing-the-microbial-world-student-experiences.pdf)
+
+<p style="margin-left:10%; margin-right:10%;">
+
+Have you ever observed water in the pits and puddles that appear after the rains? Each of these temporary collections of rainwater act as micro-ecosystems, supporting many different tiny life-forms that vary from place to place and season to season. Such observations of the natural world are not only vital to the practice of science, but also to its teaching and learning in the classroom. In fact, an interest in science often begins with observations of our immediate surroundings that engage our curiosity. To encourage students to study such micro-ecosystems in and around their schools, we designed a learning unit comprising a series of simple, hands-on activities and shared it with teachers from various schools 
+
+</p>
+
+---
+
 ### Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit
 
 Meena Kharatmal, Nagarjuna G., & M. C. Arunan (2021). Microorganisms at our Doorstep — Vigyan Pratibha Learning Unit. In Choksi, B., Date, G., Mani, R. & Subramaniam, K. (EDs.). Exploring Science and Mathematics with Vigyan Pratibha Learning Units. Class 8 Teacher Version, Mumbai: HBCSE.
