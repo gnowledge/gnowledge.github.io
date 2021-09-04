@@ -27,8 +27,25 @@ The end result: a script where learning to spell a word is made redundant, and n
 
 A word about celebrating cultural variation. Often we hear arguments that any attempt at a universal code goes against human history and cultural variation. Common code does not eliminate diversity of expression within a wider population, on the other hand it becomes a base for inclusive participation. Trascriptional unity can generate translational diversity is well evidenced by a common genetic code, where four letters and 64 words generated the organic diversity which is key for organic evolution. We hope naYana project will enhance cultural diversity and localization through transciptional unity and universal literacy.
 
-The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](../assets/fonts/naYanakamikRegular.otf)
+## Digital Support
 
+### naYana Font
+The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.
+[Download the OTF font.](../assets/fonts/naYanakamikRegular.otf)
+
+### Browser Plugin
+A **browser plugin** is also developed that can render complete web pages and selected text into naYana, thus making the script more accessible to large audiences. The plugin can be accessed and installed from [here.](https://gitlab.com/gnowledge/nayana_browser_plugin/-/blob/master/README.md#how-to-install-browser-plugin)
+Currently the plugin supports webpages in English and Hindi to be converted into naYana.
+#### Features of the plugin 
+- The extension allow users to do two things:
+  - Convert whole webpage into naYana
+  - Selected text into naYana
+- **Easy Toggle** - While converting the whole page into naYana the extension provides a toggle button where users can switch between the original webpage and the naYana page. This helps users to increase their understanding of naYana.
+- **One time processing** - Re-switching the toggle back to the on position doesn’t start the complete process all over again. The plug in maintains a clone of the webpage and keeps on processing the conversion even when the toggle is off. This ensures that the webpage is processed only once.
+- **Automatic Source Language Detect** - The plug in automatically detects the source language of the webpage and sets it as the default selected option.
+
+
+### Online Playground
 To make learning the script more accessible and fun, a **naYana playground** is also developed, which can be accessed [here](https://gnowledge.gitlab.io/nayana_browser_plugin/index.html), where the users can type in naYana using their standard Latin keyboards. All the character mapping charts are also available there for a handy reference of the learner. An additional logging feature is also included for easy comparison and contrast, thus aiding in learning the script.
 
 ## naYana alphabets
