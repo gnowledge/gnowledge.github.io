@@ -7,7 +7,7 @@ description: Design and Development of Collaborative STEM Engagements!
 
 <div class="banner" style="padding:15px; text-align:center;">
 <h1>How to make a home lab?</h1>
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/lqUTobuDgvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" src="https://www.youtube-nocookie.com/embed/lqUTobuDgvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Here is the story of the making of HOME Labs shared during "Chai and Why Session"</p>
 </div>
 
