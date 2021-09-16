@@ -6,6 +6,12 @@ description: Design and Development of Collaborative STEM Engagements!
 <!---{% include menu.html %}--->
 
 <div class="banner" style="padding:15px; text-align:center;">
+<h1>How to make a home lab?</h1>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lqUTobuDgvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Here is the story of the making of HOME Labs shared during "Chai and Why Session"</p>
+</div>
+
+<div class="banner" style="padding:15px; text-align:center;">
 <div class="banner-content">
 <h1>chatShaala: a webinar room and an online forum</h1>
 <p>chatShaala is a conversational space to nurture and deepen understanding around making and investigative projects. We envision to build a community of students, educators, tinkerers, researchers, teachers, scientists, curious citizens to participate in the process of knowledge construction through dialogue in the context of tinkering and investigations. To know more about various chatShaalas and participate, explore below</p>
