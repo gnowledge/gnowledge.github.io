@@ -8,6 +8,16 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 {:toc}	 
 # Recent Publications
 
+### Role of shared screen in a computer-supported classroom
+
+Rafikh Rashid Shaikh, Nagarjuna G & Ayush Gupta (2023). Investigating the role of shared screen in a computer-supported classroom in learning. Education and Information Technologies. https://doi.org/10.1007/s10639-022-11567-7
+
+[Download PDF file](assets/2023_role_shared_screen_classroom.pdf) 
+
+<p style="margin-left:10%; margin-right:10%;"> Networked computers can potentially support classrooms to be more interactive. It can help students share representations amongst themselves and work together on a shared virtual activity space. In research on the role of shared screens or shared virtual workspace in learning settings, there has been less attention paid to contexts where learners are co-located. This paper looks at the impact of the shared screen in a computational game environment on mathematics learning and practices and the construction of learners' emotions and social status in classroom interactions. We designed two versions of a simple arithmetic game: a solo version in which the student played the game alone and a multi-player version in which the screen was shared, and the players could see the arithmetic moves of the other players. We implemented these two versions of the game in a 4th-grade classroom in a suburban school in a large metropolis in India. Classroom sessions were video recorded, computer logs were collected, and field notes were taken. Focus group sessions were held with the students. We coded a portion of the data to get at patterns of classroom interactions. Then we drew on qualitative video analysis tools to analyze specific episodes to understand the fine timescale dynamics of dominant interaction patterns in each setting. Our analysis shows that the shared screen served as a shared memory device, keeping a record of all the students' posts, and was entangled in the moment-to-moment dynamics of self- and peer- assessments of arithmetic. These findings suggest that thoughtful integration of networked digital tools in computer-supported learning environments can increase student–student interactions and support disciplinary learning.
+</p>
+
+---
 
 ### CUBE -- Pathshala Ke Chatro Se Jude Project Aadharit Vigyan Prayog
 
