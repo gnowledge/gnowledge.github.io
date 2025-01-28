@@ -38,10 +38,12 @@ the world under Creative Commons license.
 The unusually spelled term "gnowledge" is an inspiration from the [GNU
 project](https://www.gnu.org/). The lab is also unusual for its explicit declaration to a social committment as mentioned in the [gnowledge manifesto](https://www.gnowledge.org/projects/manifesto.html).
 
-## Release of chatshaala.in
+## Living Academy
+Living Academy (LA) is developing as a studio (a life-long Kindergarten) for home schooling parents and children, and a club-house for children living in an urban slum near Bhavani Peth, Pune, India.  Stories on how the Living Academy is being created is documented at https://metaStudio.org/c/la 
 
-[chatShaala.in](https://chatshaala.in/) is a mobile friendly, data efficient web app, with a simplified interface of metaStudio.org. This does not need any installation, and works on all mobiles and Desktops using a normal web browser. It consumes 50% less Internet bandwidth to access [metaStudio.org](http://metaStudio.org) which makes it lean and fast application. [metaStudio.org](http://metaStudio.org) as well as [chatShaala.in](https://chatshaala.in/) both use the same backend, therefore users can continue to use any Interface as per their preference. More details can be found [here](https://www.gnowledge.org/projects/chatshaalaApp.html)
+## metaStudio.org 
 
+[metaStudio.org](https://metaStudio.org/) is a mobile friendly platform for chatting cultivating the STEM habits (STEM chatShala).  Students periodically blog here about the various experiments they do at their frugal labs at home or discuss in groups in both private and public spaces. 
 
 ## STEM Education Projects
 - [CUBE: Collaboratively Understanding Biology Education](https://www.gnowledge.org/projects/cube.html) 
