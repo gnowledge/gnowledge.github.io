@@ -39,7 +39,7 @@ The unusually spelled term "gnowledge" is an inspiration from the [GNU
 project](https://www.gnu.org/). The lab is also unusual for its explicit declaration to a social committment as mentioned in the [gnowledge manifesto](https://www.gnowledge.org/projects/manifesto.html).
 
 ## Living Academy
-Living Academy (LA) is developing as a studio (a life-long Kindergarten) for home schooling parents and children, and a club-house for children living in an urban slum near Bhavani Peth, Pune, India.  Stories on how the Living Academy is being created is documented at https://metaStudio.org/c/la 
+Living Academy (LA) is developing as a studio (a life-long Kindergarten) for home schooling parents and children, and a club-house for children living in an urban slum near Bhavani Peth, Pune, India.  Visit the [Making of Living Academy](https://metaStudio.org/c/la) to know more about the ongoing project.
 
 ## metaStudio.org 
 
