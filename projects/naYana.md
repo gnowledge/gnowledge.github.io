@@ -32,7 +32,7 @@ A word about celebrating cultural variation. Often we hear arguments that any at
 ## Digital Support
 
 ### naYana Font
-The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.
+The naYana phonetic alphabet is created by [Nagarjuna G.](/team/nagarjuna-g.html) and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.
 [Download the OTF font.](../assets/fonts/naYanakamikRegular.otf)
 
 ### Browser Plugin
@@ -135,15 +135,15 @@ Article 1 of Universal Declaration of Human Rights is transcribed in multiple la
   - *In naYana* - <u>sərve maːnvaːəh svətntraːəh səmutpənnaːəh vərtənte api t͡ʃə, ɡɔːrvədr̩ʃaː ad̤ikaːrdr̩ʃaː t͡ʃə səmaːnaːəh evə vərtənte। ete sərve t͡ʃetnaː-tərkə-ʃəktib̤jaːn susmpənnaːəh sənti। api t͡ʃə, sərveऽpi bənd̤utvə-b̤aːvnəjəa pərspərən vjəvɦərntəu।</u>
 
 ## Credits
-**Credits Authors**:Nagarjuna G. and Vickram Krishna
+**Credits Authors**: [Nagarjuna G.](/team/nagarjuna-g.html) and Vickram Krishna
 
-**Author of naYanakamikRegular font**: Nagarjuna G. [Download the OTF font](../assets/fonts/naYanakamikRegular.otf)
+**Author of naYanakamikRegular font**: [Nagarjuna G.](/team/nagarjuna-g.html) [Download the OTF font](../assets/fonts/naYanakamikRegular.otf)
 
 **Name for the alphabet given by**: Rafikh Shaikh
 
 **Transcription of UDHR in Marathi and Sanskrit**: Spruha Satavlekar
 
-**Transcription of UDHR in Telugu**: Nagarjuna G.
+**Transcription of UDHR in Telugu**: [Nagarjuna G.](/team/nagarjuna-g.html)
 
 **Student interns**: who worked iteratively testing the idea: Smriti Rao, Deepa ramrakhani, Prachi Rahurkar, Sonal Bhavsar, Afrin Pinjari, Pooja Naik, Johnson Shetty, Kabir Kukreti, Vikas Balani, Tushar Garg, Ruchir Jain, Vinay Jain and several others.
 

@@ -216,7 +216,7 @@ License](http://www.gnu.org/licenses/agpl.html) as published by the Free
 Software Foundation; version 3 of the License, or (at your option) any
 later version.
 
-GNOWSYS is conceived and authored by Nagarjuna G. Most of the code to
+GNOWSYS is conceived and authored by [Nagarjuna G.](/team/nagarjuna-g.html) Most of the code to
 GNOWSYS was a contribution by several staff members and students who
 worked under his guidance at Homi Bhabha Centre for Science Education,
 TIFR, Mumbai. Shashank Ashtikar and Harshad Bahere were the initial

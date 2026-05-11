@@ -11,7 +11,7 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 ![Gnowledge Lab Team](https://metastudio.org/uploads/default/original/2X/5/5977fab8f08a0b1061cb890aa3a664868df7a943.jpeg)
 
 **1st row**
-Ashish Kumar Pardeshi, Satej Shende, Prof Nagarjuna G.
+Ashish Kumar Pardeshi, Satej Shende, [Prof Nagarjuna G.](/team/nagarjuna-g.html)
 
 **2nd row**
 Punit Dsouza, Jude Terrence Dsouza, Puneet Kishor, Chaitanya Prabhu, Yogesh Bhavsar, Shivani Dixit, Kiran Yadav, Meena Kharatmal 

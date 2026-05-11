@@ -96,7 +96,7 @@ which runs on the One Laptop Per Child (OLPC).
 
 ## MOOC on Digital Literacy
 
-**Nagarjuna G., Amit Dhakulkar, Chandita Mukherjee, \\
+**[Nagarjuna G.](/team/nagarjuna-g.html), Amit Dhakulkar, Chandita Mukherjee, \\
 Arun Ganesh, Haimanti Pakrashi**
 
 The Digital Literacy course intends to empower the learners to use
@@ -141,7 +141,7 @@ More details about initiative can be found [here](https://clix.tiss.edu/curricul
 
 # naYana
 
-The naYana phonetic alphabet is created by Nagarjuna G. and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](https://gnowledge.org/~nagarjun/naYanakamikRegular.otf)
+The naYana phonetic alphabet is created by [Nagarjuna G.](/team/nagarjuna-g.html) and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.[Download the OTF font.](https://gnowledge.org/~nagarjun/naYanakamikRegular.otf)
 
 More details about the project can be found [here](https://www.gnowledge.org/projects/naYana)
 

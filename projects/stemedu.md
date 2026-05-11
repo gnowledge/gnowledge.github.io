@@ -135,10 +135,10 @@ This project involves to study students understanding of scientific method. In t
 
 **(Elphinstone College, Mumbai, April 12, 2019)**
 
-This project uses concept inventory as one of the methods of STEM education. We explored the available concept inventory in the area of biology topics and more specifically in the area of evolution and natural selection. We adapted 20 concept inventories and administered to 30 undergraduate students to study their conceptions on natural selection. ([Meena Kharatmal](http://www.hbcse.tifr.res.in/people/scientific/meena), Sudhir Verma, [Nagarjuna G.](http://www.hbcse.tifr.res.in/people/academic/nagarjuna-g), M C Arunan)
+This project uses concept inventory as one of the methods of STEM education. We explored the available concept inventory in the area of biology topics and more specifically in the area of evolution and natural selection. We adapted 20 concept inventories and administered to 30 undergraduate students to study their conceptions on natural selection. ([Meena Kharatmal](http://www.hbcse.tifr.res.in/people/scientific/meena), Sudhir Verma, [Nagarjuna G.](/team/nagarjuna-g.html), M C Arunan)
 
 ### To identify the role of online/offline discussions in collaborative learning environment
-This project aims to  study the role of lab discussions online / offline on undergraduate students' conceptual understanding of evolution in an ongoing collaborative learning environment of CUBE.  ([Meena Kharatmal](http://www.hbcse.tifr.res.in/people/scientific/meena), Mayur Gaikwad, [Nagarjuna G.](http://www.hbcse.tifr.res.in/people/academic/nagarjuna-g), M C Arunan)
+This project aims to  study the role of lab discussions online / offline on undergraduate students' conceptual understanding of evolution in an ongoing collaborative learning environment of CUBE.  ([Meena Kharatmal](http://www.hbcse.tifr.res.in/people/scientific/meena), Mayur Gaikwad, [Nagarjuna G.](/team/nagarjuna-g.html), M C Arunan)
 
 ### Evidence Based Teaching Practices at Undergraduate Level 
 

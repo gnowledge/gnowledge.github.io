@@ -9,7 +9,7 @@ description: of gnowledge lab of HBCSE, TIFR
 
 # Concept Mapping
 
-(Meena Kharatmal and Nagarjuna)
+(Meena Kharatmal and [Nagarjuna](/team/nagarjuna-g.html))
 
 Re-representation of knowledge in non-linear network forms such as
 concept mapping are known to help in meaningful learning. We refined
@@ -25,7 +25,7 @@ on education. [Read a full report on this project](/projects/conceptmapping.html
 
 # Critical Graphicacy
 
-(Amit Dakulkar and Nagarjuna)
+(Amit Dakulkar and [Nagarjuna](/team/nagarjuna-g.html))
 
 Graphs form an important component of visualizing, analyzing, model
 building and interpreting data in science. Similarly in mathematics,
@@ -64,7 +64,7 @@ geocentric and heliocentric models from the history of astronomy.
 
 # Social Cognition
 
-**Construction of Scientific Knowledge in a Collaborative Sharing and Seeking environment, (Shraddha Gumre and Nagarjuna)**
+**Construction of Scientific Knowledge in a Collaborative Sharing and Seeking environment, (Shraddha Gumre and [Nagarjuna](/team/nagarjuna-g.html))**
 
 
 The research begun as a part of the CUBE project, it is an ongoing
@@ -93,7 +93,7 @@ by socially situated cognitive framework.
 
 # Shared Memory Space
 
-**Instant Messaging as a constructionist social learning context (Rafikh Shaikh and Nagarjuna)**
+**Instant Messaging as a constructionist social learning context (Rafikh Shaikh and [Nagarjuna](/team/nagarjuna-g.html))**
 
 A collaborative framework was also found to be effective for primary
 school children in Rafikh's study.  In this study instant messaging
@@ -129,7 +129,7 @@ can happen together in a studio environment.
 
 # Understanding Evolution
 
-**Understanding Causality in Natural Selection (Dr. Abhijeet Bardapurkar and Nagarjuna)**
+**Understanding Causality in Natural Selection (Dr. Abhijeet Bardapurkar and [Nagarjuna](/team/nagarjuna-g.html))**
 
 Abhijeet Bardapurkar's thesis “Understanding causality in natural
 selection: Towards the problematic of learning Darwin's theory of
@@ -155,7 +155,7 @@ etc.
 
 # Knowledge Network as a Complex System
 
-(Arnab Kumar Ray, Rajiv Nair and Nagarjuna)
+(Arnab Kumar Ray, Rajiv Nair and [Nagarjuna](/team/nagarjuna-g.html))
 
 Based on the idea that a dependency relation (a quasi-causal
 relationship) between learning objectives produces a complex
@@ -167,7 +167,7 @@ complex system.
 
 # The Roots of beingHuman
 
-(Nagarjuna, Durgaprasad Karnam, Megha Sanyal)
+([Nagarjuna](/team/nagarjuna-g.html), Durgaprasad Karnam, Megha Sanyal)
 
 **Grounding Syntax through Dexterous Halted-Action-Patterns in a Layered Sensory-Motor-Network**
 
