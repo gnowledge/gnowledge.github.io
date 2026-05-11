@@ -145,4 +145,9 @@ The naYana phonetic alphabet is created by [Nagarjuna G.](/team/nagarjuna-g.html
 
 More details about the project can be found [here](https://www.gnowledge.org/projects/naYana)
 
+# hedgedoc-nb
+
+[**hedgedoc-nb**](https://github.com/gnowgi/hedgedoc-nb) is a fork of [HedgeDoc](https://hedgedoc.org/) maintained by [Nagarjuna G.](/team/nagarjuna-g.html). Its tagline — *"Build knowledge graphs in markdown"* — captures the project's aim: extend HedgeDoc's real-time collaborative markdown editor into a notebook for authoring and exploring knowledge graphs, while staying close to plain-text editing. The code is in TypeScript and tracks the cutting-edge branch of HedgeDoc.
+
+An online deployment of hedgedoc-nb is available at [nodebook.co.in](https://nodebook.co.in). See the [nodeBook project page](/projects/nodebook.html) for details.
 
