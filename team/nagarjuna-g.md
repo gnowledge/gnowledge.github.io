@@ -44,7 +44,9 @@ For ongoing research threads — including biological roots of knowledge, social
 
 ## Publications
 
-A full list is on the [publications](/publications.html) page. Selected work spans concept mapping (2004–2016), GNOWSYS and semantic computing (2005–2014), cognitive ontogeny and the biological roots of knowledge (2005–2014), free-software and education policy (2008–2018), and recent collaborations on classroom learning and shared-screen environments (2017–2023).
+Selected work spans concept mapping (2004–2016), GNOWSYS and semantic computing (2005–2014), cognitive ontogeny and the biological roots of knowledge (2005–2014), free-software and education policy (2008–2018), and recent collaborations on classroom learning and shared-screen environments (2017–2023). The full lab list is on the [publications](/publications.html) page.
+
+{% include publications-list.html author="nagarjuna-g" %}
 
 ## Elsewhere on the web
 

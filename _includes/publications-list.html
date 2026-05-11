@@ -1,0 +1,43 @@
+{%- comment -%}
+  Renders a list of publications from site.data.publications.
+
+  Optional include params:
+    author — slug (from _data/people.yml); if set, list is filtered to entries
+             that include this slug in their authors array.
+
+  Sorted by year descending. Entry format (loose APA):
+    Authors (Year). Title. [In Editors,] *Venue*. [PDF]
+{%- endcomment -%}
+
+{%- if include.author -%}
+  {%- assign pubs = site.data.publications | where_exp: "p", "p.authors contains include.author" -%}
+{%- else -%}
+  {%- assign pubs = site.data.publications -%}
+{%- endif -%}
+
+{%- assign pubs = pubs | sort: "year" | reverse -%}
+
+{%- if pubs.size == 0 -%}
+*No publications yet.*
+{%- else -%}
+<ul class="publications-list">
+{%- for pub in pubs -%}
+  <li>
+    {%- for slug in pub.authors -%}
+      {%- if forloop.first == false -%}{%- if forloop.last %} &amp; {% else %}, {% endif -%}{%- endif -%}
+      {%- assign person = site.data.people[slug] -%}
+      {%- if person.page -%}<a href="{{ person.page | relative_url }}">{{ person.name }}</a>
+      {%- elsif person.name -%}{{ person.name }}
+      {%- else -%}{{ slug }}
+      {%- endif -%}
+    {%- endfor %} ({{ pub.year }}).
+    {%- assign title_url = "" -%}
+    {%- if pub.doi -%}{%- assign title_url = pub.doi | prepend: "https://doi.org/" -%}
+    {%- elsif pub.url -%}{%- assign title_url = pub.url -%}{%- endif %}
+    {% if title_url != "" %}<a href="{{ title_url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}.
+    {% if pub.editors %}In {{ pub.editors }}, {% endif %}<em>{{ pub.venue }}</em>.
+    {%- if pub.pdf %} [<a href="{{ pub.pdf | relative_url }}">PDF</a>]{%- endif -%}
+  </li>
+{%- endfor -%}
+</ul>
+{%- endif -%}

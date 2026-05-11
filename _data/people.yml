@@ -1,0 +1,113 @@
+# Discovered authors. Hand-edit to set canonical names / pages.
+
+alpesh-gajbe:
+  name: "Alpesh Gajbe"
+
+amit-dhakulkar:
+  name: "Amit Dhakulkar"
+
+anand-vaidya:
+  name: "Anand Vaidya"
+
+arnab-k-ray:
+  name: "Arnab K. Ray"
+  # variants observed: Arnab K Ray, Arnab K. Ray
+
+arvind-jamakhandi:
+  name: "Arvind Jamakhandi"
+
+ayush-gupta:
+  name: "Ayush Gupta"
+
+cube-lab-team:
+  name: "CUBE Lab Team"
+
+department-of-humanities:
+  name: "Department Of Humanities"
+
+divya-sinha:
+  name: "Divya Sinha"
+  # variants observed: Divya, Divya Sinha
+
+dmitry-ignatov:
+  name: "Dmitry I. Ignatov"
+
+ebie-sam:
+  name: "Ebie M. Sam"
+
+ganesh-gajre:
+  name: "Ganesh Gajre"
+
+harita-raval:
+  name: "Harita Raval"
+
+harshit-agrawal:
+  name: "Harshit Agrawal"
+
+heather-pfeiffer:
+  name: "Heather D. Pfeiffer"
+
+jonas-poelmans:
+  name: "Jonas Poelmans"
+
+karnam-dp:
+  name: "Karnam, DP"
+
+kiran-yadav:
+  name: "Kiran Yadav"
+
+kumar-a:
+  name: "Kumar, A"
+
+m-c-arunan:
+  name: "M. C. Arunan"
+  # variants observed: Arunan M C, M C Arunan, M C. Arunan, M. C. Arunan
+
+meena-kharatmal:
+  name: "Meena Kharatmal"
+  # variants observed: M. Kharatmal, Meena KHARATMAL, Meena Kharamal, Meena Kharatmal
+
+mrunal-nachankar:
+  name: "Mrunal Nachankar"
+
+nagarjuna-g:
+  name: "Nagarjuna G."
+  page: /team/nagarjuna-g.html
+  # variants observed: G Nagarjuna, G. Nagarjuna, G.Nagarjuna, Nagarjuna G, Nagarjuna Gadiraju
+
+padalkar-s:
+  name: "Padalkar, S"
+
+pardeshi-a:
+  name: "Pardeshi, A"
+
+rafikh-shaikh:
+  name: "Rafikh Shaikh"
+  # variants observed: Rafikh Shaikh, Shaikh Rafikh, Shaikh, R
+
+rajiv-nair:
+  name: "Rajiv Nair"
+
+samir-dhurde:
+  name: "Samir Dhurde"
+
+sandhya-r:
+  name: "Sandhya R"
+
+sanjay-chandrasekharan:
+  name: "Sanjay Chandrasekharan"
+
+self-project-team:
+  name: "SELF Project Team"
+
+shraddha-gumre:
+  name: "Shraddha Ghumre"
+
+sinha-r:
+  name: "Sinha, R"
+
+sutar-p:
+  name: "Sutar, P"
+
+uma-ramakrishnan:
+  name: "Uma Ramakrishnan"
