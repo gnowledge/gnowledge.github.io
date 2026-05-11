@@ -42,6 +42,12 @@ Projects led, co-led, or with significant authorship:
 
 For ongoing research threads — including biological roots of knowledge, social cognition, shared memory space, and knowledge networks as complex systems — see the [Research Projects](/projects/research.html) page.
 
+## Software
+
+Code repositories maintained by Nagarjuna G.:
+
+- [**hedgedoc-nb**](https://github.com/gnowgi/hedgedoc-nb) — *"Build knowledge graphs in markdown."* A TypeScript fork of [HedgeDoc](https://hedgedoc.org/) extending its real-time collaborative markdown editor with knowledge-graph notebook features.
+
 ## Publications
 
 Selected work spans concept mapping (2004–2016), GNOWSYS and semantic computing (2005–2014), cognitive ontogeny and the biological roots of knowledge (2005–2014), free-software and education policy (2008–2018), and recent collaborations on classroom learning and shared-screen environments (2017–2023). The full lab list is on the [publications](/publications.html) page.

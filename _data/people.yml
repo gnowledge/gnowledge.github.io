@@ -58,10 +58,12 @@ kumar-a:
 
 m-c-arunan:
   name: "M. C. Arunan"
+  page: /team/m-c-arunan.html
   # variants observed: Arunan M C, M C Arunan, M C. Arunan, M. C. Arunan
 
 meena-kharatmal:
   name: "Meena Kharatmal"
+  page: /team/meena-kharatmal.html
   # variants observed: M. Kharatmal, Meena KHARATMAL, Meena Kharamal, Meena Kharatmal
 
 mrunal-nachankar:
