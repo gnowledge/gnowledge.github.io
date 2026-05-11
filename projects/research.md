@@ -9,7 +9,7 @@ description: of gnowledge lab of HBCSE, TIFR
 
 # Concept Mapping
 
-(Meena Kharatmal and [Nagarjuna](/team/nagarjuna-g.html))
+([Meena Kharatmal](/team/meena-kharatmal.html) and [Nagarjuna](/team/nagarjuna-g.html))
 
 Re-representation of knowledge in non-linear network forms such as
 concept mapping are known to help in meaningful learning. We refined

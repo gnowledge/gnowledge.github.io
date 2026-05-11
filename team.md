@@ -14,10 +14,10 @@ description: of gnowledge lab of Homi Bhabha Centre for Science Education, TIFR
 Ashish Kumar Pardeshi, Satej Shende, [Prof Nagarjuna G.](/team/nagarjuna-g.html)
 
 **2nd row**
-Punit Dsouza, Jude Terrence Dsouza, Puneet Kishor, Chaitanya Prabhu, Yogesh Bhavsar, Shivani Dixit, Kiran Yadav, Meena Kharatmal 
+Punit Dsouza, Jude Terrence Dsouza, Puneet Kishor, Chaitanya Prabhu, Yogesh Bhavsar, Shivani Dixit, Kiran Yadav, [Meena Kharatmal](/team/meena-kharatmal.html) 
 
 **3rd row**
-Sadaqat Mulla, Durga Prasad, Prof. M. C. Arunan, Rupesh Nichat, Surendra Patil, Partha Edupally, Soham Dighe, Vignesh Nair, Siddhu Dhangar, Anil Kumar Sankhwar, Rafikh Rashid Shaikh
+Sadaqat Mulla, Durga Prasad, [Prof. M. C. Arunan](/team/m-c-arunan.html), Rupesh Nichat, Surendra Patil, Partha Edupally, Soham Dighe, Vignesh Nair, Siddhu Dhangar, Anil Kumar Sankhwar, Rafikh Rashid Shaikh
 
 **Last row**
 VK, Ravi Sinha 

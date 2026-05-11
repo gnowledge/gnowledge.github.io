@@ -5,7 +5,7 @@ description: a research project of gnowledge lab
 ---
 <!---{% include menu.html %}--->
 ## {{ page.title }}
-(Meena Kharatmal and [Nagarjuna](/team/nagarjuna-g.html))
+([Meena Kharatmal](/team/meena-kharatmal.html) and [Nagarjuna](/team/nagarjuna-g.html))
 
 **Developing a Method for Characterizing Change in Structure of Knowledge by Re-Representation of Concept Maps** 
 

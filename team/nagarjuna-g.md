@@ -30,7 +30,7 @@ Projects led, co-led, or with significant authorship:
 
 - [GNOWSYS / gstudio](/projects/gnowsys.html) — graph database and framework for semantic computing; the lab's flagship platform (conceived and authored)
 - [naYana](/projects/naYana.html) — a phonetic alphabet and OTF font (co-creator with Vickram Crishna; font designed by Nagarjuna G.)
-- [Concept Mapping research](/projects/conceptmapping.html) — long-running collaboration with Meena Kharatmal on refined concept maps and methodologies for representing scientific knowledge
+- [Concept Mapping research](/projects/conceptmapping.html) — long-running collaboration with [Meena Kharatmal](/team/meena-kharatmal.html) on refined concept maps and methodologies for representing scientific knowledge
 - [DOER: Distributed Decentralized Disk of OER](/projects/doer.html) — distributed offline-first OER repository
 - [CUBE: Collaboratively Understanding Biology Education](/projects/cube.html) — undergraduate research program using simple model systems
 - [MakerSpace](/projects/makerspace.html) — design, making and tinkering studios for STEM education
