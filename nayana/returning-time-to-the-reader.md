@@ -92,11 +92,13 @@ If it works, the saved time is the answer to a question humanity has been ignori
 
 ---
 
+> **Brave enough to try it?** Continue reading the same essay in a [partially phased and reformed version](/nayana/manifesto.html), where the spelling reforms are revealed progressively as you scroll. You will see what the early phases actually look like on the page.
+
 ## V. The longer arc
 
 The name *naYana* is a Sanskrit word meaning "eye" or "guidance."[^18] It echoes the Nyāya school of Indian logic, founded on the principle that careful seeing precedes correct reasoning. The script is meant to guide the eye, gently, from the spelling it knows to the spelling that matches the world.
 
-The name is also a phonetic palindrome. Read it forward: *n-a-Y-a-n-a*. Read it backward: *a-n-a-Y-a-n*. The capitalized Y in the middle is the axis of symmetry. This was not an accident. A script that works for English must, in principle, also work for languages that read right-to-left like Arabic and Hebrew, or top-to-bottom like classical Chinese and Japanese. The palindrome marks the script's intent: writing is a recording of speech, and speech does not have a preferred direction. The orthography should not impose one.
+The name is also a phonetic palindrome. Read it forward: *n-a-Y-a-n-a*. Read it backward: *n-a-Y-a-n-a*. The capitalized Y in the middle is the axis of symmetry. This was not an accident. A script that works for English must, in principle, also work for languages that read right-to-left like Arabic and Hebrew, or top-to-bottom like classical Chinese and Japanese. The palindrome marks the script's intent: writing is a recording of speech, and speech does not have a preferred direction. The orthography should not impose one.
 
 We are starting with English because English is the language with the largest mismatch between its sounds and its writing — and because English, as the global second language, exports that mismatch to every country where it is taught. A child in Maharashtra learning English does not just learn English; she learns to spend years of her childhood on the same fossilized irregularities that English-speaking children spend years on. The cost is global. The fix would be global.
 
