@@ -22,6 +22,8 @@ An online deployment of [hedgedoc-nb](https://github.com/gnowgi/hedgedoc-nb) —
 
 A phonetic alphabet and OTF font designed for transcriptional unity across the world's writing systems, with a browser plugin that renders web pages into naYana. See the [naYana project page](/projects/naYana.html).
 
+**New (2026):** [*Returning Time to the Reader*](/nayana/returning-time-to-the-reader.html) — an essay on naYana and the cost of English orthography.
+
 ## Roots of STEM
 
 An ongoing series of essays at [gnowgi.substack.com](https://gnowgi.substack.com) on the cognitive, cultural and pedagogical foundations of STEM education — connecting embodied cognition, free-software practice, and project-based learning to the question of how scientific habits develop.

@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Returning Time to the Reader — On naYana</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  /* ---- Font loading -------------------------------------------------------
+     The font is hosted on www.gnowledge.org alongside this page; the path
+     below is site-absolute so the page renders correctly when served from
+     any URL on the same domain.
+  -------------------------------------------------------------------------- */
+  @font-face {
+    font-family: 'Nayana';
+    src: url('/nayana/Nayana-Regular.otf') format('opentype');
+    font-display: swap;
+  }
+
+  /* ---- Page foundation --------------------------------------------------- */
+  :root {
+    --text: #1d1d1b;
+    --bg: #fbfbf7;
+    --muted: #777;
+    --rule: #e0e0d9;
+    --highlight: #fdf3c4;
+    --highlight-deep: #fde68a;
+    --rule-bg: #f4f4ef;
+    --rule-accent: #4a7eb8;
+    --serif: 'Nayana', Georgia, 'Times New Roman', serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    --mono: ui-monospace, 'SF Mono', Monaco, 'Cascadia Code', monospace;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--serif);
+    font-size: 19px;
+    line-height: 1.65;
+    /* The vowel-marker (ss01) feature is on for the whole document.
+       It is the "zero-cost" phase — the strokes appear under every Latin
+       vowel without any other change. */
+    font-feature-settings: "ss01" on;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  article {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 64px 32px 96px;
+  }
+
+  h1 {
+    font-size: 36px;
+    line-height: 1.2;
+    margin: 0 0 12px;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+
+  h1 .subtitle {
+    display: block;
+    font-size: 19px;
+    font-style: italic;
+    color: var(--muted);
+    margin-top: 12px;
+    line-height: 1.4;
+    font-feature-settings: "ss01" off;
+  }
+
+  h2 {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 48px 0 24px;
+    font-feature-settings: normal;
+  }
+
+  p { margin: 0 0 18px; }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--rule);
+    margin: 32px 0;
+  }
+
+  .preamble-note, .closing-note {
+    background: var(--rule-bg);
+    border-left: 3px solid var(--rule-accent);
+    padding: 18px 22px;
+    margin: 32px 0;
+    font-size: 15px;
+    line-height: 1.55;
+    font-family: var(--sans);
+    color: #333;
+    font-feature-settings: normal;
+  }
+
+  .preamble-note p, .closing-note p {
+    margin: 0 0 10px;
+  }
+  .preamble-note p:last-child, .closing-note p:last-child {
+    margin-bottom: 0;
+  }
+
+  .phase-announce {
+    background: #fff;
+    border: 1px solid var(--rule-accent);
+    border-radius: 4px;
+    padding: 14px 18px;
+    margin: 24px 0;
+    font-family: var(--sans);
+    font-size: 14px;
+    color: #333;
+    line-height: 1.5;
+    font-feature-settings: normal;
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .phase-announce::before {
+    content: "▼";
+    color: var(--rule-accent);
+    font-size: 12px;
+    flex-shrink: 0;
+    line-height: 1.6;
+  }
+
+  .phase-announce strong {
+    color: var(--rule-accent);
+  }
+
+  .changed {
+    background: linear-gradient(to bottom, transparent 70%, var(--highlight) 70%);
+    padding: 0 1px;
+    border-radius: 1px;
+    cursor: help;
+    position: relative;
+    transition: background 0.15s ease;
+  }
+
+  .changed:hover {
+    background: linear-gradient(to bottom, transparent 65%, var(--highlight-deep) 65%);
+  }
+
+  .changed:hover::after {
+    content: attr(data-original);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 6px;
+    padding: 4px 10px;
+    background: #1a1a1a;
+    color: #fff;
+    font-size: 13px;
+    font-family: var(--mono);
+    font-feature-settings: normal;
+    border-radius: 4px;
+    white-space: nowrap;
+    pointer-events: none;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+
+  .changed:hover::before {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: -2px;
+    border: 4px solid transparent;
+    border-top-color: #1a1a1a;
+    pointer-events: none;
+    z-index: 100;
+  }
+
+  .phase-bar {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--rule);
+    padding: 10px 24px;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--muted);
+    z-index: 50;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    font-feature-settings: normal;
+  }
+
+  .phase-bar .label {
+    color: var(--text);
+    font-weight: 600;
+  }
+
+  .phase-bar .progress {
+    flex: 1;
+    height: 4px;
+    background: var(--rule);
+    border-radius: 2px;
+    overflow: hidden;
+    max-width: 400px;
+  }
+
+  .phase-bar .progress-fill {
+    height: 100%;
+    background: var(--rule-accent);
+    transition: width 0.4s ease;
+    width: 0%;
+  }
+
+  .colophon {
+    margin-top: 64px;
+    padding-top: 24px;
+    border-top: 1px solid var(--rule);
+    font-family: var(--sans);
+    font-size: 14px;
+    color: var(--muted);
+    font-feature-settings: normal;
+    line-height: 1.55;
+  }
+
+  .escape-hatch {
+    margin: 40px 0;
+    padding: 16px 20px;
+    background: var(--rule-bg);
+    border-left: 3px solid var(--rule-accent);
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--text);
+    font-feature-settings: normal;
+  }
+
+  .escape-hatch a {
+    color: var(--rule-accent);
+    font-weight: 600;
+  }
+
+  em { font-style: italic; }
+
+  .signoff {
+    text-align: right;
+    font-style: italic;
+    color: var(--muted);
+    margin-top: 32px;
+    font-feature-settings: normal;
+  }
+
+  @media (max-width: 600px) {
+    article { padding: 56px 20px 80px; }
+    body { font-size: 17px; }
+    h1 { font-size: 28px; }
+    .phase-bar { padding: 8px 16px; font-size: 11px; }
+    .phase-bar .progress { max-width: 200px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="phase-bar" id="phaseBar">
+  <span><span class="label" id="phaseLabel">Phase 0</span> · <span id="phaseDesc">original English</span></span>
+  <div class="progress"><div class="progress-fill" id="phaseFill"></div></div>
+  <span class="phase-meta" id="phaseMeta">0 / 6</span>
+</div>
+
+<article>
+
+<h1>
+  Returning Time to the Reader
+  <span class="subtitle">On naYana, and why English spelling is the largest unacknowledged tax on human attention</span>
+</h1>
+
+<div class="preamble-note">
+  <p><strong>About this version.</strong> This essay performs its own argument. Substitution rules are introduced in the text and then applied to the text itself. From the moment a rule is named, the writing changes. By the final paragraphs you will be reading a Latin-alphabet phonetic script.</p>
+  <p>Hover any underlined word to see its original spelling. The vowels carry a subtle baseline stroke throughout — that is the naYana font's <em>vowel marker</em>, the zero-cost first phase, always on. The indicator at the top of the page shows where in the substitution arc you currently are.</p>
+  <p><strong>Scope honestly stated:</strong> only rules that are shipped or in active development are applied here. Six substitution phases. Words that would require unshipped rules (notably schwa marking, <em>ch → k</em>, and the <em>t → tʃ</em> rules behind words like <em>century</em> and <em>question</em>) are left in their original English spelling. This is a conservative demonstration — the visible reform is small. That is the point. Even this small reform, applied consistently, would save a child years.</p>
+</div>
+
+<section data-phase="0">
+
+<p>An eight-year-old girl I know writes Hindi in the Roman alphabet. She has no training in transliteration. She has no teacher correcting her spelling. What she has is an ear, and a set of letters she learned in school. The letters represent sounds, the sounds represent words, and so she writes. Her spellings are her own, and they are perfectly consistent. <em>Mausam</em>, <em>paani</em>, <em>khushi</em>. If you can read English letters and you know Hindi, you can read everything she writes.</p>
+
+<p>A few weeks ago she asked me what I do for a living. I told her I work in philosophy. She wrote it down in her journal: <em>filosafi</em>.</p>
+
+<p>She was, of course, wrong about the spelling. She was also, just as clearly, right about everything else. She had heard a word, identified its sounds, and assigned each sound the nearest letter she knew. This is what every literate child in the world does, except for one population. Children learning to read English do it once or twice in kindergarten and then spend the next several years learning that what they did was wrong. The word is <em>philosophy</em>. The reasons are historical. The teacher will not explain them, because there is no time, and because the teacher does not know them either.</p>
+
+<p>This essay is about what that time costs, why every previous attempt to recover it has failed, and why we believe that, after a century of failures, a different approach is now possible.</p>
+
+</section>
+
+<hr>
+
+<h2>I. The cost</h2>
+
+<section data-phase="0">
+
+<p>English spelling is the single largest learnable inconsistency in human literacy. The numbers are not subtle.</p>
+
+<p>Children learning to read in Finnish, Italian, Spanish, Korean, or Indonesian reach reading fluency in roughly one to two years. Children learning English take three times as long. This is not a difference of effort or pedagogy or intelligence; the gap holds across socioeconomic backgrounds, educational systems, and teaching methods. It tracks one variable: the regularity of the orthography — what linguists call <em>orthographic depth</em>.</p>
+
+<p>Finnish has roughly one spelling per sound and one sound per spelling. Indonesian was rationalized in the twentieth century and is similarly regular. Spanish has small irregularities at the edges (the silent <em>h</em>, the <em>b/v</em> merger), and a child can decode 95% of words by the end of first grade. Hindi in Devanagari is fully phonetic; once a child knows the consonants and the vowel marks, every new word is readable on first sight.</p>
+
+<p>English is none of these. The letter <em>a</em> represents at least seven distinct vowel sounds (<em>cat</em>, <em>father</em>, <em>care</em>, <em>about</em>, <em>late</em>, <em>all</em>, <em>any</em>). The sound /f/ is spelled at least four ways (<em>fish</em>, <em>phone</em>, <em>enough</em>, <em>off</em>). The letter sequence <em>ough</em> is pronounced seven different ways (<em>though</em>, <em>through</em>, <em>tough</em>, <em>cough</em>, <em>bough</em>, <em>thorough</em>, <em>hiccough</em>). There are no rules that resolve these. The child must memorize each word. A literate English speaker has spent years of childhood building a mental lookup table.</p>
+
+<p>The cost of that lookup table is not just instructional. It is opportunity.</p>
+
+<p>Consider what a Finnish child does in the two years that an English child is still learning to spell. She reads stories. She writes her own. She participates in the literate culture of her community as a full member at the age of seven. Her English counterpart, at the same age, is still being told that <em>write</em> and <em>right</em> are different words even though they sound identical, that <em>knight</em> contains a silent letter she has no way to predict, that <em>island</em> and <em>isle</em> contain an <em>s</em> that nobody pronounces because of a sixteenth-century Latin misattribution.</p>
+
+<p>By age eleven, the Finnish child has read perhaps three hundred books. The English child has read fewer. By age eighteen, the gap has narrowed only because the English child has grimly memorized the lookup table. But the years of reading lost cannot be reclaimed. The cultural participation she could have had — the early entry into the conversations of literate humans, the formation of identity through text — was deferred. For some children, who could not bear the opacity of English spelling and were diagnosed as dyslexic or simply gave up, it was deferred permanently.</p>
+
+<p>The numbers are catastrophic. English is the first language of about 400 million people and the second language of perhaps another 1.5 billion. If even one year of childhood is lost per child to spelling mastery — a conservative estimate — and that year contains roughly 1,000 hours of school instruction, the total annual cost across the world is on the order of <em>two trillion hours</em>. The dollar cost, valued at the prevailing wage of teaching time alone, runs into the hundreds of billions per year. The energy cost, valued in the electricity to light the classrooms and the food to fuel the children, is its own catastrophe, multiplied across decades.</p>
+
+<p>But the cost that matters is none of these. The cost that matters is the <em>creative time</em> — the time a child of seven could be spending on stories, on music, on building things, on absorbing the literate culture she was born into — that she instead spends decoding the spelling history of a language that has neglected its own writing system for five hundred years.</p>
+
+<p>We are asking children to pay, in childhood, for the failures of dead typesetters and pedants. The children pay. We do not even count.</p>
+
+</section>
+
+<hr>
+
+<h2>II. Why every previous attempt has failed</h2>
+
+<section data-phase="0">
+
+<p>This problem is not new. It has been seen, named, and attacked repeatedly. Each attempt has failed for reasons worth understanding, because their reasons remain instructive.</p>
+
+<p><strong>George Bernard Shaw</strong>, in his will, left a substantial sum for the design of a new English alphabet — what became the Shavian alphabet, published in 1962. Shavian was technically sound: a phonetic script with distinct, simple shapes, designed by a typographer who knew what he was doing. It was used to print exactly one book: a parallel-text edition of <em>Androcles and the Lion</em>. It was never adopted by anyone. It had no place to live. The technology of 1962 could not deliver a typeface to a reader without printing presses, and printing presses do not adopt new alphabets on a whim.</p>
+
+<p><strong>The Deseret alphabet</strong> of the nineteenth-century Mormon settlers was a similar effort, similarly doomed by its dependence on infrastructure that would not be repurposed. Type was cast. Books were printed. A generation of children was taught to read it. Then the church moved on, the type was melted, and the alphabet went extinct within fifty years.</p>
+
+<p><strong>The Initial Teaching Alphabet</strong> (ITA) of 1960s Britain came closer. ITA was used in primary schools to teach early reading: forty-four characters, each representing one sound. Children learned to read ITA quickly — much faster than traditional spelling — and then were transitioned to standard English. The program ran for years and was eventually abandoned. The problem turned out to be the transition. Children who learned to read ITA had a harder time, not easier, switching to standard English than children who had been taught traditionally from the start. The crutch became an obstacle. The new alphabet had not failed to teach reading; it had failed to let go.</p>
+
+<p><strong>More recent efforts</strong> — SoundSpel, Cut Spelling, SaypU, Unifon — have all foundered on the same rock: the network effect. Any new spelling exists in a world where every existing book, sign, contract, website, and trained reader is in the old spelling. To adopt the new script is to lose access to everything written before, and to be unreadable to everyone who has not adopted it. The benefit is small and individual; the cost is large and immediate. Rational individuals do not adopt. The reform dies.</p>
+
+<p>There is a deeper pattern across these failures. They all asked the reader to choose between two scripts at a moment in time — the old or the new. They all required commitment before the reform proved itself. They all underestimated how much existing literacy was a sunk cost the reader had no incentive to abandon. And they all operated in a physical world of paper and type, where every reform required the cooperation of printers, publishers, schools, and governments — all conservative by structure.</p>
+
+<p>These are the failures we are trying not to repeat.</p>
+
+</section>
+
+<hr>
+
+<h2>III. What is different now</h2>
+
+<section data-phase="0">
+
+<p>Four things have changed since the last serious attempt. None of them is small, and together they are decisive.</p>
+
+<p><strong>The substrate is now digital.</strong> A reader's text is no longer captured on paper. It is rendered by a font, served by a browser, or displayed by an application. The same underlying text — the same sequence of Unicode characters — can be displayed differently on different devices, for different readers, at different times, with no change to the source. A reform of the rendering layer does not require the cooperation of any printer, publisher, school, or government. It requires only that the reader install a font.</p>
+
+<p>This is the change that makes everything else possible. Shaw could not have done what we can do, because Shaw lived in a world where the appearance of a text was fixed at the moment of printing. We do not live in that world. We live in a world where every text is remade, pixel by pixel, every time it is read. The remaking is under software control. Software is malleable.</p>
+
+<p><strong>The reform can be phased.</strong> No previous attempt allowed a reader to move gradually from the old script to the new, learning one substitution rule at a time, with the previous month's progress preserved and the next month's introduced only when the reader is ready. Every previous attempt asked the reader to commit fully or not at all. The phased approach inverts this: at each stage, the reader has learned a small, named, well-defined thing. After one phase, <em>ph</em> becomes <em>f</em>. After another, <em>ck</em> becomes <em>k</em>. After many phases, the reader is reading a phonetically faithful script without ever having confronted a wall of unfamiliar text.</p>
+
+</section>
+
+<div class="phase-announce" data-phase-mark="1">
+  <div><strong>Phase 1 turns on.</strong> From this point in the essay forward, the rule <em>ph → f</em> applies. Hover any underlined word to confirm the original spelling.</div>
+</div>
+
+<section data-phase="1">
+
+<p>This solves the cold-start problem that killed every previous reform. There is no moment at which the reader cannot read. The script the reader sees at every stage is a script the reader can already mostly read, with one small new rule applied.</p>
+
+<p><strong>The reform is reversible.</strong> A reader who has installed the font and the engine can, at any moment, turn it off. The original text is preserved underneath. The new spelling sits as a <em>rendering</em> of the original, not a replacement of it. This means there is no risk to the reader of being cut off from existing literature. Every book ever written remains available in its original form by toggling a switch. The reader keeps full backward compatibility with five centuries of English text.</p>
+
+<p>This is the answer to the ITA problem. ITA failed because the transition back was hard. Our system has no transition back to fail at, because the original is never erased. It is one click away at all times.</p>
+
+<p><strong>The encoding is IPA.</strong> Under the surface, the script the reader eventually arrives at is not a new invention. It is the International <span class="changed" data-original="Phonetic">Fonetic</span> Alphabet — the standard used by every linguist, every language-learning textbook, every speech-recognition system, every text-to-speech engine on earth. The Unicode codepoints we use are not ours. They are the codepoints assigned by Unicode to IPA, and they have been stable for decades and will be stable for decades more.</p>
+
+<p>This means three things. It means that a reader who learns naYana can also read IPA — that the script they learn is not a private language but a passport to every dictionary and language resource in the world. It means that text written in naYana is automatically compatible with speech synthesizers and language tools, because those tools already accept IPA. And it means that the script can be extended to other languages, because IPA is universal — any sound in any language is already represented in it.</p>
+
+<p>The novelty in naYana is not the encoding. The encoding is borrowed from a hundred years of careful linguistic work. The novelty is the <em>glyph design</em>: the shapes that the IPA characters take when rendered. IPA was designed by linguists for transcription, not by educators for learning. Its shapes are scientifically precise but cognitively expensive — mirror-image pairs, near-duplicates, marks that depend on tiny distinctions. naYana redraws each IPA character with a shape chosen for learnability: distinct from every other shape, easy to write by hand, easy to recognize at small sizes, free of mirror confusion. The underlying Unicode is IPA. The visible script is naYana.</p>
+
+</section>
+
+<hr>
+
+<h2>IV. What this is for</h2>
+
+<div class="phase-announce" data-phase-mark="3">
+  <div><strong>Phases 2 and 3 turn on.</strong> Two more rules now apply: <em>c → k</em> or <em>s</em> (depending on pronunciation — the dictionary decides), and <em>qu → kw</em>. The letter <em>c</em> begins to disappear from words where it stands for /k/ or /s/. (Note: <em>ch</em> as a unit is its own separate phoneme and is not affected.)</div>
+</div>
+
+<section data-phase="3">
+
+<p>We have built the first <span class="changed" data-original="phases">fases</span> of this system. They work. A child can install a font on her browser, slide a <span class="changed" data-original="control">kontrol</span> from 0 to 1, and see <em><span class="changed" data-original="philosophy">filosofy</span></em> appear in plase of <em>philosophy</em>. Slide it again, and <em>cat</em> <span class="changed" data-original="becomes">bekomes</span> <em><span class="changed" data-original="cat">kat</span></em>, <em>city</em> <span class="changed" data-original="becomes">bekomes</span> <em><span class="changed" data-original="city">sity</span></em>. Each slide is small. Each is named. Each is reversible. Over months, the slide can move from 0 to 20, and by the end, the child is reading a phonetic <span class="changed" data-original="script">skript</span> in which every sound has exactly one spelling and every spelling has exactly one sound. The <span class="changed" data-original="script">skript</span> she is reading is not English. It is also not a new invention. It is the actual sounds of English, written down at last with the <span class="changed" data-original="consistency">konsistensy</span> that every other major language in the world has long enjoyed.</p>
+
+<p>We do not believe this will be easy. We do not believe everyone will adopt it. We do not even believe most people will adopt it. What we believe is that the option should exist — that a child should not be required, in the twenty-first century, to spend five years memorizing the etymological accidents of <em><span class="changed" data-original="receive">reseive</span></em> and <em>believe</em> when she could have been reading stories. The <span class="changed" data-original="choice">choise</span> should be hers, or her parents', or her teacher's. The <span class="changed" data-original="cost">kost</span> of <em>not</em> offering the <span class="changed" data-original="choice">choise</span> is the <span class="changed" data-original="continued">kontinued</span>, unmeasured loss of trillions of hours of human childhood every year, forever, with no end and no audit.</p>
+
+<p>That is the <span class="changed" data-original="case">kase</span> for naYana. It is not a manifesto. It is a proposal. The proposal is: let us build the rendering layer that makes phonetic English available to anyone who wants it, without asking them to give up English; let us see whether children take to it; and let us measure whether the time saved is real.</p>
+
+<p>If it works, the saved time is the answer to a question humanity has been ignoring for five hundred years. If it does not, we will have spent some years and some money trying, which is the smallest <span class="changed" data-original="expense">ekspense</span> we <span class="changed" data-original="could">kould</span> have made on a problem this size.</p>
+
+</section>
+
+<hr>
+
+<div class="escape-hatch">
+  If the substitutions are getting in the way, a plain version of this essay — without any spelling changes — is available at <a href="/nayana/returning-time-to-the-reader.html">/nayana/returning-time-to-the-reader.html</a>. Read there if you'd rather not be distracted.
+</div>
+
+<h2>V. The longer arc</h2>
+
+<div class="phase-announce" data-phase-mark="6">
+  <div><strong>Phases 4, 5, and 6 turn on.</strong> Three more rules: silent letters in <em>kn-</em>, <em>wr-</em>, and <em>-gh</em> are dropped (since they correspond to no sound — note that <em>write</em> and <em>right</em> now both become <em>rite</em>, recovering their identity as homophones). The letter <em>s</em> becomes <em>z</em> wherever it is pronounced /z/ (plurals, <em>is</em>, <em>was</em>). And the letter <em>x</em> becomes <em>ks</em> wherever it is pronounced /ks/.</div>
+</div>
+
+<section data-phase="6">
+
+<p>The name <em>naYana</em> <span class="changed" data-original="is">iz</span> a Sanskrit word meaning "eye" or "guidance." It <span class="changed" data-original="echoes">echoez</span> the Nyāya school of Indian logic, founded on the <span class="changed" data-original="principle">prinsiple</span> that careful seeing precedes <span class="changed" data-original="correct">korrect</span> reasoning. The <span class="changed" data-original="script">skript</span> <span class="changed" data-original="is">iz</span> meant to guide the eye, gently, from the spelling it <span class="changed" data-original="knows">nows</span> to the spelling that matches the world.</p>
+
+<p>The name <span class="changed" data-original="is">iz</span> also a <span class="changed" data-original="phonetic">fonetic</span> palindrome. Read it forward: <em>n-a-Y-a-n-a</em>. Read it backward: <em>a-n-a-Y-a-n</em>. The <span class="changed" data-original="capitalized">kapitalized</span> Y in the middle <span class="changed" data-original="is">iz</span> the <span class="changed" data-original="axis">aksis</span> of symmetry. This <span class="changed" data-original="was">waz</span> not an accident. A <span class="changed" data-original="script">skript</span> that works for English must, in <span class="changed" data-original="principle">prinsiple</span>, also work for languages that read <span class="changed" data-original="right">rite</span>-to-left like Arabic and Hebrew, or top-to-bottom like <span class="changed" data-original="classical">klassikal</span> Chinese and Japanese. The palindrome marks the <span class="changed" data-original="script's">skript's</span> intent: <span class="changed" data-original="writing">riting</span> <span class="changed" data-original="is">iz</span> a <span class="changed" data-original="recording">rekording</span> of speech, and speech does not have a preferred direction. The orthography should not impose one.</p>
+
+<p>We are starting with English because English <span class="changed" data-original="is">iz</span> the language with the largest mismatch between its sounds and its <span class="changed" data-original="writing">riting</span> — and because English, as the global second language, <span class="changed" data-original="exports">eksports</span> that mismatch to every country where it <span class="changed" data-original="is">iz</span> <span class="changed" data-original="taught">taut</span>. A child in Maharashtra learning English does not just learn English; she learns to spend years of her childhood on the same fossilized <span class="changed" data-original="irregularities">irregularitiez</span> that English-speaking children spend years on. The <span class="changed" data-original="cost">kost</span> <span class="changed" data-original="is">iz</span> global. The <span class="changed" data-original="fix">fiks</span> would be global.</p>
+
+<p>But there <span class="changed" data-original="is">iz</span> no reason the <span class="changed" data-original="script">skript</span> needs to stop at English. The IPA <span class="changed" data-original="encoding">enkoding</span> underneath naYana <span class="changed" data-original="is">iz</span> universal. Any language ever <span class="changed" data-original="transcribed">transkribed</span> in IPA — French, Mandarin, Arabic, Yoruba, Tamil — can be rendered in naYana shapes. A child who learns naYana for English <span class="changed" data-original="has">haz</span> also, without <span class="changed" data-original="knowing">nowing</span> it, learned the <span class="changed" data-original="script">skript</span> for every other language she might <span class="changed" data-original="encounter">enkounter</span>. The <span class="changed" data-original="literacy">literasy</span> <span class="changed" data-original="is">iz</span> transferable the way no orthography in history <span class="changed" data-original="has">haz</span> been.</p>
+
+<p>This <span class="changed" data-original="is">iz</span> the larger vision, stated as carefully as we can state it: that the time stolen from billions of children by <span class="changed" data-original="inconsistent">inkonsistent</span> <span class="changed" data-original="writing">riting</span> systems <span class="changed" data-original="is">iz</span> <span class="changed" data-original="recoverable">rekoverable</span>; that the <span class="changed" data-original="recovery">rekovery</span> requires no new laws, no government adoption, no schoolboard approval — only a font, an engine, and the <span class="changed" data-original="consent">konsent</span> of one reader at a time; and that the human <span class="changed" data-original="capacity">kapasity</span> for <span class="changed" data-original="creative">kreative</span> work, for <span class="changed" data-original="cultural">kultural</span> <span class="changed" data-original="participation">partisipation</span>, for early entry into the literate world, can be restored to its natural age of seven instead of being deferred to fourteen.</p>
+
+<p>What that early entry would mean, at <span class="changed" data-original="scale">skale</span>, we do not <span class="changed" data-original="know">no</span>. We have never had it. Every literate adult alive today <span class="changed" data-original="was">waz</span> <span class="changed" data-original="educated">edukated</span> under the old system. Whole generations of children, in every English-speaking country, have spent the most plastic years of their lives on a problem we <span class="changed" data-original="could">kould</span> have removed.</p>
+
+<p>It <span class="changed" data-original="is">iz</span> time to remove it.</p>
+
+</section>
+
+<hr>
+
+<section data-phase="6">
+
+<p><em>naYana <span class="changed" data-original="is">iz</span> an open <span class="changed" data-original="project">projekt</span>. The <span class="changed" data-original="code">kode</span>, the font, and the engine are <span class="changed" data-original="public">publik</span>. The <span class="changed" data-original="script">skript</span> itself <span class="changed" data-original="is">iz</span> built on IPA and <span class="changed" data-original="is">iz</span> unowned. We invite <span class="changed" data-original="contributors">kontributorz</span> — typographers, linguists, <span class="changed" data-original="educators">edukatorz</span>, software developers, parents, and children — to use it, test it, and improve it. Particularly children. They will tell us, faster than any study, whether what we have built <span class="changed" data-original="is">iz</span> worth using.</em></p>
+
+<p><em>If a child can <span class="changed" data-original="write">rite</span></em> <em>filosafi</em> <em>and be understood, we have done nothing for her. If a child can <span class="changed" data-original="write">rite</span></em> <em>filosafi</em> <em>and be</em> <strong><em><span class="changed" data-original="right">rite</span></em></strong><em>, we have given her back her childhood.</em></p>
+
+</section>
+
+<div class="signoff">— for the gnowledge lab project, naYana for universal literacy</div>
+
+<div class="closing-note">
+  <p><strong>A note on this version.</strong> The substitutions you encountered were drawn only from rules that are shipped in the naYana engine or in active development. Six phases. Most of the visible reform is consonant-level — the letter <em>c</em> disappearing into <em>k</em> or <em>s</em>, silent letters being dropped, doubled letters reducing — and the letter shapes you read remain the Latin ones you have known your whole life.</p>
+  <p>The script continues beyond this point. Future phases handle the harder cases: schwa marking (the unstressed vowel sound that appears in nearly every English word but is invisible in current spelling), the <em>ch</em> digraph (which represents both /k/ and /tʃ/ depending on the word), the <em>th</em> digraph (which represents two distinct sounds), and the introduction of IPA-specific characters for sounds Latin cannot represent unambiguously: <em>θ</em>, <em>ð</em>, <em>ʃ</em>, <em>ʒ</em>, <em>ŋ</em>. Each is one new shape, one clear sound. They come later, and they are where the naYana font's redesigned glyphs replace the IPA defaults with shapes drawn for learners rather than for linguists.</p>
+  <p>But the demonstration is complete. You read the closing in a script you had never seen before. The transition was painless. The original was always one hover away. The reform did not hurt anyone. Those who do not wish to read it stay at phase zero, and nothing they read changes.</p>
+  <p>That is the entire claim.</p>
+</div>
+
+<div class="colophon">
+  <p><em>A plain-English version of this essay, with full citations, is available as a <a href="/nayana/returning-time-to-the-reader.html">companion document</a>. The naYana project is open and hosted at <a href="https://www.gnowledge.org/projects/naYana">gnowledge.org/projects/naYana</a>.</em></p>
+</div>
+
+</article>
+
+<script>
+  const phaseDescriptions = {
+    0: "original English",
+    1: "ph → f",
+    3: "ph → f · c → k or s · qu → kw",
+    6: "above, plus silent letters · s → z · x → ks",
+  };
+
+  const phaseFill = document.getElementById('phaseFill');
+  const phaseLabel = document.getElementById('phaseLabel');
+  const phaseDesc = document.getElementById('phaseDesc');
+  const phaseMeta = document.getElementById('phaseMeta');
+
+  const sections = document.querySelectorAll('section[data-phase]');
+  const MAX_PHASE = 6;
+
+  function updatePhaseBar() {
+    const scrollTop = window.scrollY;
+    const viewportMid = scrollTop + window.innerHeight * 0.3;
+    let currentPhase = 0;
+    for (const sec of sections) {
+      const rect = sec.getBoundingClientRect();
+      const top = scrollTop + rect.top;
+      if (top <= viewportMid) {
+        currentPhase = parseInt(sec.dataset.phase, 10);
+      }
+    }
+    phaseLabel.textContent = `Phase ${currentPhase}`;
+    phaseDesc.textContent = phaseDescriptions[currentPhase] || '';
+    phaseMeta.textContent = `${currentPhase} / ${MAX_PHASE}`;
+    const pct = Math.min(100, (currentPhase / MAX_PHASE) * 100);
+    phaseFill.style.width = pct + '%';
+  }
+
+  window.addEventListener('scroll', updatePhaseBar, { passive: true });
+  window.addEventListener('resize', updatePhaseBar);
+  updatePhaseBar();
+</script>
+
+</body>
+</html>

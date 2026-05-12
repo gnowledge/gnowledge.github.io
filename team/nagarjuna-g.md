@@ -48,6 +48,14 @@ Code repositories maintained by Nagarjuna G.:
 
 - [**hedgedoc-nb**](https://github.com/gnowgi/hedgedoc-nb) — *"Build knowledge graphs in markdown."* A TypeScript fork of [HedgeDoc](https://hedgedoc.org/) extending its real-time collaborative markdown editor with knowledge-graph notebook features.
 
+## Writing
+
+Recent essays and longer-form pieces beyond the peer-reviewed list below:
+
+- [**Returning Time to the Reader**](/nayana/returning-time-to-the-reader.html) (2026) — *On naYana, and why English spelling is the largest unacknowledged tax on human attention.* A manifesto-length essay from the naYana project.
+- [gnowgi.substack.com](https://gnowgi.substack.com) — ongoing newsletter on cognitive science, education, and the politics of knowledge.
+- [gnowgi.wordpress.com](https://gnowgi.wordpress.com) — long-running personal blog.
+
 ## Publications
 
 Selected work spans concept mapping (2004–2016), GNOWSYS and semantic computing (2005–2014), cognitive ontogeny and the biological roots of knowledge (2005–2014), free-software and education policy (2008–2018), and recent collaborations on classroom learning and shared-screen environments (2017–2023). The full lab list is on the [publications](/publications.html) page.
