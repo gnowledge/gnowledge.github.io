@@ -22,6 +22,8 @@ Amit has been a sustained contributor to [GNOWSYS](/projects/gnowsys.html), the 
 
 He has also co-authored, with [Rafikh Shaikh](/team/rafikh-shaikh.html), the 2016 essay *A slate for every child: rethinking education in the age of computers* (*Teacher Plus*) and the 2018 epiSTEME paper *Zone of Proximal Development in the Era of Connected Computers* (with Nagarjuna G.).
 
+Outside the lab's formal projects, Amit runs **[Mir Books](https://mirtitles.org/)** (mirtitles.org) — a long-running, entirely **voluntary** digital archive of Soviet-era science, mathematics, engineering and children's books, including the much-loved [Mir Publishers](https://en.wikipedia.org/wiki/Mir_Publishers), Progress Publishers and Raduga titles that shaped generations of STEM readers in India and around the world. It is a quiet labour of love: scanning, cataloguing and making freely available titles long out of print, sustaining a devoted international readership. The work sits naturally with the lab's commitments to free knowledge, public-domain science writing, and the long arc of self-learning — and is, in its own right, a model of what frugal, patient, community-scale digital preservation looks like.
+
 ## Research interests
 
 - Critical graphicacy — analysis and teaching of graphs in school science and mathematics
@@ -37,6 +39,7 @@ He has also co-authored, with [Rafikh Shaikh](/team/rafikh-shaikh.html), the 201
 - [GNOWSYS](/projects/gnowsys.html) — current active contributor to the lab's knowledge-network software
 - [MOOC on Digital Literacy (NUSSD / TISS)](/projects/dev.html#mooc-on-digital-literacy) — team member
 - *Measuring the Mustard Seed* — indirect measurement and modelling exercise, with Samir Dhurde and Nagarjuna G. (epiSTEME-5, 2013; *School Science Review*, 2015)
+- **[Mir Books / mirtitles.org](https://mirtitles.org/)** — voluntary digital archive of Soviet-era Mir Publishers, Progress and Raduga titles in science, mathematics and children's literature
 
 ## Publications
 

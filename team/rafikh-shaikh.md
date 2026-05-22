@@ -18,6 +18,8 @@ He has also worked on **embodied and interactive approaches to learning basic as
 
 Beyond his research, Rafikh suggested the name **naYana** (a phonetic palindrome — nYn — that in Sanskrit means *eye*) for the lab's [naYana](/projects/naYana.html) phonetic alphabet project.
 
+He is also an active promoter of [**Foldscope**](https://en.wikipedia.org/wiki/Foldscope) in India — the origami paper microscope developed by Manu Prakash's group at Stanford — helping bring frugal, durable, sub-dollar microscopy into school and undergraduate classrooms and into the lab's investigative-biology and home-lab work.
+
 ## Research interests
 
 - Computer-supported collaborative learning (CSCL) in school classrooms
@@ -32,6 +34,7 @@ Beyond his research, Rafikh suggested the name **naYana** (a phonetic palindrome
 - [Shared Memory Space](/projects/research.html#shared-memory-space) — chat / IM-mediated primary-school learning at Khairat, with Nagarjuna G.
 - [naYana](/projects/naYana.html) — suggested the name for the phonetic alphabet (the palindrome *nYn*)
 - [chatShaala](/projects/chatshaalaApp.html) — part of the lab's wider thread on conversational learning environments
+- **[Foldscope](https://en.wikipedia.org/wiki/Foldscope) outreach in India** — promoting the origami paper microscope as a frugal scientific instrument in schools and colleges
 
 ## Publications
 
