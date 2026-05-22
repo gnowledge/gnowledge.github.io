@@ -48,6 +48,7 @@ Code repositories maintained by Nagarjuna G.:
 
 - [**hedgedoc-nb**](https://github.com/gnowgi/hedgedoc-nb) — *"Build knowledge graphs in markdown."* A TypeScript fork of [HedgeDoc](https://hedgedoc.org/) extending its real-time collaborative markdown editor with knowledge-graph notebook features.
 - [**naYana-tutor**](https://github.com/gnowledge/naYana-tutor) — source code of the [naYana tutor web app](https://nayana.gnowledge.org) (*Learn, Type, Read* IPA through naYana, with in-browser audio playback via [Piper](https://github.com/rhasspy/piper)).
+- [**SMN-Hydrogen**](https://github.com/gnowgi/SMN-Hydrogen) — *"The 'Hydrogen atom' of the SMN — the smallest code that exhibits the eight architectural registers."* Reference Python simulations for the **Sensation Modulating Network** architecture; companion code to a forthcoming paper with Durgaprasad Karnam, and to the [Roots of beingHuman](/projects/research.html#the-roots-of-beinghuman) research thread.
 
 ## Writing
 
