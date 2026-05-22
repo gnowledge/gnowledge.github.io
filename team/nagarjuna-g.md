@@ -47,14 +47,15 @@ For ongoing research threads — including biological roots of knowledge, social
 Code repositories maintained by Nagarjuna G.:
 
 - [**hedgedoc-nb**](https://github.com/gnowgi/hedgedoc-nb) — *"Build knowledge graphs in markdown."* A TypeScript fork of [HedgeDoc](https://hedgedoc.org/) extending its real-time collaborative markdown editor with knowledge-graph notebook features.
+- [**naYana-tutor**](https://github.com/gnowledge/naYana-tutor) — source code of the [naYana tutor web app](https://nayana.gnowledge.org) (*Learn, Type, Read* IPA through naYana, with in-browser audio playback via [Piper](https://github.com/rhasspy/piper)).
 
 ## Writing
 
 Recent essays and longer-form pieces beyond the peer-reviewed list below:
 
 - [**Returning Time to the Reader**](/nayana/returning-time-to-the-reader.html) (2026) — *On naYana, and why English spelling is the largest unacknowledged tax on human attention.* A manifesto-length essay from the naYana project.
-- [gnowgi.substack.com](https://gnowgi.substack.com) — ongoing newsletter on cognitive science, education, and the politics of knowledge.
-- [gnowgi.wordpress.com](https://gnowgi.wordpress.com) — long-running personal blog.
+- [gnowgi.substack.com](https://gnowgi.substack.com) — ongoing newsletter on the cognitive science of science; serializing the course he currently teaches at IISER Pune.
+- [gnowgi.wordpress.com](https://gnowgi.wordpress.com) — archived personal blog.
 
 ## Publications
 
