@@ -40,15 +40,14 @@ She is a core contributor to the [CUBE program](/projects/cube.html) — Collabo
 
 ## Elsewhere on the web
 
-<!-- Fill in or remove these as appropriate. -->
-- **HBCSE**: [hbcse.tifr.res.in/people/scientific/meena](https://www.hbcse.tifr.res.in/people/scientific/meena)
-- **ORCID**: *(to be added)*
-- **GitHub**: *(to be added)*
-- **LinkedIn**: *(to be added)*
-- **X (Twitter)**: *(to be added)*
-- **Bluesky**: *(to be added)*
-- **metaStudio**: *(to be added)*
-- **Blog / personal site**: *(to be added)*
+- **HBCSE**: [hbcse.tifr.res.in/people/scientific/meena-kharatmal](https://www.hbcse.tifr.res.in/people/scientific/meena-kharatmal)
+- **ORCID**: [0000-0001-6164-0667](https://orcid.org/0000-0001-6164-0667)
+- **LinkedIn**: [meena-kharatmal-phd](https://www.linkedin.com/in/meena-kharatmal-phd-72104a179/)
+- **X (Twitter)**: [@meena74](https://x.com/meena74)
+- **Bluesky**: [@meena74](https://bsky.app/profile/meena74.bsky.social)
+- **metaStudio**: [metastudio.org/u/meena74](https://metastudio.org/u/meena74/)
+- **Blog**: [okeanos.wordpress.com](https://okeanos.wordpress.com/)
+- **Linktree**: [linktr.ee/meena74](https://linktr.ee/meena74)
 
 ## Contact
 
