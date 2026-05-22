@@ -17,7 +17,7 @@ Ashish Kumar Pardeshi, Satej Shende, [Prof Nagarjuna G.](/team/nagarjuna-g.html)
 Punit Dsouza, Jude Terrence Dsouza, Puneet Kishor, Chaitanya Prabhu, Yogesh Bhavsar, Shivani Dixit, Kiran Yadav, [Meena Kharatmal](/team/meena-kharatmal.html) 
 
 **3rd row**
-Sadaqat Mulla, Durga Prasad, [Prof. M. C. Arunan](/team/m-c-arunan.html), Rupesh Nichat, Surendra Patil, Partha Edupally, Soham Dighe, Vignesh Nair, Siddhu Dhangar, Anil Kumar Sankhwar, Rafikh Rashid Shaikh
+Sadaqat Mulla, Durga Prasad, [Prof. M. C. Arunan](/team/m-c-arunan.html), Rupesh Nichat, Surendra Patil, Partha Edupally, Soham Dighe, Vignesh Nair, Siddhu Dhangar, Anil Kumar Sankhwar, [Rafikh Rashid Shaikh](/team/rafikh-shaikh.html)
 
 **Last row**
 VK, Ravi Sinha 
@@ -25,10 +25,10 @@ VK, Ravi Sinha
 ![Gnowledge Lab Team](https://metastudio.org/uploads/default/original/2X/0/0c61f713cde686b776fc135344ccb7bf25c8f969.png)
 
 **Top Row:**  
-Sunny, Rachana, Sashwat, Vikram Crishna, Shraddha, Rafikh, Anuja, Barua, Haimanti, Keerti, Ullhas
+Sunny, Rachana, Sashwat, Vikram Crishna, Shraddha, [Rafikh](/team/rafikh-shaikh.html), Anuja, Barua, Haimanti, Keerti, Ullhas
 
 **Middle row:** 
-Ramrao, Amit, Arunan, GN, [Meena, Alpesh, Vihan [Bipin, Anurag] ], Kedar, Mrunal, 
+Ramrao, [Amit](/team/amit-dhakulkar.html), [Arunan](/team/m-c-arunan.html), [GN](/team/nagarjuna-g.html), [[Meena](/team/meena-kharatmal.html), Alpesh, Vihan [Bipin, Anurag] ], Kedar, Mrunal, 
 
 **Bottom:** 
 Rupesh, Dheeru, Vihan, Bipin, Walter, Anil, Johnson,[top row:Rajiv, Ganesh, Rupesh, Shashank, Anurag, VK, bottom row: Arnab, Divya, Smita, Mukesh, Satej
