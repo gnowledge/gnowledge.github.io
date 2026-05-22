@@ -22,7 +22,7 @@ An online deployment of [hedgedoc-nb](https://github.com/gnowgi/hedgedoc-nb) —
 
 A phonetic alphabet and OTF font designed for transcriptional unity across the world's writing systems, with a browser plugin that renders web pages into naYana. See the [naYana project page](/projects/naYana.html).
 
-**New (2026):** [*Returning Time to the Reader*](/nayana/returning-time-to-the-reader.html) — an essay on naYana and the cost of English orthography.
+**New (2026):** the [**naYana tutor web app**](https://nayana.gnowledge.org) — learn, type and read IPA through naYana in your browser, and download the font. See also [*Returning Time to the Reader*](/nayana/returning-time-to-the-reader.html), an essay on naYana and the cost of English orthography.
 
 ## Roots of STEM
 

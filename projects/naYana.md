@@ -7,7 +7,7 @@ description: an alphabet for universal literacy
 
 naYana is a phonetic alphabet that maps to International Phonetic alphabet (IPA), to make reading and writing of IPA easy for both humans and computers.
 
-> **New (2026):** Read [*Returning Time to the Reader — On naYana, and why English spelling is the largest unacknowledged tax on human attention*](/nayana/returning-time-to-the-reader.html), a recent essay on the cost of English orthography and naYana's response to it.
+> **New (2026):** Try the [**naYana tutor web app**](https://nayana.gnowledge.org) — *Learn, Type and Read* IPA through naYana in your browser. Also read [*Returning Time to the Reader — On naYana, and why English spelling is the largest unacknowledged tax on human attention*](/nayana/returning-time-to-the-reader.html), a recent essay on the cost of English orthography and naYana's response to it.
 
 ## Why naYana
 The ability to produce a variety of vocalizations and other sounds through the buccal cavity gives human beings, so to speak, a speech engine. According to Ethnologue there are over 7000 different languages spoken around the world. If we take IPA (International Phonetic Alphabet) as an indication of the variety of vocalizations that we can generate, we have about 107 sound symbols for each phoneme, plus about 50 diacritics generating variations of the sounds and a few intonations. None of the languages use all of them.  For example, English uses only about 24 consonants and 20 vowel forms  to produce variations;  Hindustani has about 28 consonants and about 8 vowels. Taa language, spoken in Botswana, is considered to have the largest number of phonemes including non-vocal click sounds, with about 60 consonants and about 30 vowels. Each of these phonemes need a corresponding alphabet, and IPA does provide that.  However, IPA is a linguistic exercise and not developed for literacy.  There are some attempts to make the IPA encodable within 7-bit ASCII range, e.g. X-SAMPA (https://en.wikipedia.org/wiki/X-SAMPA), which is now used mostly as an input method for IPA. 	If universal literacy is the motive, we need a script that is easy to learn, easy to learn another language. extendable and localizable without violating the design principles, and finally preserving and provisioning for the diversity of expression.
@@ -33,6 +33,16 @@ The end result: a script where learning to spell a word is made redundant, and n
 A word about celebrating cultural variation. Often we hear arguments that any attempt at a universal code goes against human history and cultural variation. Common code does not eliminate diversity of expression within a wider population, on the other hand it becomes a base for inclusive participation. Trascriptional unity can generate translational diversity is well evidenced by a common genetic code, where four letters and 64 words generated the organic diversity which is key for organic evolution. We hope naYana project will enhance cultural diversity and localization through transciptional unity and universal literacy.
 
 ## Digital Support
+
+### naYana Tutor (web app)
+A naYana tutor web app is live at [nayana.gnowledge.org](https://nayana.gnowledge.org), with the tagline *"Learn the International Phonetic Alphabet in a few easy steps."* It is aimed at anyone curious about phonetic literacy without a formal background in phonetics, and has four sections:
+
+- **Learn** — a structured tutorial covering IPA vowels and consonants with real English word examples, rendered in the naYana font.
+- **Type** — an IPA keyboard that accepts English-style shortcuts and emits proper IPA codepoints.
+- **Read** — curated passages in naYana spelling paired with their standard English text.
+- **Download** — the OFL-licensed naYana font for personal use.
+
+The transcription engine uses canonical IPA Unicode characters — the same notation used in phonetics textbooks and text-to-speech systems — so the output is interoperable beyond the naYana font itself. v0.1 covers English; audio playback is planned for v0.2.
 
 ### naYana Font
 The naYana phonetic alphabet is created by [Nagarjuna G.](/team/nagarjuna-g.html) and Vickram Crishna and few other collaborators and interns at the gnowledge lab (https://www.gnowledge.org) of Homi Bhabha Centre for Science Education (https://www.hbcse.tifr.res.in), Tata Institute of Fundamental Research (TIFR) at Mumbai in India (See full credits below). The current version is a result of iterative development that started around 2012. The protoype OTF font for the alphabet with latin keyboard mapping is designed and developed by Nagarjuna G.
