@@ -36,4 +36,6 @@ A philosophy-of-science thread on **objectivity, calibration, and trust** in sci
 
 ## Sensation Modulating Network
 
-A series of research articles and an in-progress monograph on cognitive science, developing a layered **Sensory-Motor-Network (SMN)** account in which dexterous *Halted-Action-Patterns* (HAPs) ground the emergence of syntax, symbolic operation, and conscious action. See the [Roots of beingHuman](/projects/research.html#the-roots-of-beinghuman) research thread for the underlying framework.
+A series of research articles and an in-progress monograph on cognitive science, developing the layered **SMN** account — structurally a *Sensory-Motor-Network*, functionally a *Sensation Modulating Network* — in which dexterous *Halted-Action-Patterns* (HAPs) ground the emergence of syntax, symbolic operation, and conscious action. See the [Roots of beingHuman](/projects/research.html#the-roots-of-beinghuman) research thread for the underlying framework.
+
+**Read:** the May 2026 preprint [*The Sensation Modulating Network: Haltability as the Architectural Ground for Object-Directed Phenomenology*](https://arxiv.org/abs/2605.26856) by [Nagarjuna G.](/team/nagarjuna-g.html) and Karnam DP — it advances *haltability*, the recruitment of antagonistic affordances into equilibrium, as the architectural ground for object-directed phenomenology, reconciling cognitivist and 4E approaches without additional modules.

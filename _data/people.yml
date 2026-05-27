@@ -49,7 +49,9 @@ jonas-poelmans:
   name: "Jonas Poelmans"
 
 karnam-dp:
-  name: "Karnam, DP"
+  name: "Durgaprasad Karnam"
+  page: /team/karnam-dp.html
+  # variants observed: Karnam DP, Karnam, DP, D. Karnam, DurgaPrasad Karnam
 
 kiran-yadav:
   name: "Kiran Yadav"
