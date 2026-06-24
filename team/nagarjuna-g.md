@@ -58,6 +58,10 @@ Recent essays and longer-form pieces beyond the peer-reviewed list below:
 - [gnowgi.substack.com](https://gnowgi.substack.com) — ongoing newsletter on the cognitive science of science; serializing the course he currently teaches at IISER Pune.
 - [gnowgi.wordpress.com](https://gnowgi.wordpress.com) — archived personal blog.
 
+## Talks
+
+- [**Cultivating STEM Habits**](/assets/cultivating-stem-habits.pdf) (June 2026) — public talk at the [Eklavya Foundation](https://www.eklavya.in/), Bhopal. [Download the slides](/assets/cultivating-stem-habits.pdf).
+
 ## Publications
 
 Selected work spans concept mapping (2004–2016), GNOWSYS and semantic computing (2005–2014), cognitive ontogeny and the biological roots of knowledge (2005–2014), free-software and education policy (2008–2018), and recent collaborations on classroom learning and shared-screen environments (2017–2023). The full lab list is on the [publications](/publications.html) page.
