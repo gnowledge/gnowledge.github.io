@@ -4,7 +4,7 @@ title: Nagarjuna G.
 description: Former Professor, HBCSE-TIFR | Visiting Faculty, IISER Pune | Principal Investigator, Gnowledge Lab
 ---
 
-![Nagarjuna G.](/assets/img/team/nagarjuna-g.jpeg)
+![Nagarjuna G.](/assets/img/team/nagarjuna-g.jpeg){: width="235"}
 
 ## About
 
