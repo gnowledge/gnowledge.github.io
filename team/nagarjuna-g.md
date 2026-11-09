@@ -14,6 +14,20 @@ His work sits at the intersection of cognitive science, science education, seman
 
 Over two decades, his research has explored the biological and cognitive roots of knowledge, the structure and growth of concepts, and how technology can make learning *visible* and *participatory*. His longest-running technical project, [GNOWSYS](/projects/gnowsys.html), is a graph-based framework for semantic computing that powers several of the lab's platforms.
 
+<div class="now-box" markdown="1" style="border: 1px solid #c9d6e8; border-left: 5px solid #3177cb; background: #f5f8fc; border-radius: 6px; padding: 0.4em 1.4em 0.8em; margin: 1.8em 0;">
+
+### What I am doing currently
+
+- **[Sensation Modulating Network](/latest-projects.html#sensation-modulating-network)** — research articles and a monograph on the SMN account of cognition, where haltable action patterns ground syntax and conscious action. [Preprint (arXiv v2)](https://arxiv.org/abs/2605.26856v2) · [SMN-lab](https://smn-lab.readthedocs.io/)
+- **[Trust Conditions](/latest-projects.html#trust-conditions)** — a philosophy-of-science thread on objectivity as calibrated trust in instruments, media and institutions. [Preprint](https://doi.org/10.5281/zenodo.19420098)
+- **Teaching at IISER Pune** — a course on the cognitive science of science, serialized as the *Roots of STEM* essays on [Substack](https://gnowgi.substack.com), and a course on [Philosophy of Science](https://gnowgi.substack.com/s/epistem).
+- **[naYana](/projects/naYana.html)** — a phonetic alphabet and font for all the world's writing systems, now with a web app to learn, type, read and listen. [Try it](https://nayana.gnowledge.org) · [essay](/nayana/returning-time-to-the-reader.html)
+- **[nodeBook](/projects/nodebook.html)** — building knowledge graphs in collaborative markdown. [Try it](https://nodebook.co.in) · [code](https://github.com/gnowgi/hedgedoc-nb)
+- **Cultivating STEM Habits** — several popular talks for science and math teachers on scientific temper as a set of learnable habits (recording, drawing, visualizing, building, sharing). [Slides from Eklavya, Bhopal (2026)](/assets/cultivating-stem-habits.pdf)
+- **[Living Academy](https://livingacademy.org)** — a "life-long kindergarten" studio and club-house for children and home-schooling parents in Pune.
+
+</div>
+
 ## Research interests
 
 - Constructionist and connectionist models of STEM education
