@@ -32,7 +32,7 @@ An ongoing series of essays at [gnowgi.substack.com](https://gnowgi.substack.com
 
 ## Trust Conditions
 
-A philosophy-of-science thread on **objectivity, calibration, and trust** in scientific instruments, media, and institutions. The position — *calibrational realism* — is laid out in the 2026 preprint [From Truth to Trust: Negotiating Objectivity through Calibrated Instruments, Media, and Institutions](https://doi.org/10.5281/zenodo.19420098) by [Nagarjuna G.](/team/nagarjuna-g.html).
+A philosophy-of-science thread on **objectivity, calibration, and trust** in scientific instruments, media, and institutions. The position — *calibrational realism* — is laid out in the 2026 preprint [From Truth to Trust: Negotiating Objectivity through Calibrated Instruments, Media, and Institutions](https://philsci-archive.pitt.edu/28910/) by [Nagarjuna G.](/team/nagarjuna-g.html) (PhilSci-Archive; DOI: [10.5281/zenodo.19420098](https://doi.org/10.5281/zenodo.19420098)).
 
 ## Sensation Modulating Network
 

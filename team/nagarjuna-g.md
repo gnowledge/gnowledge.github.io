@@ -19,7 +19,7 @@ Over two decades, his research has explored the biological and cognitive roots o
 ### What I am doing currently
 
 - **[Sensation Modulating Network](/latest-projects.html#sensation-modulating-network)** — research articles and a monograph on the SMN account of cognition, where haltable action patterns ground syntax and conscious action. [Preprint (arXiv v2)](https://arxiv.org/abs/2605.26856v2) · [SMN-lab](https://smn-lab.readthedocs.io/)
-- **[Trust Conditions](/latest-projects.html#trust-conditions)** — a philosophy-of-science thread on objectivity as calibrated trust in instruments, media and institutions. [Preprint (PhilSci-Archive)](https://philsci-archive.pitt.edu/28910/)
+- **[Trust Conditions](/latest-projects.html#trust-conditions)** — a philosophy-of-science thread on objectivity as calibrated trust in instruments, media and institutions. [Preprint (PhilSci-Archive)](https://philsci-archive.pitt.edu/28910/) · [DOI](https://doi.org/10.5281/zenodo.19420098)
 - **Teaching at IISER Pune** — a course on the cognitive science of science, serialized as the *Roots of STEM* essays on [Substack](https://gnowgi.substack.com), and a course on [Philosophy of Science](https://gnowgi.substack.com/s/epistem).
 - **[naYana](/projects/naYana.html)** — a phonetic alphabet and font for all the world's writing systems, now with a web app to learn, type, read and listen. [Try it](https://nayana.gnowledge.org) · [essay](/nayana/returning-time-to-the-reader.html)
 - **[nodeBook](/projects/nodebook.html)** — building knowledge graphs in collaborative markdown. [Try it](https://nodebook.co.in) · [code](https://github.com/gnowgi/hedgedoc-nb)
